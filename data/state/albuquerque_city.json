@@ -1,0 +1,29 @@
+{
+  "source": "albuquerque_city",
+  "stages": {
+    "extract": {
+      "status": "success",
+      "at": "2026-07-19T01:32:08.230598+00:00",
+      "records": 54,
+      "fingerprint": "5253ecf312f26ac2",
+      "missing_expected": [],
+      "error_report": null,
+      "report_week": "July 05, 2026 to July 11, 2026",
+      "scope": "summary_table"
+    },
+    "transform": {
+      "status": "success",
+      "at": "2026-07-19T01:44:03.436886+00:00",
+      "records_in": 54,
+      "records_out": 54,
+      "validation_errors": 0,
+      "error_report": null
+    },
+    "load": {
+      "status": "success",
+      "at": "2026-07-19T01:44:03.848254+00:00",
+      "contributed": 54
+    }
+  },
+  "updated_at": "2026-07-19T01:44:03.848257+00:00"
+}

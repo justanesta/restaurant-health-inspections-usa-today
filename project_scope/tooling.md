@@ -1,0 +1,4 @@
+- uv for package management
+- Most recent/sensible supported version of python
+- pydantic for data validation
+- Lowest footprint packaging for everything else. 

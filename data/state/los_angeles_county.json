@@ -1,0 +1,30 @@
+{
+  "source": "los_angeles_county",
+  "stages": {
+    "extract": {
+      "status": "success",
+      "at": "2026-07-19T01:32:07.968993+00:00",
+      "records": 400,
+      "fingerprint": "29ccd46f295651f5",
+      "missing_expected": [],
+      "error_report": null,
+      "window_days": 90,
+      "cutoff": "2026-04-20",
+      "violation_rows": 2007
+    },
+    "transform": {
+      "status": "success",
+      "at": "2026-07-19T01:44:03.431677+00:00",
+      "records_in": 400,
+      "records_out": 400,
+      "validation_errors": 0,
+      "error_report": null
+    },
+    "load": {
+      "status": "success",
+      "at": "2026-07-19T01:44:03.848170+00:00",
+      "contributed": 400
+    }
+  },
+  "updated_at": "2026-07-19T01:44:03.848173+00:00"
+}

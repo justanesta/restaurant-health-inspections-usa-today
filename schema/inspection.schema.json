@@ -1,0 +1,296 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://usatoday.example/schemas/inspection-0.1.0.json",
+  "title": "Unified Restaurant Health Inspection",
+  "description": "Generated from schema/inspection_schema.yaml (v0.1.0). Do not edit by hand \u2014 run `python -m inspections.schema_gen`.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "description": "Version of this unified schema the record conforms to."
+    },
+    "inspection_uuid": {
+      "type": "string",
+      "format": "uuid",
+      "description": "Deterministic UUIDv5 (namespace + source + natural inspection key). Idempotent: re-running the pipeline yields the same id, so loads are safe to repeat (ADR 0007)."
+    },
+    "establishment_uuid": {
+      "type": "string",
+      "format": "uuid",
+      "description": "Deterministic UUIDv5 (namespace + source + facility/permit id). Groups inspections of one place. Cross-source / renamed-establishment identity is out of scope (ADR 0005)."
+    },
+    "source": {
+      "type": "string",
+      "enum": [
+        "new_york_state",
+        "los_angeles_county",
+        "albuquerque_city"
+      ],
+      "description": "Which source system produced the record."
+    },
+    "source_inspection_id": {
+      "type": "string",
+      "description": "Natural inspection identifier as it appears (or is composed) in the source."
+    },
+    "source_establishment_id": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Native facility/permit id used to key the establishment (NY operation id, LA FACILITY ID, ABQ permit #)."
+    },
+    "restaurant_name": {
+      "type": "string",
+      "description": "Canonical name of the establishment."
+    },
+    "address": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "street": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "city": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "state": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "2-letter USPS code"
+        },
+        "postal_code": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "ZIP; null where the source omits it (e.g. ABQ)"
+        }
+      },
+      "required": [],
+      "description": "Structured street address (a deliberate upgrade from the flat-string draft; see ADR 0008)."
+    },
+    "inspection_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Inspection date normalized to ISO-8601 (YYYY-MM-DD)."
+    },
+    "inspection_type": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Source-native inspection type/service (routine, reinspection, field visit, etc.)."
+    },
+    "inspection_result": {
+      "type": "string",
+      "enum": [
+        "pass",
+        "fail",
+        "unknown"
+      ],
+      "description": "Normalized outcome. Thin pass/fail via fixed per-source rules (ADR 0001). See result_basis."
+    },
+    "result_basis": {
+      "type": "string",
+      "description": "Plain-language explanation of HOW inspection_result was derived (transparency for reporters)."
+    },
+    "score": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Native numeric score where the regulator publishes one (LA: 0-100). Null when N/A."
+    },
+    "grade": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Native letter grade where published (LA: A/B/C). Null when N/A."
+    },
+    "critical_violation_count": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "description": "Count of critical/priority violations where derivable. Null when the source does not distinguish."
+    },
+    "total_violation_count": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "description": "Total violations recorded for the inspection where derivable."
+    },
+    "violations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "description": {
+            "type": "string"
+          },
+          "code": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "status": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "points": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "is_critical": {
+            "type": [
+              "boolean",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "description"
+        ]
+      },
+      "description": "Per-violation detail. MAY be empty (clean inspection, or ABQ summary-only per ADR 0004)."
+    },
+    "geography": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "county_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "county_fips": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "5-digit county GEOID (state FIPS + county FIPS)"
+        },
+        "state_fips": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "state": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "population": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "County population snapshot; null = flagged for refresh"
+        },
+        "population_vintage": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "enrichment_note": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Set when FIPS/population could not be resolved"
+        }
+      },
+      "required": [],
+      "description": "County-level geo identifiers + demographics enrichment (ADR 0002)."
+    },
+    "source_metadata": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "source_name": {
+          "type": "string"
+        },
+        "publisher": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "landing_url": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "extraction_method": {
+          "type": "string",
+          "enum": [
+            "api",
+            "flat_file",
+            "pdf"
+          ]
+        },
+        "source_dataset_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "extracted_at": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        }
+      },
+      "required": [
+        "source_name",
+        "extraction_method"
+      ],
+      "description": "Provenance for the record."
+    },
+    "ingested_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "When this normalized record was produced by the transform stage (UTC)."
+    }
+  },
+  "required": [
+    "schema_version",
+    "inspection_uuid",
+    "establishment_uuid",
+    "source",
+    "source_inspection_id",
+    "restaurant_name",
+    "address",
+    "inspection_date",
+    "inspection_result",
+    "result_basis",
+    "violations",
+    "geography",
+    "source_metadata",
+    "ingested_at"
+  ]
+}

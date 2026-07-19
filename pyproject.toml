@@ -1,0 +1,46 @@
+[project]
+name = "inspections"
+version = "0.1.0"
+description = "Unify restaurant health inspections from structurally-different sources into one schema (USA TODAY PoC)"
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [{ name = "Adrian Nesta" }]
+
+# Lowest-footprint dependency set (see project_scope/tooling.md):
+#   pydantic   — data validation / the runtime schema contract
+#   pyyaml     — read the authored YAML schema + config
+#   jsonschema — validate production JSON against the derived JSON Schema
+# HTTP uses the stdlib (urllib); PDF text uses the system `pdftotext` (poppler) via subprocess.
+dependencies = [
+    "pydantic>=2.6",
+    "pyyaml>=6.0",
+    "jsonschema>=4.21",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.6",
+]
+
+[project.scripts]
+inspections = "inspections.pipeline:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/inspections"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+markers = [
+    "network: tests that hit live source endpoints (deselect with -m 'not network')",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"

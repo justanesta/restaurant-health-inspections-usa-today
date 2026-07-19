@@ -1,0 +1,23 @@
+# Claude Code working files (not project deliverables)
+CLAUDE.*
+.claude/*
+memory/
+MEMORY.md
+
+# Python / uv
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+
+# OS
+.DS_Store
+
+# NOTE: data/ stages are intentionally NOT ignored — a small, real bounded slice
+# is committed so reviewers can see end-to-end output. Large raw payloads are
+# capped by `sample_limit` in config/sources.yaml. See documentation/operations.md.

@@ -1,0 +1,47 @@
+[
+  {
+    "nys_health_operation_id": "111",
+    "date": "2026-06-01T00:00:00.000",
+    "facility": "GOOD DINER",
+    "facility_address": "1 MAIN ST",
+    "city": "ALBANY",
+    "zip_code": "12207",
+    "food_service_facility_state": "NY",
+    "county": "ALBANY",
+    "inspection_type": "Inspection",
+    "total_critical_violations": "0",
+    "total_crit_not_corrected": "0",
+    "total_noncritical_violations": "1",
+    "violations": "Item  8A-  Something minor observed; Item  9B-  Another minor item"
+  },
+  {
+    "nys_health_operation_id": "222",
+    "date": "2026-05-15T00:00:00.000",
+    "facility": "RISKY BITES",
+    "facility_address": "2 ELM ST",
+    "city": "ROCHESTER",
+    "zip_code": "14604",
+    "food_service_facility_state": "NY",
+    "county": "MONROE",
+    "inspection_type": "Inspection",
+    "total_critical_violations": "3",
+    "total_crit_not_corrected": "2",
+    "total_noncritical_violations": "0",
+    "violations": "Item  5A-  Critical: potentially hazardous food held at improper temperature, not corrected"
+  },
+  {
+    "nys_health_operation_id": "333",
+    "date": "2026-04-30T00:00:00.000",
+    "facility": "NOWHERE CAFE",
+    "facility_address": "3 OAK ST",
+    "city": "XVILLE",
+    "zip_code": "00000",
+    "food_service_facility_state": "NY",
+    "county": "ATLANTIS",
+    "inspection_type": "Inspection",
+    "total_critical_violations": "0",
+    "total_crit_not_corrected": "0",
+    "total_noncritical_violations": "0",
+    "violations": ""
+  }
+]

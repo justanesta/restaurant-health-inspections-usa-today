@@ -1,0 +1,84 @@
+# ---------------------------------------------------------------------------
+# Hard-coded county geographic reference (county FIPS/GEOID + population).
+#
+# WHY hard-coded (not a live Census call): see
+#   documentation/decisions/0002-hardcoded-census-enrichment.md
+#
+# FIPS/GEOID  = stable public identifiers -> authoritative.
+# population  = ACS 2019-2023 5-year total (B01003_001E). NY counties are exact
+#               (all 62); CA/NM headline counties are rounded snapshots. A missing
+#               value is attached as null + flagged by enrichment, never fabricated.
+#
+# REFRESH / UPGRADE PATH (see scripts/build_geo_reference.py):
+#   * Address -> county FIPS   : Census Geocoder  (KEYLESS)
+#   * FIPS -> population/demo  : Census ACS 5-yr  (needs a FREE api key as of 2024+)
+#       https://api.census.gov/data/2023/acs/acs5?get=NAME,B01003_001E&for=county:037&in=state:06&key=KEY
+#   A publication can extend `demographics` here (median income, etc.) per its beat.
+# ---------------------------------------------------------------------------
+population_vintage: "ACS 2019-2023 5-year total population (B01003_001E)"
+
+counties:
+  "06037": { name: "Los Angeles", state: CA, state_fips: "06", population: 9663000 }
+  "35001": { name: "Bernalillo", state: NM, state_fips: "35", population: 676000 }
+  "36001": { name: "Albany", state: NY, state_fips: "36", population: 317018 }
+  "36003": { name: "Allegany", state: NY, state_fips: "36", population: 47159 }
+  "36005": { name: "Bronx", state: NY, state_fips: "36", population: 1404779 }
+  "36007": { name: "Broome", state: NY, state_fips: "36", population: 197378 }
+  "36009": { name: "Cattaraugus", state: NY, state_fips: "36", population: 76145 }
+  "36011": { name: "Cayuga", state: NY, state_fips: "36", population: 75102 }
+  "36013": { name: "Chautauqua", state: NY, state_fips: "36", population: 125544 }
+  "36015": { name: "Chemung", state: NY, state_fips: "36", population: 82147 }
+  "36017": { name: "Chenango", state: NY, state_fips: "36", population: 46321 }
+  "36019": { name: "Clinton", state: NY, state_fips: "36", population: 78493 }
+  "36021": { name: "Columbia", state: NY, state_fips: "36", population: 61100 }
+  "36023": { name: "Cortland", state: NY, state_fips: "36", population: 46246 }
+  "36025": { name: "Delaware", state: NY, state_fips: "36", population: 44487 }
+  "36027": { name: "Dutchess", state: NY, state_fips: "36", population: 298220 }
+  "36029": { name: "Erie", state: NY, state_fips: "36", population: 950622 }
+  "36031": { name: "Essex", state: NY, state_fips: "36", population: 36973 }
+  "36033": { name: "Franklin", state: NY, state_fips: "36", population: 46696 }
+  "36035": { name: "Fulton", state: NY, state_fips: "36", population: 52487 }
+  "36037": { name: "Genesee", state: NY, state_fips: "36", population: 57787 }
+  "36039": { name: "Greene", state: NY, state_fips: "36", population: 47409 }
+  "36041": { name: "Hamilton", state: NY, state_fips: "36", population: 5089 }
+  "36043": { name: "Herkimer", state: NY, state_fips: "36", population: 59757 }
+  "36045": { name: "Jefferson", state: NY, state_fips: "36", population: 115040 }
+  "36047": { name: "Kings", state: NY, state_fips: "36", population: 2631580 }
+  "36049": { name: "Lewis", state: NY, state_fips: "36", population: 26607 }
+  "36051": { name: "Livingston", state: NY, state_fips: "36", population: 61498 }
+  "36053": { name: "Madison", state: NY, state_fips: "36", population: 67328 }
+  "36055": { name: "Monroe", state: NY, state_fips: "36", population: 753753 }
+  "36057": { name: "Montgomery", state: NY, state_fips: "36", population: 49528 }
+  "36059": { name: "Nassau", state: NY, state_fips: "36", population: 1389591 }
+  "36061": { name: "New York", state: NY, state_fips: "36", population: 1629477 }
+  "36063": { name: "Niagara", state: NY, state_fips: "36", population: 210721 }
+  "36065": { name: "Oneida", state: NY, state_fips: "36", population: 229124 }
+  "36067": { name: "Onondaga", state: NY, state_fips: "36", population: 471129 }
+  "36069": { name: "Ontario", state: NY, state_fips: "36", population: 112625 }
+  "36071": { name: "Orange", state: NY, state_fips: "36", population: 406616 }
+  "36073": { name: "Orleans", state: NY, state_fips: "36", population: 39608 }
+  "36075": { name: "Oswego", state: NY, state_fips: "36", population: 117953 }
+  "36077": { name: "Otsego", state: NY, state_fips: "36", population: 60108 }
+  "36079": { name: "Putnam", state: NY, state_fips: "36", population: 98107 }
+  "36081": { name: "Queens", state: NY, state_fips: "36", population: 2323052 }
+  "36083": { name: "Rensselaer", state: NY, state_fips: "36", population: 160332 }
+  "36085": { name: "Richmond", state: NY, state_fips: "36", population: 494956 }
+  "36087": { name: "Rockland", state: NY, state_fips: "36", population: 341883 }
+  "36091": { name: "Saratoga", state: NY, state_fips: "36", population: 238284 }
+  "36093": { name: "Schenectady", state: NY, state_fips: "36", population: 160369 }
+  "36095": { name: "Schoharie", state: NY, state_fips: "36", population: 30049 }
+  "36097": { name: "Schuyler", state: NY, state_fips: "36", population: 17562 }
+  "36099": { name: "Seneca", state: NY, state_fips: "36", population: 32920 }
+  "36089": { name: "St. Lawrence", state: NY, state_fips: "36", population: 107226 }
+  "36101": { name: "Steuben", state: NY, state_fips: "36", population: 92588 }
+  "36103": { name: "Suffolk", state: NY, state_fips: "36", population: 1530146 }
+  "36105": { name: "Sullivan", state: NY, state_fips: "36", population: 79721 }
+  "36107": { name: "Tioga", state: NY, state_fips: "36", population: 47864 }
+  "36109": { name: "Tompkins", state: NY, state_fips: "36", population: 104537 }
+  "36111": { name: "Ulster", state: NY, state_fips: "36", population: 182601 }
+  "36113": { name: "Warren", state: NY, state_fips: "36", population: 65517 }
+  "36115": { name: "Washington", state: NY, state_fips: "36", population: 60522 }
+  "36117": { name: "Wayne", state: NY, state_fips: "36", population: 90929 }
+  "36119": { name: "Westchester", state: NY, state_fips: "36", population: 999677 }
+  "36121": { name: "Wyoming", state: NY, state_fips: "36", population: 39753 }
+  "36123": { name: "Yates", state: NY, state_fips: "36", population: 24526 }

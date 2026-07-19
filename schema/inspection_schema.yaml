@@ -1,0 +1,228 @@
+# ===========================================================================
+# CANONICAL unified schema for a restaurant health inspection record.
+#
+# THIS FILE IS THE SINGLE SOURCE OF TRUTH for the shape of a normalized record.
+# From it we DERIVE:
+#   * schema/inspection.schema.json   ->  python -m inspections.schema_gen
+#   * src/inspections/models.py       ->  hand-mirrored; kept honest by
+#                                         tests/unit/test_schema_contract.py
+#
+# Record grain = ONE INSPECTION EVENT. An establishment may have many.
+# Violations are nested as a child array (see ADR 0006 on grain).
+# Field <-> source provenance lives in `source_mappings` at the bottom and in
+# documentation/data-schemas.md — it evolves data_sources/initial_data_model.md.
+# ===========================================================================
+schema:
+  title: "Unified Restaurant Health Inspection"
+  version: "0.1.0"
+  id: "https://usatoday.example/schemas/inspection-0.1.0.json"
+  record_grain: "one inspection event"
+  primary_key: inspection_uuid
+
+# Controlled vocabularies. Referenced by fields via `enum: <name>`.
+enums:
+  source:
+    - new_york_state
+    - los_angeles_county
+    - albuquerque_city
+  extraction_method:
+    - api          # clean REST (Socrata SODA)
+    - flat_file    # downloadable CSV (ArcGIS Hub)
+    - pdf          # scraped PDF report
+  inspection_result:
+    - pass
+    - fail
+    - unknown      # derivation could not classify -> kept explicit, never silently "pass"
+
+fields:
+  - name: schema_version
+    type: string
+    required: true
+    description: "Version of this unified schema the record conforms to."
+
+  - name: inspection_uuid
+    type: string
+    format: uuid
+    required: true
+    description: >-
+      Deterministic UUIDv5 (namespace + source + natural inspection key). Idempotent:
+      re-running the pipeline yields the same id, so loads are safe to repeat (ADR 0007).
+
+  - name: establishment_uuid
+    type: string
+    format: uuid
+    required: true
+    description: >-
+      Deterministic UUIDv5 (namespace + source + facility/permit id). Groups inspections of
+      one place. Cross-source / renamed-establishment identity is out of scope (ADR 0005).
+
+  - name: source
+    type: enum
+    enum: source
+    required: true
+    description: "Which source system produced the record."
+
+  - name: source_inspection_id
+    type: string
+    required: true
+    description: "Natural inspection identifier as it appears (or is composed) in the source."
+
+  - name: source_establishment_id
+    type: string
+    required: false
+    nullable: true
+    description: "Native facility/permit id used to key the establishment (NY operation id, LA FACILITY ID, ABQ permit #)."
+
+  - name: restaurant_name
+    type: string
+    required: true
+    description: "Canonical name of the establishment."
+
+  - name: address
+    type: object
+    required: true
+    description: "Structured street address (a deliberate upgrade from the flat-string draft; see ADR 0008)."
+    properties:
+      street: { type: string, nullable: true }
+      city: { type: string, nullable: true }
+      state: { type: string, nullable: true, description: "2-letter USPS code" }
+      postal_code: { type: string, nullable: true, description: "ZIP; null where the source omits it (e.g. ABQ)" }
+
+  - name: inspection_date
+    type: string
+    format: date
+    required: true
+    description: "Inspection date normalized to ISO-8601 (YYYY-MM-DD)."
+
+  - name: inspection_type
+    type: string
+    nullable: true
+    description: "Source-native inspection type/service (routine, reinspection, field visit, etc.)."
+
+  - name: inspection_result
+    type: enum
+    enum: inspection_result
+    required: true
+    description: "Normalized outcome. Thin pass/fail via fixed per-source rules (ADR 0001). See result_basis."
+
+  - name: result_basis
+    type: string
+    required: true
+    description: "Plain-language explanation of HOW inspection_result was derived (transparency for reporters)."
+
+  - name: score
+    type: number
+    nullable: true
+    description: "Native numeric score where the regulator publishes one (LA: 0-100). Null when N/A."
+
+  - name: grade
+    type: string
+    nullable: true
+    description: "Native letter grade where published (LA: A/B/C). Null when N/A."
+
+  - name: critical_violation_count
+    type: integer
+    nullable: true
+    description: "Count of critical/priority violations where derivable. Null when the source does not distinguish."
+
+  - name: total_violation_count
+    type: integer
+    nullable: true
+    description: "Total violations recorded for the inspection where derivable."
+
+  - name: violations
+    type: array
+    required: true
+    description: "Per-violation detail. MAY be empty (clean inspection, or ABQ summary-only per ADR 0004)."
+    items:
+      type: object
+      properties:
+        description: { type: string }
+        code: { type: string, nullable: true }
+        status: { type: string, nullable: true }
+        points: { type: number, nullable: true }
+        is_critical: { type: boolean, nullable: true }
+
+  - name: geography
+    type: object
+    required: true
+    description: "County-level geo identifiers + demographics enrichment (ADR 0002)."
+    properties:
+      county_name: { type: string, nullable: true }
+      county_fips: { type: string, nullable: true, description: "5-digit county GEOID (state FIPS + county FIPS)" }
+      state_fips: { type: string, nullable: true }
+      state: { type: string, nullable: true }
+      population: { type: integer, nullable: true, description: "County population snapshot; null = flagged for refresh" }
+      population_vintage: { type: string, nullable: true }
+      enrichment_note: { type: string, nullable: true, description: "Set when FIPS/population could not be resolved" }
+
+  - name: source_metadata
+    type: object
+    required: true
+    description: "Provenance for the record."
+    properties:
+      source_name: { type: string }
+      publisher: { type: string, nullable: true }
+      landing_url: { type: string, nullable: true }
+      extraction_method: { type: enum, enum: extraction_method }
+      source_dataset_id: { type: string, nullable: true }
+      extracted_at: { type: string, format: date-time, nullable: true }
+
+  - name: ingested_at
+    type: string
+    format: date-time
+    required: true
+    description: "When this normalized record was produced by the transform stage (UTC)."
+
+# ---------------------------------------------------------------------------
+# PROVENANCE (documentation only; not emitted into the JSON Schema).
+# How each target field is populated from each source. Evolves initial_data_model.md.
+# ---------------------------------------------------------------------------
+source_mappings:
+  new_york_state:
+    grain: "1 row = 1 establishment's LAST inspection"
+    restaurant_name: facility
+    address: { street: facility_address, city: city, state: food_service_facility_state, postal_code: zip_code }
+    inspection_date: date
+    inspection_type: inspection_type
+    source_inspection_id: "nys_health_operation_id + '|' + date"
+    source_establishment_id: nys_health_operation_id
+    inspection_result: "fail if total_crit_not_corrected > 0 else pass  (ADR 0001)"
+    score: null
+    grade: null
+    critical_violation_count: total_critical_violations
+    total_violation_count: "total_critical_violations + total_noncritical_violations"
+    violations: "single `violations` text blob, split on 'Item NNx-' markers; is_critical unknown per-item"
+    county: county
+
+  los_angeles_county:
+    grain: "1 row = 1 program-element per inspection; violations in a second file"
+    restaurant_name: "FACILITY NAME"
+    address: { street: "FACILITY ADDRESS", city: "FACILITY CITY", state: "FACILITY STATE", postal_code: "FACILITY ZIP" }
+    inspection_date: "ACTIVITY DATE"
+    inspection_type: "SERVICE DESCRIPTION"
+    source_inspection_id: "SERIAL NUMBER"
+    source_establishment_id: "FACILITY ID"
+    inspection_result: "fail if SCORE < 70 else pass  (ADR 0001)"
+    score: SCORE
+    grade: GRADE
+    critical_violation_count: "count(violations where points >= 4)  # documented heuristic"
+    total_violation_count: "count(joined violation rows)"
+    violations: "join violations file on SERIAL NUMBER -> {code, description, status, points}"
+    county: "constant: Los Angeles (06037)"
+
+  albuquerque_city:
+    grain: "1 row = 1 inspection in the rolling weekly report (summary table only)"
+    restaurant_name: "establishment header, text before ' - '"
+    address: { street: "establishment header, text after ' - '", city: "constant: Albuquerque", state: "constant: NM", postal_code: null }
+    inspection_date: "Inspection Date column"
+    inspection_type: "Inspection Type column"
+    source_inspection_id: "permit# + '|' + date + '|' + Inspection ID Number  (ID alone is not always unique)"
+    source_establishment_id: "Permit # (from the 'Permit # - XXX' line)"
+    inspection_result: "fail if status contains Unsatisfactory/Closure OR operational status Closed; else pass  (ADR 0001)"
+    score: null
+    grade: null
+    critical_violation_count: null
+    total_violation_count: null
+    violations: "[] — summary table carries none; detail-page parsing is future work (ADR 0004)"
+    county: "constant: Bernalillo (35001)"

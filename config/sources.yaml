@@ -1,0 +1,70 @@
+# ---------------------------------------------------------------------------
+# Source registry — the ONE place a new inspection source is declared.
+# Adding a source = add an entry here + an extractor/transformer keyed by `key`.
+# The pipeline iterates this file; nothing else hard-codes the source list.
+# See documentation/architecture.md ("Adding a source").
+# ---------------------------------------------------------------------------
+schema_version: "0.1.0"
+
+# Bounded recent slice for the PoC (ADR 0003). Applied server-side/at-read:
+#   NY  -> filter by `date`         >= today - window_days
+#   LA  -> filter by `ACTIVITY DATE` >= today - window_days
+#   ABQ -> inherently one week (the rolling report); window_days ignored
+window_days: 90
+
+# Per-source row cap for the COMMITTED demo slice so the repo stays light.
+# Set to null for a full production pull. See documentation/operations.md.
+sample_limit: 400
+
+sources:
+  - key: new_york_state
+    name: "New York State — Food Service Establishment: Last Inspection"
+    enabled: true
+    extraction_method: api            # Socrata SODA (structural challenge: clean REST API)
+    publisher: "New York State Department of Health"
+    landing_url: "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data"
+    grain: "one row per establishment (its most recent inspection only)"
+    soda:
+      resource_url: "https://health.data.ny.gov/resource/cnih-y5dw.json"
+      dataset_id: "cnih-y5dw"
+      date_field: "date"
+      page_size: 5000                 # SODA hard-caps 50000; 5000 keeps payloads modest
+    geo:
+      level: county
+      county_field: county            # resolve FIPS from this per-row county name
+      state_fips: "36"
+      state: NY
+
+  - key: los_angeles_county
+    name: "Los Angeles County — Environmental Health Restaurant & Market Inspections"
+    enabled: true
+    extraction_method: flat_file      # ArcGIS Hub CSV x2 (structural challenge: multi-file join)
+    publisher: "Los Angeles County Department of Public Health"
+    landing_url: "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about"
+    grain: "one row per program-element per inspection; violations in a joined file"
+    arcgis:
+      inspections_url: "https://www.arcgis.com/sharing/rest/content/items/19b6607ac82c4512b10811870975dbdc/data"
+      violations_url: "https://www.arcgis.com/sharing/rest/content/items/5eaea9f89b7549ee841da7617d3a9cba/data"
+      date_field: "ACTIVITY DATE"
+      join_key: "SERIAL NUMBER"
+    geo:
+      level: county
+      county_fips: "06037"            # entire dataset is LA County
+      state_fips: "06"
+      state: CA
+
+  - key: albuquerque_city
+    name: "City of Albuquerque — Consumer Health Protection Weekly Media Report"
+    enabled: true
+    extraction_method: pdf            # weekly PDF (structural challenge: parse a rolling PDF)
+    publisher: "City of Albuquerque Environmental Health Department"
+    landing_url: "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results"
+    grain: "one row per inspection in the latest weekly report (rolling snapshot)"
+    pdf:
+      report_url: "https://www.cabq.gov/environmentalhealth/documents/chpd_main_inspection_report.pdf"
+      scope: summary_table            # PoC parses the pp.1-4 summary; detail-page violations = future work (ADR 0004)
+    geo:
+      level: county
+      county_fips: "35001"            # Albuquerque sits in Bernalillo County
+      state_fips: "35"
+      state: NM

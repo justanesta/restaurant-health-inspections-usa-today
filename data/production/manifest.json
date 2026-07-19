@@ -1,0 +1,68 @@
+{
+  "generated_at": "2026-07-19T01:44:03.846929+00:00",
+  "schema_version": "0.1.0",
+  "window_days": 90,
+  "sample_limit": 400,
+  "total_inspections": 854,
+  "per_source": {
+    "new_york_state": 400,
+    "los_angeles_county": 400,
+    "albuquerque_city": 54
+  },
+  "result_breakdown": {
+    "pass": 847,
+    "fail": 7
+  },
+  "sources": [
+    {
+      "key": "new_york_state",
+      "name": "New York State \u2014 Food Service Establishment: Last Inspection",
+      "extraction_method": "api",
+      "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
+      "extract_state": {
+        "status": "success",
+        "at": "2026-07-19T01:32:03.102156+00:00",
+        "records": 400,
+        "fingerprint": "d2141607b506025f",
+        "missing_expected": [],
+        "error_report": null,
+        "window_days": 90,
+        "cutoff": "2026-04-20",
+        "dataset_id": "cnih-y5dw"
+      }
+    },
+    {
+      "key": "los_angeles_county",
+      "name": "Los Angeles County \u2014 Environmental Health Restaurant & Market Inspections",
+      "extraction_method": "flat_file",
+      "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
+      "extract_state": {
+        "status": "success",
+        "at": "2026-07-19T01:32:07.968993+00:00",
+        "records": 400,
+        "fingerprint": "29ccd46f295651f5",
+        "missing_expected": [],
+        "error_report": null,
+        "window_days": 90,
+        "cutoff": "2026-04-20",
+        "violation_rows": 2007
+      }
+    },
+    {
+      "key": "albuquerque_city",
+      "name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "extraction_method": "pdf",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extract_state": {
+        "status": "success",
+        "at": "2026-07-19T01:32:08.230598+00:00",
+        "records": 54,
+        "fingerprint": "5253ecf312f26ac2",
+        "missing_expected": [],
+        "error_report": null,
+        "report_week": "July 05, 2026 to July 11, 2026",
+        "scope": "summary_table"
+      }
+    }
+  ]
+}

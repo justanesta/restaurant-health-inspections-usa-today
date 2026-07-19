@@ -1,0 +1,47 @@
+name: load
+
+# STAGE 3. Triggered ONLY when `transform` completes successfully, or manually.
+# Combines staging -> data/production/inspections.json after a final JSON Schema gate
+# (a bad batch is refused, leaving prior production intact). The committed production file's
+# raw GitHub URL is the delivery endpoint (Slack hook / RSS / email — see
+# documentation/answer_sheet.md "Delivery").
+
+on:
+  workflow_run:
+    workflows: ["transform"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: inspections-pipeline
+  cancel-in-progress: false
+
+jobs:
+  load:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_branch || github.ref_name }}
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - run: uv sync
+
+      - name: Load (combine + validate)
+        run: uv run inspections load
+
+      - name: Commit production + state
+        run: |
+          git config user.name "inspections-bot"
+          git config user.email "inspections-bot@users.noreply.github.com"
+          git pull --rebase --autostash || true
+          git add data/production data/state data/errors
+          git commit -m "load: ${{ github.run_id }} ($(date -u +%FT%TZ))" || echo "no changes to commit"
+          git push
