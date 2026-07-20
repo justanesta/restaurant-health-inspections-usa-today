@@ -3,13 +3,15 @@
 A proof-of-concept that pulls the **same** restaurant-inspection fields out of three
 **structurally different** government sources and normalizes them into **one schema**.
 
-It exists to answer a design question, not to be a finished product: *how do you collect
-one consistent set of fields from sources that share nothing structurally, as a single
-repeatable automation instead of a pile of one-off scripts?* The reasoning — schema
-trade-offs, scaling, breakage handling, delivery to reporters — lives in
+It's meant to work through a design question rather than ship a finished product: how do you
+collect one consistent set of fields from sources that share no common structure, and do it as a
+single repeatable automation instead of a pile of one-off scripts? The reasoning behind the schema
+trade-offs, scaling, breakage handling, and delivery to reporters lives in
 [`documentation/`](documentation/) and the [answer sheet](documentation/answer_sheet.md).
 
-## The three sources (deliberately different structural challenges)
+## The three sources
+
+Each source was picked for a different structural challenge, so no two share an extraction shape.
 
 | Source | Structure | Extraction | Grain | Violations |
 |---|---|---|---|---|
@@ -17,8 +19,8 @@ trade-offs, scaling, breakage handling, delivery to reporters — lives in
 | **Los Angeles County** | Two downloadable CSV flat files | `flat_file` | 1 row = a program-element per inspection | separate file, joined on `SERIAL NUMBER` |
 | **City of Albuquerque** | Weekly PDF "Media Report" | `pdf` | 1 row = an inspection in the current week | (summary-only in this PoC) |
 
-One clean API, one multi-file CSV join, one rolling PDF scrape — three genuinely
-different extraction shapes converging on the same output record.
+New York is a clean API, LA a multi-file CSV join, Albuquerque a rolling PDF scrape. Each is a
+different extraction problem, and all three produce the same output record.
 
 ## Data flow
 
@@ -37,7 +39,7 @@ extract ─► data/raw/    transform ─► data/staging/   load ─► data/pr
 ```
 
 Everything after the raw landing zone is **JSON conforming to a JSON Schema**
-(`schema/inspection.schema.json`), which is **derived from** the authored
+(`schema/inspection.schema.json`), which is generated from the authored
 [`schema/inspection_schema.yaml`](schema/inspection_schema.yaml).
 
 ## Quickstart
@@ -77,8 +79,7 @@ documentation/ architecture · data-schemas · development · operations · deci
 
 ## Design decisions & scope
 
-This is intentionally thin. The four scoping calls that shape it — Albuquerque
-summary-only, county-level hard-coded Census enrichment, a bounded recent data slice,
-and a thin pass/fail result model — are recorded as **ADRs** in
-[`documentation/decisions/`](documentation/decisions/). Start there and with the
-[answer sheet](documentation/answer_sheet.md) to understand *why* it looks the way it does.
+The scope is small on purpose. Four scoping calls shape it: Albuquerque summary-only, county-level
+hard-coded Census enrichment, a bounded recent data slice, and a thin pass/fail result model. Each
+is written up as an **ADR** in [`documentation/decisions/`](documentation/decisions/). Start there
+and with the [answer sheet](documentation/answer_sheet.md) for why it looks the way it does.

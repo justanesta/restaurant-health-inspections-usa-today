@@ -1,14 +1,14 @@
 # Data Schemas
 
 **Status:** Active · The unified record, per-source field mappings, and validation rules.
-The **single source of truth** is [`schema/inspection_schema.yaml`](../schema/inspection_schema.yaml);
+The single source of truth is [`schema/inspection_schema.yaml`](../schema/inspection_schema.yaml);
 this doc explains it. The machine contract `schema/inspection.schema.json` is generated from it.
 
-## The unified record (one inspection event — [ADR 0006](decisions/0006-record-grain.md))
+## The unified record (one inspection event, [ADR 0006](decisions/0006-record-grain.md))
 
 | Field | Type | Notes |
 |---|---|---|
-| `schema_version` | string | schema this record conforms to |
+| `schema_version` | string | semver of the schema this record conforms to |
 | `inspection_uuid` | uuid | deterministic; PK ([ADR 0007](decisions/0007-deterministic-uuids.md)) |
 | `establishment_uuid` | uuid | deterministic; groups a place's inspections ([ADR 0005](decisions/0005-establishment-identity.md)) |
 | `source` | enum | `new_york_state` · `los_angeles_county` · `albuquerque_city` |
@@ -28,6 +28,10 @@ this doc explains it. The machine contract `schema/inspection.schema.json` is ge
 | `geography` | object | county name/FIPS/state + population snapshot + `enrichment_note` |
 | `source_metadata` | object | provenance: source name, publisher, url, method, dataset id, `extracted_at` |
 | `ingested_at` | datetime | when the transform produced this record (UTC) |
+
+`source_metadata` repeats a few per-source constants (name, publisher, url, method, dataset id) on
+every record. That redundancy is on purpose: a single inspection stays self-describing and citable on
+its own (say, dropped into a Slack alert or an RSS item) without a join back to the manifest.
 
 ## Per-source field mapping
 
@@ -52,19 +56,21 @@ YAML. Summary:
 | `violations[]` | `violations` blob, split on `Item` | join on `SERIAL NUMBER` | `[]` ([ADR 0004](decisions/0004-albuquerque-summary-only.md)) |
 | `geography` | by `county` name → FIPS | const `06037` | const `35001` |
 
-Notes: LA `is_critical` uses a documented heuristic (point deduction ≥ 4). NY only publishes aggregate
-counts, so per-item `is_critical` is null.
+Notes: LA `is_critical` uses a documented heuristic (point deduction ≥ 4). NY only publishes
+aggregate counts, so per-item `is_critical` is null.
 
 ## Validation rules (three gates)
 
-1. **post-extract** — `EXPECTED_FIELDS` present? Missing ⇒ upstream drift ⇒ source failed, transform skipped.
-2. **post-transform** — each record satisfies the pydantic `Inspection` model (`extra="forbid"`, types,
-   enums, required). Failures quarantined to `data/errors/`, valid records continue.
-3. **pre-load** — merged set validates against `inspection.schema.json`. Any violation ⇒ load refused,
-   production untouched.
+1. **post-extract**: are the `EXPECTED_FIELDS` present? Missing fields mean upstream drift, so the
+   source is marked failed and its transform is skipped.
+2. **post-transform**: each record satisfies the pydantic `Inspection` model (`extra="forbid"`, plus
+   types, enums, and required fields). Failures are quarantined to `data/errors/`; valid records
+   continue.
+3. **pre-load**: the merged set validates against `inspection.schema.json`. Any violation refuses the
+   load and leaves production untouched.
 
 ## Evolving the schema
 
-Edit `schema/inspection_schema.yaml` → run `python -m inspections.schema_gen` → update `models.py` to
-match. `tests/unit/test_schema_contract.py` fails if the YAML, the pydantic model, and the committed
-JSON Schema disagree, so they cannot silently drift.
+Edit `schema/inspection_schema.yaml`, run `python -m inspections.schema_gen`, then update `models.py`
+to match. `tests/unit/test_schema_contract.py` fails if the YAML, the pydantic model, and the
+committed JSON Schema disagree, so they can't silently drift.

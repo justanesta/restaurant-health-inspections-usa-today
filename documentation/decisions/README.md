@@ -1,8 +1,8 @@
 # Architectural Decision Records
 
-Each ADR captures **one decision**: its context, the call, and the consequences. Code and
-schema reference these by number (e.g. `ADR 0001`). Superseding an ADR = add a new one and
-mark the old one Superseded; never silently rewrite.
+Each ADR captures one decision: its context, the call, and the consequences. Code and schema
+reference these by number (e.g. `ADR 0001`). To supersede an ADR, add a new one and mark the old one
+Superseded; never silently rewrite.
 
 | # | Decision | Status |
 |---|---|---|

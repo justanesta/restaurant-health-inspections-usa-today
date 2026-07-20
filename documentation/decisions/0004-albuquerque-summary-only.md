@@ -9,13 +9,13 @@ permit, operational status, and per-inspection date / id / type / status) and **
 `pdftotext -layout`; the detail pages are messy prose.
 
 ## Decision
-Parse the **summary table only**. `violations` is `[]` for ABQ; the outcome comes from the status
+Parse the **summary table only**. `violations` is `[]` for ABQ, and the outcome comes from the status
 field ([0001](0001-thin-pass-fail-result.md)). Detail-page violation extraction is explicitly
 **future work**.
 
 ## Consequences
-- ABQ contributes establishment + result + type reliably, with no violation detail — an honest,
-  low-fragility slice. `total_violation_count` is null (unknown), not zero-implying-clean.
+- ABQ contributes establishment, result, and type reliably, with no violation detail: a low-fragility
+  slice. `total_violation_count` is null (unknown), not zero (which would imply clean).
 - The summary parser already handles the real edge cases (verified against a live report): multiple
   permits per establishment, multiple inspections per establishment, en-dash vs hyphen, repeated
   addresses, page footers.

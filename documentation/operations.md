@@ -5,21 +5,22 @@
 ## Scheduling (GitHub Actions)
 
 Three chained workflows in `.github/workflows/`, each committing its stage output back to the repo
-(the PoC's "storage layer"):
+(the PoC's storage layer):
 
 ```
 extract.yml  (cron weekly + workflow_dispatch)  ──success──▶  transform.yml (workflow_run)  ──success──▶  load.yml (workflow_run)
 ```
 
-- Later stages fire **only on the previous one's success** (`workflow_run` + a `conclusion == 'success'`
-  gate), so bad data never propagates.
-- Any stage is independently re-runnable via **workflow_dispatch**; `extract` takes an optional
-  `source` input.
-- `ci.yml` runs lint + the hermetic test suite on every push/PR (and fails if the committed JSON
-  Schema is stale).
+- Each later stage fires only when the previous one succeeds (`workflow_run` plus a
+  `conclusion == 'success'` gate), so bad data never propagates.
+- Any stage can be re-run on its own via **workflow_dispatch**; `extract` takes an optional `source`
+  input.
+- `ci.yml` runs lint and the hermetic test suite on every push and PR, and fails if the committed
+  JSON Schema is stale.
 
-Cadence note: the single weekly cron matches ABQ (weekly). NY refreshes monthly and LA quarterly — a
-real deploy would split per-source schedules (or a matrix) rather than re-pull everything weekly.
+Cadence: the single weekly cron matches ABQ (weekly). NY refreshes monthly and LA quarterly, so a
+real deploy would split the schedules per source (or use a matrix) rather than re-pull everything
+weekly.
 
 ## Knobs (`config/sources.yaml`)
 
@@ -29,33 +30,34 @@ real deploy would split per-source schedules (or a matrix) rather than re-pull e
 | `sample_limit` (400) | per-source cap for the committed slice; `null` = full pull |
 | `sources[].enabled` | turn a source on/off |
 
-For a full backfill: `sample_limit: null`, raise `window_days`, and move the raw layer out of git
-(see [architecture.md](architecture.md) "Scaling").
+For a full backfill: set `sample_limit: null`, raise `window_days`, and move the raw layer out of git
+(see the "Scaling" section of [architecture.md](architecture.md)).
 
 ## Monitoring
 
-- **Per-source health**: `data/state/<source>.json` — last status per stage, record counts, the source
-  `fingerprint`, error counts, and the window used. `data/production/manifest.json` — totals,
-  per-source counts, pass/fail breakdown, and each source's extract state.
-- **Logs**: structured JSON lines on stderr (`event`, `source`, counts, `status`) — greppable and
-  ready to ship to CloudWatch/Datadog.
-- **Where a real deploy would add observability**: data-quality monitors (Great Expectations / Soda)
-  at the pre-load gate; error tracking (Sentry) around extractor/transport failures; freshness SLAs
-  per source keyed off `state.updated_at`.
+- **Per-source health**: `data/state/<source>.json` holds the last status per stage, record counts,
+  the source `fingerprint`, error counts, and the window used. `data/production/manifest.json` holds
+  totals, per-source counts, the pass/fail breakdown, and each source's extract state.
+- **Logs**: structured JSON lines on stderr (`event`, `source`, counts, `status`), greppable and
+  ready to ship to CloudWatch or Datadog.
+- **Where a real deploy would add observability**: data-quality monitors (Great Expectations or Soda)
+  at the pre-load gate, error tracking (Sentry) around extractor and transport failures, and
+  per-source freshness SLAs keyed off `state.updated_at`.
 
 ## Troubleshooting
 
 | Symptom | Look at | Likely cause / action |
 |---|---|---|
 | stage exit code 1 | newest `data/errors/*.txt` + `data/state/*.json` | drift / validation / load-refusal; details in the report |
-| `extract` lists missing fields | `data/raw/<source>/`, `fingerprint` vs last run | source changed shape → fix the extractor's `EXPECTED_FIELDS`/mapping |
+| `extract` lists missing fields | `data/raw/<source>/`, `fingerprint` vs last run | source changed shape; fix the extractor's `EXPECTED_FIELDS`/mapping |
 | `load.refused` | `data/errors/load__combined__*.txt` | a record failed the JSON Schema gate; production left intact |
 | ABQ record_count = 0 | `pdftotext` installed? report layout changed? | reinstall poppler; re-inspect the summary layout |
 | population null on many rows | `config/geo_reference.yaml` | expected for non-headline counties ([ADR 0002](decisions/0002-hardcoded-census-enrichment.md)); refresh via `scripts/build_geo_reference.py` |
 
 ## Idempotency & re-runs
 
-Re-running is safe — ids and business content are stable ([ADR 0007](decisions/0007-deterministic-uuids.md)).
-`ingested_at`/`extracted_at` timestamps do change each run, so a re-run produces a small git diff even
-when nothing substantive changed. That's expected; the manifest's counts/breakdown are the real "did
-anything change?" signal.
+Re-running is safe: ids and business content are stable
+([ADR 0007](decisions/0007-deterministic-uuids.md)). The `ingested_at` and `extracted_at` timestamps
+do change each run, so a re-run produces a small git diff even when nothing substantive changed.
+That's expected; the manifest's counts and breakdown are the real signal for whether anything
+changed.
