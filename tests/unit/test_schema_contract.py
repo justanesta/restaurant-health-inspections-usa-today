@@ -7,6 +7,7 @@ import json
 import jsonschema
 import yaml
 
+from inspections import SCHEMA_VERSION
 from inspections.models import ExtractionMethod, InspectionResult, Inspection, Source
 from inspections.paths import SCHEMA_JSON, SCHEMA_YAML
 from inspections.schema_gen import build_json_schema
@@ -42,3 +43,9 @@ def test_committed_schema_is_up_to_date():
 def test_required_fields_are_a_subset_of_model_fields():
     required = {f["name"] for f in _yaml()["fields"] if f.get("required")}
     assert required <= set(Inspection.model_fields)
+
+
+def test_schema_version_constants_agree():
+    """The schema version is authored in the YAML and stamped onto records by the
+    Python constant; the two must never drift (records would misreport their contract)."""
+    assert SCHEMA_VERSION == _yaml()["schema"]["version"]

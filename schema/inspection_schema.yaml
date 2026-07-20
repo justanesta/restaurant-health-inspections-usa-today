@@ -15,7 +15,12 @@
 schema:
   title: "Unified Restaurant Health Inspection"
   version: "0.1.0"
-  id: "https://usatoday.example/schemas/inspection-0.1.0.json"
+  # Version-less base URI for the schema's identity. The concrete JSON Schema
+  # `$id` (`<id_base>-<version>.json`) is DERIVED from `version` at generation
+  # time so the two can never drift. This is an *identifier*, not a live URL
+  # (`.example` never resolves); in a real product it becomes a resolvable
+  # schema-registry URL, e.g. https://schemas.usatoday.com/health-inspections/inspection/<version>.json
+  id_base: "https://usatoday.example/schemas/inspection"
   record_grain: "one inspection event"
   primary_key: inspection_uuid
 
@@ -38,7 +43,11 @@ fields:
   - name: schema_version
     type: string
     required: true
-    description: "Version of this unified schema the record conforms to."
+    pattern: '^\d+\.\d+\.\d+$'
+    description: >-
+      Semver (major.minor.patch) of the unified schema this record conforms to.
+      Shape-constrained but not pinned to one value, so a mixed-version batch stays
+      valid and a consumer can select the matching schema per record.
 
   - name: inspection_uuid
     type: string

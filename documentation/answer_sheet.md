@@ -14,16 +14,16 @@ Chosen so no two share an extraction shape — the point is to prove one automat
 | Source | Structure | Extraction challenge | Grain |
 |---|---|---|---|
 | **New York State** | Socrata SODA **REST API** | the "easy" one: paginate, filter server-side; but data is a *last-inspection snapshot* with violations pre-aggregated into a text blob | 1 row / establishment |
-| **Los Angeles County** | two **CSV flat files** on ArcGIS Hub | 24 MB download, **multi-file join** (inspections ⋈ violations on `SERIAL NUMBER`), CP1252 encoding gremlins, program-element grain | 1 row / program / inspection |
+| **Los Angeles County** | two **CSV flat files** on ArcGIS Hub | 24 MB download, **multi-file join** (inspections ⋈ violations on `SERIAL NUMBER`), CP1252 encoding difficulties and a program-element grain | 1 row / program / inspection |
 | **City of Albuquerque** | weekly **PDF** "Media Report" | **scrape a rolling PDF**: layout parsing, no stable per-row id, no ZIP, summary-vs-detail layers, weekly snapshot (history must be accumulated) | 1 row / inspection / week |
 
-One clean API, one bulk-file join, one PDF scrape — three genuinely different problems. Detail in
+End result is handling one clean API, one bulk-file join, one PDF scrape. I purposefully chose three genuinely different problems. Detail in
 [sources/inspection_sources_findings.md](sources/inspection_sources_findings.md).
 
 ## 2. Normalizing different structures into one schema
 
-**Pattern: N thin adapters, one shared spine.** Each source has an *extractor* (owns its transport)
-and a *transformer* (maps native fields → the unified record). Everything else — validation,
+**Pattern: N number of thin adapters, one shared spine.** Each source has an *extractor* that owns its own transport
+and a *transformer* that maps native fields to the unified record. Everything else — validation,
 enrichment, id-minting, load, delivery — is written once and is source-agnostic.
 
 The unified record is **one inspection event** with violations nested ([ADR 0006](decisions/0006-record-grain.md)),
@@ -31,8 +31,8 @@ defined once in [`schema/inspection_schema.yaml`](../schema/inspection_schema.ya
 generated JSON Schema + a pydantic model. Key normalization calls:
 
 - **Outcome** — a thin `pass`/`fail`/`unknown` derived by a fixed rule per source, always paired with
-  a plain-language `result_basis` ([ADR 0001](decisions/0001-thin-pass-fail-result.md)). NY→
-  uncorrected-critical, LA→score<70, ABQ→status. Native `score`/`grade`/counts are carried through so
+  a plain-language `result_basis` ([ADR 0001](decisions/0001-thin-pass-fail-result.md)). NY is
+  uncorrected critical violations, LA is a score<70, ABQ is the status. Native `score`/`grade`/counts are carried through so
   the flattening is never lossy. *(This is the deliberate "flatten some edges" the brief anticipated;
   a cross-source risk index is the documented next step.)*
 - **Identity** — deterministic UUIDv5 for inspection and establishment ([ADR 0007](decisions/0007-deterministic-uuids.md)),
@@ -61,11 +61,11 @@ orchestrator (Prefect/Dagster/Airflow) as N grows — the stage boundaries alrea
 Three independent, **loud**, fail-safe guards — none can silently corrupt production
 ([architecture.md → Breakage handling](architecture.md#breakage-handling)):
 
-1. **Source changed shape** → post-extract `EXPECTED_FIELDS` drift check; a per-source `fingerprint`
+1. **Source changed shape**: post-extract `EXPECTED_FIELDS` drift check; a per-source `fingerprint`
    in state flags it; that source is marked failed and its transform is **skipped**.
-2. **Bad records** → post-transform pydantic contract quarantines them to `data/errors/` (dead-letter)
+2. **Bad records**: post-transform pydantic contract quarantines them to `data/errors/` (dead-letter)
    while good records proceed.
-3. **Polluted batch** → pre-load JSON Schema gate **refuses** the load and leaves prior production
+3. **Polluted batch**: pre-load JSON Schema gate **refuses** the load and leaves prior production
    intact.
 
 **Source down** → `http.py` separates transient (5xx/timeout → retry w/ backoff) from permanent (4xx →
@@ -75,10 +75,10 @@ report in `data/errors/` + a status in `data/state/`. Verified by an automated d
 (`tests/e2e/test_pipeline.py`). Productionizing this = Great Expectations/Soda at the gate, Sentry on
 transport errors, freshness SLAs per source.
 
-## 5. Delivery — surfacing newsworthy signals to reporters
+## 5. Delivery surfacing newsworthy signals to reporters
 
 The committed `data/production/inspections.json` is already a delivery endpoint: its **raw GitHub URL**
-drops straight into a Slack webhook, an email blast, or (reshaped) an **RSS feed** — no server needed.
+drops straight into a Slack webhook, an email blast, or (reshaped) an **RSS feed**. No server needed.
 On top of that one file:
 
 - **Alerts** — the record has everything to trip a newsroom alert: `inspection_result == "fail"`,
@@ -87,21 +87,21 @@ On top of that one file:
 - **Tip sheets** — a per-market weekly digest: filter by `geography.county_fips`, rank by severity,
   include `result_basis` + `restaurant_name` + `address`. Chains (same name across markets) and
   repeat offenders are the recurring story engines.
-- **Routing by beat/market** — `county_fips`/`state` map cleanly to a reporter's coverage area; the
-  county→population enrichment lets you weight "how big a deal is this" and normalize per-capita.
-- **Investigative** — the raw + staging layers are retained, so a reporter can drill from the headline
+- **Routing by beat/market** — `county_fips`/`state` can map cleanly to a reporter's coverage area. The
+  county population enrichment lets you weight "how big a deal is this" and normalize per-capita.
+- **Full data scope for investigative** — the raw + staging layers are retained, so a reporter can drill from the headline
   fail back to the exact violations / source record.
 
 ## Open questions for USA TODAY (from the brief)
 
 These shape the "more fleshed-out" version and are worth resolving early:
-- **Warehouse/infra** — is there a home for a medallion warehouse (DuckDB/BigQuery/Snowflake) + dbt
+- **Warehouse/infra**: is there a home for a medallion warehouse (DuckDB/BigQuery/Snowflake) + dbt
   downstream of raw object storage? That's the natural next layer.
-- **Backfill/history** — do we need to capture *inspection edits over time* (NY only exposes the latest
+- **Backfill/history**: do we need to capture *inspection edits over time* (NY only exposes the latest
   inspection; ABQ is weekly)? That argues for append-only history + slowly-changing dimensions.
-- **Observability** — is there appetite/support for data-quality monitoring (Monte Carlo / Soda) and
+- **Observability**: is there appetite/support for data-quality monitoring (Monte Carlo / Soda) and
   error tracking (Sentry)?
-- **Orchestration** — as source count grows, is there support/experience with Prefect / Dagster /
+- **Orchestration**: as source count grows, is there support/experience with Prefect / Dagster /
   Airflow?
-- **Presentation** — how far do we take delivery: raw JSON URL → Slack/RSS now, vs. a queryable API or
+- **Presentation**: how far do we take delivery: raw JSON URL hooked Slack/RSS now vs. a queryable API or
   a reporter-facing search UI later? What's the demand and who owns the front end?

@@ -42,6 +42,8 @@ def _node(spec: dict[str, Any], enums: dict[str, list[str]]) -> dict[str, Any]:
         out = {"type": _SCALAR[ftype]}
         if "format" in spec:
             out["format"] = spec["format"]
+        if "pattern" in spec:
+            out["pattern"] = spec["pattern"]
     elif ftype == "object":
         props = spec.get("properties", {})
         out = {
@@ -72,7 +74,8 @@ def build_json_schema() -> dict[str, Any]:
 
     return {
         "$schema": "https://json-schema.org/draft/2020-12/schema",
-        "$id": meta["id"],
+        # Derived from id_base + version so the version lives in exactly one place.
+        "$id": f"{meta['id_base']}-{meta['version']}.json",
         "title": meta["title"],
         "description": (
             f"Generated from schema/inspection_schema.yaml (v{meta['version']}). "

@@ -8,7 +8,8 @@
   "properties": {
     "schema_version": {
       "type": "string",
-      "description": "Version of this unified schema the record conforms to."
+      "pattern": "^\\d+\\.\\d+\\.\\d+$",
+      "description": "Semver (major.minor.patch) of the unified schema this record conforms to. Shape-constrained but not pinned to one value, so a mixed-version batch stays valid and a consumer can select the matching schema per record."
     },
     "inspection_uuid": {
       "type": "string",

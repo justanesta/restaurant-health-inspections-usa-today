@@ -61,10 +61,10 @@ So "the same data from differently-structured sources" becomes: *N thin adapters
 4. Register both in the `extractors/` and `transformers/` `__init__` registries.
 5. Add a fixture + a transform test.
 
-No schema change, no pipeline change, no loader change. The 4 000+ US jurisdictions that publish
+No schema change, no pipeline change, no loader change. The 4000+ US jurisdictions that publish
 inspections differ only in steps 2–3; everything else is written once. At larger N you'd group
 adapters by *shape* (Socrata, ArcGIS/Esri, HealthSpace, Accela, generic-CSV, PDF) so one adapter
-serves many jurisdictions by config — most "new sources" become a config row, not code.
+serves many jurisdictions by config. That way most "new sources" become a config row, not code.
 
 ## Scaling beyond the PoC
 
@@ -81,8 +81,8 @@ Three independent guards, each **loud** and each leaving production intact on fa
 1. **post-extract** — `EXPECTED_FIELDS` drift check catches a source changing shape; that source is
    marked failed and its transform is **skipped** (never normalize known-bad data).
 2. **post-transform** — every record runs the pydantic contract; bad records are quarantined, good
-   ones proceed (dead-letter).
-3. **pre-load** — JSON Schema gate over the merged set; on any violation the load is **refused** and
+   ones proceed. This is the dead-letter method.
+3. **pre-load** — JSON Schema gate over the merged set. On any violation the load is **refused** and
    the previous production file is untouched.
 
 Transient vs permanent transport errors are separated in `http.py` (retry 5xx/timeouts; fail fast on

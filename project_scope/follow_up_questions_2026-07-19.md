@@ -1,0 +1,2 @@
+- How is the "result_basis" data field in `inspections.json` being seeded? Determinisitically? Is it in the most ideal format and presentation for this product?
+- How necessary is the "source_metadata" data field in `inspections.json`? What is it buying us? Is it best practice or superfluous? 
