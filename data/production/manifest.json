@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T00:31:02.940793+00:00",
+  "generated_at": "2026-07-20T12:59:56.262084+00:00",
   "schema_version": "0.1.0",
   "window_days": 90,
   "sample_limit": 400,
@@ -21,13 +21,13 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extract_state": {
         "status": "success",
-        "at": "2026-07-19T01:32:03.102156+00:00",
+        "at": "2026-07-20T12:59:13.712822+00:00",
         "records": 400,
         "fingerprint": "d2141607b506025f",
         "missing_expected": [],
         "error_report": null,
         "window_days": 90,
-        "cutoff": "2026-04-20",
+        "cutoff": "2026-04-21",
         "dataset_id": "cnih-y5dw"
       }
     },
@@ -38,13 +38,13 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extract_state": {
         "status": "success",
-        "at": "2026-07-19T01:32:07.968993+00:00",
+        "at": "2026-07-20T12:59:17.879089+00:00",
         "records": 400,
         "fingerprint": "29ccd46f295651f5",
         "missing_expected": [],
         "error_report": null,
         "window_days": 90,
-        "cutoff": "2026-04-20",
+        "cutoff": "2026-04-21",
         "violation_rows": 2007
       }
     },
@@ -55,7 +55,7 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extract_state": {
         "status": "success",
-        "at": "2026-07-19T01:32:08.230598+00:00",
+        "at": "2026-07-20T12:59:18.122219+00:00",
         "records": 54,
         "fingerprint": "5253ecf312f26ac2",
         "missing_expected": [],
