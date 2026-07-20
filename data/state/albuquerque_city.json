@@ -3,7 +3,7 @@
   "stages": {
     "extract": {
       "status": "success",
-      "at": "2026-07-19T01:32:08.230598+00:00",
+      "at": "2026-07-20T12:59:18.122219+00:00",
       "records": 54,
       "fingerprint": "5253ecf312f26ac2",
       "missing_expected": [],
@@ -25,5 +25,5 @@
       "contributed": 54
     }
   },
-  "updated_at": "2026-07-20T00:31:02.942189+00:00"
+  "updated_at": "2026-07-20T12:59:18.122226+00:00"
 }
