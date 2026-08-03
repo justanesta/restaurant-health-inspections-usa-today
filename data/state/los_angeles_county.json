@@ -3,13 +3,13 @@
   "stages": {
     "extract": {
       "status": "success",
-      "at": "2026-07-27T13:31:33.930776+00:00",
+      "at": "2026-08-03T13:32:34.718980+00:00",
       "records": 400,
       "fingerprint": "29ccd46f295651f5",
       "missing_expected": [],
       "error_report": null,
       "window_days": 90,
-      "cutoff": "2026-04-28",
+      "cutoff": "2026-05-05",
       "violation_rows": 2007
     },
     "transform": {
@@ -26,5 +26,5 @@
       "contributed": 400
     }
   },
-  "updated_at": "2026-07-27T13:32:06.723685+00:00"
+  "updated_at": "2026-08-03T13:32:34.718996+00:00"
 }
