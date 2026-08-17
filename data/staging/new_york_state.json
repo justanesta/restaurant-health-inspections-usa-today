@@ -45,9 +45,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.491534Z"
+    "ingested_at": "2026-08-17T11:14:10.487187Z"
   },
   {
     "schema_version": "0.1.0",
@@ -109,9 +109,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.491657Z"
+    "ingested_at": "2026-08-17T11:14:10.487303Z"
   },
   {
     "schema_version": "0.1.0",
@@ -159,9 +159,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.491748Z"
+    "ingested_at": "2026-08-17T11:14:10.487392Z"
   },
   {
     "schema_version": "0.1.0",
@@ -209,9 +209,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.491835Z"
+    "ingested_at": "2026-08-17T11:14:10.487479Z"
   },
   {
     "schema_version": "0.1.0",
@@ -259,9 +259,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.491919Z"
+    "ingested_at": "2026-08-17T11:14:10.487561Z"
   },
   {
     "schema_version": "0.1.0",
@@ -316,9 +316,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.492007Z"
+    "ingested_at": "2026-08-17T11:14:10.487646Z"
   },
   {
     "schema_version": "0.1.0",
@@ -366,9 +366,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.492087Z"
+    "ingested_at": "2026-08-17T11:14:10.487726Z"
   },
   {
     "schema_version": "0.1.0",
@@ -437,9 +437,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.492173Z"
+    "ingested_at": "2026-08-17T11:14:10.487841Z"
   },
   {
     "schema_version": "0.1.0",
@@ -487,9 +487,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.492253Z"
+    "ingested_at": "2026-08-17T11:14:10.487923Z"
   },
   {
     "schema_version": "0.1.0",
@@ -544,9 +544,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.492335Z"
+    "ingested_at": "2026-08-17T11:14:10.488005Z"
   },
   {
     "schema_version": "0.1.0",
@@ -643,9 +643,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.492435Z"
+    "ingested_at": "2026-08-17T11:14:10.488104Z"
   },
   {
     "schema_version": "0.1.0",
@@ -693,9 +693,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.492546Z"
+    "ingested_at": "2026-08-17T11:14:10.488187Z"
   },
   {
     "schema_version": "0.1.0",
@@ -750,9 +750,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.492633Z"
+    "ingested_at": "2026-08-17T11:14:10.488270Z"
   },
   {
     "schema_version": "0.1.0",
@@ -814,9 +814,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.492725Z"
+    "ingested_at": "2026-08-17T11:14:10.488360Z"
   },
   {
     "schema_version": "0.1.0",
@@ -864,9 +864,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.492804Z"
+    "ingested_at": "2026-08-17T11:14:10.488438Z"
   },
   {
     "schema_version": "0.1.0",
@@ -914,9 +914,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.492882Z"
+    "ingested_at": "2026-08-17T11:14:10.488515Z"
   },
   {
     "schema_version": "0.1.0",
@@ -964,9 +964,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.492958Z"
+    "ingested_at": "2026-08-17T11:14:10.488591Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1042,9 +1042,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.493046Z"
+    "ingested_at": "2026-08-17T11:14:10.488679Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1092,9 +1092,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.493127Z"
+    "ingested_at": "2026-08-17T11:14:10.488777Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1170,9 +1170,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.493245Z"
+    "ingested_at": "2026-08-17T11:14:10.488872Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1234,9 +1234,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.493348Z"
+    "ingested_at": "2026-08-17T11:14:10.488959Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1326,9 +1326,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.493445Z"
+    "ingested_at": "2026-08-17T11:14:10.489056Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1376,9 +1376,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.493568Z"
+    "ingested_at": "2026-08-17T11:14:10.489132Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1468,9 +1468,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.493666Z"
+    "ingested_at": "2026-08-17T11:14:10.489224Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1525,9 +1525,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.493748Z"
+    "ingested_at": "2026-08-17T11:14:10.489303Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1582,9 +1582,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.493830Z"
+    "ingested_at": "2026-08-17T11:14:10.489385Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1632,9 +1632,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.493917Z"
+    "ingested_at": "2026-08-17T11:14:10.489462Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1703,9 +1703,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.494009Z"
+    "ingested_at": "2026-08-17T11:14:10.489548Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1753,9 +1753,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.494087Z"
+    "ingested_at": "2026-08-17T11:14:10.489626Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1803,9 +1803,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.494169Z"
+    "ingested_at": "2026-08-17T11:14:10.489705Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1867,9 +1867,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.494264Z"
+    "ingested_at": "2026-08-17T11:14:10.489812Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1917,9 +1917,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.494340Z"
+    "ingested_at": "2026-08-17T11:14:10.489890Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1967,9 +1967,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.494418Z"
+    "ingested_at": "2026-08-17T11:14:10.489966Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2017,9 +2017,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.494525Z"
+    "ingested_at": "2026-08-17T11:14:10.490042Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2074,9 +2074,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.494609Z"
+    "ingested_at": "2026-08-17T11:14:10.490120Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2131,9 +2131,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.494692Z"
+    "ingested_at": "2026-08-17T11:14:10.490201Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2181,9 +2181,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.494773Z"
+    "ingested_at": "2026-08-17T11:14:10.490279Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2231,9 +2231,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.494851Z"
+    "ingested_at": "2026-08-17T11:14:10.490354Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2288,9 +2288,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.494932Z"
+    "ingested_at": "2026-08-17T11:14:10.490433Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2338,9 +2338,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.495008Z"
+    "ingested_at": "2026-08-17T11:14:10.490507Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2388,9 +2388,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.495083Z"
+    "ingested_at": "2026-08-17T11:14:10.490582Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2438,9 +2438,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.495161Z"
+    "ingested_at": "2026-08-17T11:14:10.490658Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2488,9 +2488,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.495238Z"
+    "ingested_at": "2026-08-17T11:14:10.490735Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2552,9 +2552,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.495320Z"
+    "ingested_at": "2026-08-17T11:14:10.490843Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2602,9 +2602,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.495396Z"
+    "ingested_at": "2026-08-17T11:14:10.490918Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2652,9 +2652,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.495499Z"
+    "ingested_at": "2026-08-17T11:14:10.490996Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2786,9 +2786,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.495607Z"
+    "ingested_at": "2026-08-17T11:14:10.491098Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2871,9 +2871,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.495696Z"
+    "ingested_at": "2026-08-17T11:14:10.491187Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2921,9 +2921,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.495773Z"
+    "ingested_at": "2026-08-17T11:14:10.491262Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2971,9 +2971,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.495853Z"
+    "ingested_at": "2026-08-17T11:14:10.491338Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3021,9 +3021,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.495929Z"
+    "ingested_at": "2026-08-17T11:14:10.491413Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3127,9 +3127,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.496029Z"
+    "ingested_at": "2026-08-17T11:14:10.491514Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3184,9 +3184,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.496110Z"
+    "ingested_at": "2026-08-17T11:14:10.491593Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3283,9 +3283,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.496206Z"
+    "ingested_at": "2026-08-17T11:14:10.491688Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3347,9 +3347,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.496287Z"
+    "ingested_at": "2026-08-17T11:14:10.491791Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3397,9 +3397,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.496364Z"
+    "ingested_at": "2026-08-17T11:14:10.491872Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3454,9 +3454,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.496445Z"
+    "ingested_at": "2026-08-17T11:14:10.491953Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3504,9 +3504,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.496551Z"
+    "ingested_at": "2026-08-17T11:14:10.492029Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3554,9 +3554,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.496631Z"
+    "ingested_at": "2026-08-17T11:14:10.492104Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3604,9 +3604,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.496707Z"
+    "ingested_at": "2026-08-17T11:14:10.492179Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3675,9 +3675,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.496791Z"
+    "ingested_at": "2026-08-17T11:14:10.492262Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3725,9 +3725,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.496867Z"
+    "ingested_at": "2026-08-17T11:14:10.492337Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3775,9 +3775,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.496943Z"
+    "ingested_at": "2026-08-17T11:14:10.492410Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3839,9 +3839,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.497025Z"
+    "ingested_at": "2026-08-17T11:14:10.492491Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3903,9 +3903,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.497107Z"
+    "ingested_at": "2026-08-17T11:14:10.492573Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3953,9 +3953,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.497184Z"
+    "ingested_at": "2026-08-17T11:14:10.492649Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4003,9 +4003,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.497265Z"
+    "ingested_at": "2026-08-17T11:14:10.492723Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4053,9 +4053,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.497345Z"
+    "ingested_at": "2026-08-17T11:14:10.492831Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4152,9 +4152,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.497436Z"
+    "ingested_at": "2026-08-17T11:14:10.492924Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4202,9 +4202,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.497539Z"
+    "ingested_at": "2026-08-17T11:14:10.492999Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4252,9 +4252,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.497616Z"
+    "ingested_at": "2026-08-17T11:14:10.493074Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4302,9 +4302,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.497691Z"
+    "ingested_at": "2026-08-17T11:14:10.493147Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4352,9 +4352,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.497766Z"
+    "ingested_at": "2026-08-17T11:14:10.493222Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4402,9 +4402,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.497845Z"
+    "ingested_at": "2026-08-17T11:14:10.493304Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4452,9 +4452,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.497922Z"
+    "ingested_at": "2026-08-17T11:14:10.493383Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4530,9 +4530,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.498011Z"
+    "ingested_at": "2026-08-17T11:14:10.493473Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4580,9 +4580,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.498087Z"
+    "ingested_at": "2026-08-17T11:14:10.493548Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4630,9 +4630,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.498163Z"
+    "ingested_at": "2026-08-17T11:14:10.493624Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4694,9 +4694,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.498246Z"
+    "ingested_at": "2026-08-17T11:14:10.493708Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4744,9 +4744,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.498328Z"
+    "ingested_at": "2026-08-17T11:14:10.493811Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4801,9 +4801,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.498409Z"
+    "ingested_at": "2026-08-17T11:14:10.493897Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4851,9 +4851,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.498509Z"
+    "ingested_at": "2026-08-17T11:14:10.493975Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4901,9 +4901,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.498591Z"
+    "ingested_at": "2026-08-17T11:14:10.494052Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4951,9 +4951,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.498669Z"
+    "ingested_at": "2026-08-17T11:14:10.494130Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5001,9 +5001,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.498747Z"
+    "ingested_at": "2026-08-17T11:14:10.494207Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5058,9 +5058,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.498826Z"
+    "ingested_at": "2026-08-17T11:14:10.494286Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5108,9 +5108,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.498911Z"
+    "ingested_at": "2026-08-17T11:14:10.494370Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5158,9 +5158,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.498995Z"
+    "ingested_at": "2026-08-17T11:14:10.494453Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5215,9 +5215,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.499080Z"
+    "ingested_at": "2026-08-17T11:14:10.494538Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5265,9 +5265,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.499161Z"
+    "ingested_at": "2026-08-17T11:14:10.494618Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5336,9 +5336,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.499247Z"
+    "ingested_at": "2026-08-17T11:14:10.494706Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5386,9 +5386,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.499323Z"
+    "ingested_at": "2026-08-17T11:14:10.494806Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5436,9 +5436,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.499405Z"
+    "ingested_at": "2026-08-17T11:14:10.494891Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5486,9 +5486,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.499507Z"
+    "ingested_at": "2026-08-17T11:14:10.494968Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5599,9 +5599,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.499612Z"
+    "ingested_at": "2026-08-17T11:14:10.495069Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5656,9 +5656,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.499696Z"
+    "ingested_at": "2026-08-17T11:14:10.495149Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5762,9 +5762,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.499796Z"
+    "ingested_at": "2026-08-17T11:14:10.495248Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5812,9 +5812,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.499876Z"
+    "ingested_at": "2026-08-17T11:14:10.495327Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5862,9 +5862,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.499955Z"
+    "ingested_at": "2026-08-17T11:14:10.495405Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5912,9 +5912,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.500035Z"
+    "ingested_at": "2026-08-17T11:14:10.495483Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5969,9 +5969,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.500120Z"
+    "ingested_at": "2026-08-17T11:14:10.495566Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6019,9 +6019,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.500196Z"
+    "ingested_at": "2026-08-17T11:14:10.495642Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6069,9 +6069,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.500270Z"
+    "ingested_at": "2026-08-17T11:14:10.495717Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6126,9 +6126,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.500352Z"
+    "ingested_at": "2026-08-17T11:14:10.495822Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6176,9 +6176,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.500432Z"
+    "ingested_at": "2026-08-17T11:14:10.495906Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6226,9 +6226,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.500536Z"
+    "ingested_at": "2026-08-17T11:14:10.495986Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6311,9 +6311,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.500657Z"
+    "ingested_at": "2026-08-17T11:14:10.496105Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6361,9 +6361,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.500735Z"
+    "ingested_at": "2026-08-17T11:14:10.496183Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6411,9 +6411,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.500813Z"
+    "ingested_at": "2026-08-17T11:14:10.496261Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6510,9 +6510,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.500908Z"
+    "ingested_at": "2026-08-17T11:14:10.496357Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6560,9 +6560,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.500985Z"
+    "ingested_at": "2026-08-17T11:14:10.496433Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6610,9 +6610,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.501061Z"
+    "ingested_at": "2026-08-17T11:14:10.496508Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6660,9 +6660,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.501145Z"
+    "ingested_at": "2026-08-17T11:14:10.496591Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6710,9 +6710,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.501225Z"
+    "ingested_at": "2026-08-17T11:14:10.496669Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6816,9 +6816,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.501321Z"
+    "ingested_at": "2026-08-17T11:14:10.496789Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6866,9 +6866,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.501402Z"
+    "ingested_at": "2026-08-17T11:14:10.496877Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6916,9 +6916,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.501503Z"
+    "ingested_at": "2026-08-17T11:14:10.496956Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6966,9 +6966,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.501588Z"
+    "ingested_at": "2026-08-17T11:14:10.497035Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7093,9 +7093,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.501693Z"
+    "ingested_at": "2026-08-17T11:14:10.497139Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7157,9 +7157,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.501781Z"
+    "ingested_at": "2026-08-17T11:14:10.497227Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7207,9 +7207,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.501865Z"
+    "ingested_at": "2026-08-17T11:14:10.497309Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7257,9 +7257,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.501943Z"
+    "ingested_at": "2026-08-17T11:14:10.497386Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7321,9 +7321,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.502023Z"
+    "ingested_at": "2026-08-17T11:14:10.497466Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7406,9 +7406,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.502112Z"
+    "ingested_at": "2026-08-17T11:14:10.497555Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7470,9 +7470,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.502198Z"
+    "ingested_at": "2026-08-17T11:14:10.497642Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7562,9 +7562,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.502296Z"
+    "ingested_at": "2026-08-17T11:14:10.497758Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7626,9 +7626,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.502381Z"
+    "ingested_at": "2026-08-17T11:14:10.497849Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7676,9 +7676,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.502481Z"
+    "ingested_at": "2026-08-17T11:14:10.497926Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7726,9 +7726,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.502567Z"
+    "ingested_at": "2026-08-17T11:14:10.498001Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7783,9 +7783,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.502659Z"
+    "ingested_at": "2026-08-17T11:14:10.498091Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7868,9 +7868,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.502752Z"
+    "ingested_at": "2026-08-17T11:14:10.498188Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7918,9 +7918,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.502834Z"
+    "ingested_at": "2026-08-17T11:14:10.498266Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7968,9 +7968,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.502914Z"
+    "ingested_at": "2026-08-17T11:14:10.498344Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8046,9 +8046,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.503010Z"
+    "ingested_at": "2026-08-17T11:14:10.498439Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8096,9 +8096,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.503109Z"
+    "ingested_at": "2026-08-17T11:14:10.498523Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8153,9 +8153,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.503236Z"
+    "ingested_at": "2026-08-17T11:14:10.498608Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8203,9 +8203,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.503365Z"
+    "ingested_at": "2026-08-17T11:14:10.498686Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8253,9 +8253,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.503514Z"
+    "ingested_at": "2026-08-17T11:14:10.498789Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8303,9 +8303,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.503641Z"
+    "ingested_at": "2026-08-17T11:14:10.498869Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8360,9 +8360,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.503764Z"
+    "ingested_at": "2026-08-17T11:14:10.498952Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8410,9 +8410,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.503863Z"
+    "ingested_at": "2026-08-17T11:14:10.499029Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8460,9 +8460,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.503944Z"
+    "ingested_at": "2026-08-17T11:14:10.499103Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8510,9 +8510,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.504021Z"
+    "ingested_at": "2026-08-17T11:14:10.499182Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8574,9 +8574,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.504114Z"
+    "ingested_at": "2026-08-17T11:14:10.499267Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8680,9 +8680,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.504221Z"
+    "ingested_at": "2026-08-17T11:14:10.499365Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8730,9 +8730,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.504302Z"
+    "ingested_at": "2026-08-17T11:14:10.499439Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8801,9 +8801,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.504389Z"
+    "ingested_at": "2026-08-17T11:14:10.499522Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8851,9 +8851,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.504505Z"
+    "ingested_at": "2026-08-17T11:14:10.499600Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8901,9 +8901,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.504604Z"
+    "ingested_at": "2026-08-17T11:14:10.499675Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8951,9 +8951,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.504698Z"
+    "ingested_at": "2026-08-17T11:14:10.499781Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9001,9 +9001,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.504779Z"
+    "ingested_at": "2026-08-17T11:14:10.499866Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9107,9 +9107,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.504879Z"
+    "ingested_at": "2026-08-17T11:14:10.499967Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9185,9 +9185,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.504963Z"
+    "ingested_at": "2026-08-17T11:14:10.500050Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9242,9 +9242,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.505043Z"
+    "ingested_at": "2026-08-17T11:14:10.500134Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9320,9 +9320,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.505132Z"
+    "ingested_at": "2026-08-17T11:14:10.500221Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9377,9 +9377,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.505213Z"
+    "ingested_at": "2026-08-17T11:14:10.500301Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9427,9 +9427,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.505295Z"
+    "ingested_at": "2026-08-17T11:14:10.500381Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9498,9 +9498,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.505379Z"
+    "ingested_at": "2026-08-17T11:14:10.500463Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9548,9 +9548,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.505490Z"
+    "ingested_at": "2026-08-17T11:14:10.500548Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9619,9 +9619,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.505594Z"
+    "ingested_at": "2026-08-17T11:14:10.500639Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9669,9 +9669,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.505680Z"
+    "ingested_at": "2026-08-17T11:14:10.500722Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9747,9 +9747,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.505772Z"
+    "ingested_at": "2026-08-17T11:14:10.500836Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9797,9 +9797,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.505851Z"
+    "ingested_at": "2026-08-17T11:14:10.500916Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9847,9 +9847,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.505927Z"
+    "ingested_at": "2026-08-17T11:14:10.500991Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9911,9 +9911,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.506008Z"
+    "ingested_at": "2026-08-17T11:14:10.501073Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9961,9 +9961,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.506087Z"
+    "ingested_at": "2026-08-17T11:14:10.501151Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10011,9 +10011,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.506167Z"
+    "ingested_at": "2026-08-17T11:14:10.501226Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10096,9 +10096,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.506260Z"
+    "ingested_at": "2026-08-17T11:14:10.501317Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10146,9 +10146,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.506336Z"
+    "ingested_at": "2026-08-17T11:14:10.501392Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10203,9 +10203,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.506422Z"
+    "ingested_at": "2026-08-17T11:14:10.501477Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10253,9 +10253,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.506536Z"
+    "ingested_at": "2026-08-17T11:14:10.501561Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10310,9 +10310,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.506620Z"
+    "ingested_at": "2026-08-17T11:14:10.501642Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10402,9 +10402,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.506714Z"
+    "ingested_at": "2026-08-17T11:14:10.501729Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10452,9 +10452,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.506798Z"
+    "ingested_at": "2026-08-17T11:14:10.501835Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10502,9 +10502,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.506875Z"
+    "ingested_at": "2026-08-17T11:14:10.501913Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10552,9 +10552,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.506951Z"
+    "ingested_at": "2026-08-17T11:14:10.501988Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10602,9 +10602,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.507026Z"
+    "ingested_at": "2026-08-17T11:14:10.502067Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10652,9 +10652,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.507101Z"
+    "ingested_at": "2026-08-17T11:14:10.502143Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10702,9 +10702,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.507183Z"
+    "ingested_at": "2026-08-17T11:14:10.502222Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10752,9 +10752,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.507266Z"
+    "ingested_at": "2026-08-17T11:14:10.502303Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10802,9 +10802,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.507344Z"
+    "ingested_at": "2026-08-17T11:14:10.502379Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10852,9 +10852,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.507421Z"
+    "ingested_at": "2026-08-17T11:14:10.502454Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10916,9 +10916,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.507537Z"
+    "ingested_at": "2026-08-17T11:14:10.502537Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10980,9 +10980,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.507629Z"
+    "ingested_at": "2026-08-17T11:14:10.502631Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11030,9 +11030,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.507707Z"
+    "ingested_at": "2026-08-17T11:14:10.502710Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11080,9 +11080,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.507797Z"
+    "ingested_at": "2026-08-17T11:14:10.502813Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11137,9 +11137,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.507884Z"
+    "ingested_at": "2026-08-17T11:14:10.502900Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11215,9 +11215,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.507974Z"
+    "ingested_at": "2026-08-17T11:14:10.502989Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11265,9 +11265,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.508050Z"
+    "ingested_at": "2026-08-17T11:14:10.503065Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11315,9 +11315,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.508140Z"
+    "ingested_at": "2026-08-17T11:14:10.503153Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11365,9 +11365,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.508217Z"
+    "ingested_at": "2026-08-17T11:14:10.503229Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11415,9 +11415,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.508298Z"
+    "ingested_at": "2026-08-17T11:14:10.503313Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11465,9 +11465,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.508378Z"
+    "ingested_at": "2026-08-17T11:14:10.503389Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11515,9 +11515,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.508494Z"
+    "ingested_at": "2026-08-17T11:14:10.503464Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11565,9 +11565,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.508600Z"
+    "ingested_at": "2026-08-17T11:14:10.503539Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11636,9 +11636,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.508688Z"
+    "ingested_at": "2026-08-17T11:14:10.503626Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11686,9 +11686,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.508767Z"
+    "ingested_at": "2026-08-17T11:14:10.503706Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11736,9 +11736,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.508843Z"
+    "ingested_at": "2026-08-17T11:14:10.503808Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11786,9 +11786,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.508923Z"
+    "ingested_at": "2026-08-17T11:14:10.503888Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11836,9 +11836,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.509011Z"
+    "ingested_at": "2026-08-17T11:14:10.503976Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11886,9 +11886,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.509090Z"
+    "ingested_at": "2026-08-17T11:14:10.504053Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11936,9 +11936,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.509192Z"
+    "ingested_at": "2026-08-17T11:14:10.504148Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11986,9 +11986,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.509269Z"
+    "ingested_at": "2026-08-17T11:14:10.504228Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12036,9 +12036,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.509350Z"
+    "ingested_at": "2026-08-17T11:14:10.504309Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12086,9 +12086,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.509428Z"
+    "ingested_at": "2026-08-17T11:14:10.504397Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12136,9 +12136,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.509552Z"
+    "ingested_at": "2026-08-17T11:14:10.504474Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12263,9 +12263,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.509665Z"
+    "ingested_at": "2026-08-17T11:14:10.504579Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12313,9 +12313,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.509743Z"
+    "ingested_at": "2026-08-17T11:14:10.504656Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12363,9 +12363,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.509825Z"
+    "ingested_at": "2026-08-17T11:14:10.504758Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12413,9 +12413,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.509902Z"
+    "ingested_at": "2026-08-17T11:14:10.504842Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12470,9 +12470,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.509992Z"
+    "ingested_at": "2026-08-17T11:14:10.504930Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12520,9 +12520,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.510076Z"
+    "ingested_at": "2026-08-17T11:14:10.505012Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12598,9 +12598,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.510165Z"
+    "ingested_at": "2026-08-17T11:14:10.505100Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12648,9 +12648,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.510241Z"
+    "ingested_at": "2026-08-17T11:14:10.505175Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12698,9 +12698,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.510316Z"
+    "ingested_at": "2026-08-17T11:14:10.505254Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12748,9 +12748,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.510393Z"
+    "ingested_at": "2026-08-17T11:14:10.505332Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12798,9 +12798,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.510495Z"
+    "ingested_at": "2026-08-17T11:14:10.505406Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12848,9 +12848,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.510589Z"
+    "ingested_at": "2026-08-17T11:14:10.505488Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12898,9 +12898,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.510668Z"
+    "ingested_at": "2026-08-17T11:14:10.505564Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12948,9 +12948,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.510747Z"
+    "ingested_at": "2026-08-17T11:14:10.505642Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12998,9 +12998,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.510828Z"
+    "ingested_at": "2026-08-17T11:14:10.505721Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13048,9 +13048,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.510903Z"
+    "ingested_at": "2026-08-17T11:14:10.505828Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13098,9 +13098,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.510979Z"
+    "ingested_at": "2026-08-17T11:14:10.505906Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13155,9 +13155,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.511065Z"
+    "ingested_at": "2026-08-17T11:14:10.505992Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13226,9 +13226,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.511159Z"
+    "ingested_at": "2026-08-17T11:14:10.506083Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13276,9 +13276,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.511241Z"
+    "ingested_at": "2026-08-17T11:14:10.506163Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13368,9 +13368,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.511338Z"
+    "ingested_at": "2026-08-17T11:14:10.506270Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13418,9 +13418,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.511416Z"
+    "ingested_at": "2026-08-17T11:14:10.506351Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13538,9 +13538,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.511547Z"
+    "ingested_at": "2026-08-17T11:14:10.506452Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13588,9 +13588,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.511637Z"
+    "ingested_at": "2026-08-17T11:14:10.506537Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13638,9 +13638,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.511720Z"
+    "ingested_at": "2026-08-17T11:14:10.506618Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13723,9 +13723,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.511809Z"
+    "ingested_at": "2026-08-17T11:14:10.506707Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13773,9 +13773,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.511889Z"
+    "ingested_at": "2026-08-17T11:14:10.506814Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13851,9 +13851,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.511975Z"
+    "ingested_at": "2026-08-17T11:14:10.506905Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13901,9 +13901,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.512051Z"
+    "ingested_at": "2026-08-17T11:14:10.506981Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13951,9 +13951,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.512135Z"
+    "ingested_at": "2026-08-17T11:14:10.507061Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14001,9 +14001,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.512215Z"
+    "ingested_at": "2026-08-17T11:14:10.507140Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14065,9 +14065,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.512302Z"
+    "ingested_at": "2026-08-17T11:14:10.507226Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14122,9 +14122,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.512384Z"
+    "ingested_at": "2026-08-17T11:14:10.507311Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14172,9 +14172,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.512508Z"
+    "ingested_at": "2026-08-17T11:14:10.507393Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14222,9 +14222,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.512612Z"
+    "ingested_at": "2026-08-17T11:14:10.507473Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14272,9 +14272,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.512695Z"
+    "ingested_at": "2026-08-17T11:14:10.507551Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14343,9 +14343,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.512787Z"
+    "ingested_at": "2026-08-17T11:14:10.507635Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14393,9 +14393,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.512865Z"
+    "ingested_at": "2026-08-17T11:14:10.507709Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14450,9 +14450,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.512949Z"
+    "ingested_at": "2026-08-17T11:14:10.507818Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14500,9 +14500,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.513026Z"
+    "ingested_at": "2026-08-17T11:14:10.507897Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14627,9 +14627,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.513126Z"
+    "ingested_at": "2026-08-17T11:14:10.507997Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14684,9 +14684,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.513216Z"
+    "ingested_at": "2026-08-17T11:14:10.508082Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14734,9 +14734,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.513298Z"
+    "ingested_at": "2026-08-17T11:14:10.508164Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14784,9 +14784,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.513379Z"
+    "ingested_at": "2026-08-17T11:14:10.508243Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14834,9 +14834,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.513483Z"
+    "ingested_at": "2026-08-17T11:14:10.508327Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14884,9 +14884,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.513569Z"
+    "ingested_at": "2026-08-17T11:14:10.508405Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14934,9 +14934,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.513646Z"
+    "ingested_at": "2026-08-17T11:14:10.508480Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14998,9 +14998,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.513731Z"
+    "ingested_at": "2026-08-17T11:14:10.508563Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15048,9 +15048,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.513814Z"
+    "ingested_at": "2026-08-17T11:14:10.508640Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15098,9 +15098,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.513891Z"
+    "ingested_at": "2026-08-17T11:14:10.508716Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15169,9 +15169,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.513976Z"
+    "ingested_at": "2026-08-17T11:14:10.508827Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15219,9 +15219,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.514052Z"
+    "ingested_at": "2026-08-17T11:14:10.508909Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15283,9 +15283,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.514137Z"
+    "ingested_at": "2026-08-17T11:14:10.508996Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15333,9 +15333,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.514227Z"
+    "ingested_at": "2026-08-17T11:14:10.509079Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15453,9 +15453,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.514331Z"
+    "ingested_at": "2026-08-17T11:14:10.509180Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15503,9 +15503,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.514408Z"
+    "ingested_at": "2026-08-17T11:14:10.509256Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15574,9 +15574,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.514532Z"
+    "ingested_at": "2026-08-17T11:14:10.509351Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15638,9 +15638,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.514622Z"
+    "ingested_at": "2026-08-17T11:14:10.509438Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15688,9 +15688,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.514705Z"
+    "ingested_at": "2026-08-17T11:14:10.509520Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15801,9 +15801,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.514807Z"
+    "ingested_at": "2026-08-17T11:14:10.509619Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15865,9 +15865,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.514891Z"
+    "ingested_at": "2026-08-17T11:14:10.509701Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15985,9 +15985,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.514987Z"
+    "ingested_at": "2026-08-17T11:14:10.509826Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16070,9 +16070,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.515084Z"
+    "ingested_at": "2026-08-17T11:14:10.509922Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16176,9 +16176,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.515187Z"
+    "ingested_at": "2026-08-17T11:14:10.510022Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16226,9 +16226,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.515269Z"
+    "ingested_at": "2026-08-17T11:14:10.510103Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16276,9 +16276,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.515348Z"
+    "ingested_at": "2026-08-17T11:14:10.510179Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16326,9 +16326,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.515423Z"
+    "ingested_at": "2026-08-17T11:14:10.510255Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16418,9 +16418,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.515541Z"
+    "ingested_at": "2026-08-17T11:14:10.510348Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16496,9 +16496,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.515647Z"
+    "ingested_at": "2026-08-17T11:14:10.510448Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16546,9 +16546,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.515726Z"
+    "ingested_at": "2026-08-17T11:14:10.510524Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16638,9 +16638,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.515816Z"
+    "ingested_at": "2026-08-17T11:14:10.510613Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16688,9 +16688,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.515892Z"
+    "ingested_at": "2026-08-17T11:14:10.510688Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16773,9 +16773,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.515981Z"
+    "ingested_at": "2026-08-17T11:14:10.510803Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16823,9 +16823,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.516070Z"
+    "ingested_at": "2026-08-17T11:14:10.510892Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16908,9 +16908,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.516164Z"
+    "ingested_at": "2026-08-17T11:14:10.510984Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16958,9 +16958,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.516242Z"
+    "ingested_at": "2026-08-17T11:14:10.511060Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17008,9 +17008,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.516319Z"
+    "ingested_at": "2026-08-17T11:14:10.511134Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17065,9 +17065,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.516401Z"
+    "ingested_at": "2026-08-17T11:14:10.511217Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17115,9 +17115,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.516504Z"
+    "ingested_at": "2026-08-17T11:14:10.511295Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17172,9 +17172,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.516597Z"
+    "ingested_at": "2026-08-17T11:14:10.511375Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17243,9 +17243,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.516684Z"
+    "ingested_at": "2026-08-17T11:14:10.511458Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17307,9 +17307,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.516773Z"
+    "ingested_at": "2026-08-17T11:14:10.511544Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17378,9 +17378,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.516861Z"
+    "ingested_at": "2026-08-17T11:14:10.511630Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17435,9 +17435,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.516993Z"
+    "ingested_at": "2026-08-17T11:14:10.511718Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17485,9 +17485,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.517125Z"
+    "ingested_at": "2026-08-17T11:14:10.511819Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17535,9 +17535,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.517294Z"
+    "ingested_at": "2026-08-17T11:14:10.511915Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17585,9 +17585,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.517421Z"
+    "ingested_at": "2026-08-17T11:14:10.511991Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17635,9 +17635,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.517579Z"
+    "ingested_at": "2026-08-17T11:14:10.512066Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17685,9 +17685,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.517703Z"
+    "ingested_at": "2026-08-17T11:14:10.512141Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17742,9 +17742,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.517851Z"
+    "ingested_at": "2026-08-17T11:14:10.512222Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17799,9 +17799,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.518010Z"
+    "ingested_at": "2026-08-17T11:14:10.512304Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17863,9 +17863,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.518183Z"
+    "ingested_at": "2026-08-17T11:14:10.512394Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17927,9 +17927,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.518347Z"
+    "ingested_at": "2026-08-17T11:14:10.512477Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17977,9 +17977,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.518528Z"
+    "ingested_at": "2026-08-17T11:14:10.512559Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18027,9 +18027,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.518669Z"
+    "ingested_at": "2026-08-17T11:14:10.512636Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18077,9 +18077,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.518810Z"
+    "ingested_at": "2026-08-17T11:14:10.512715Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18127,9 +18127,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.518948Z"
+    "ingested_at": "2026-08-17T11:14:10.512823Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18205,9 +18205,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.519106Z"
+    "ingested_at": "2026-08-17T11:14:10.512910Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18297,9 +18297,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.519300Z"
+    "ingested_at": "2026-08-17T11:14:10.513002Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18354,9 +18354,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.519483Z"
+    "ingested_at": "2026-08-17T11:14:10.513082Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18404,9 +18404,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.519645Z"
+    "ingested_at": "2026-08-17T11:14:10.513160Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18475,9 +18475,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.519805Z"
+    "ingested_at": "2026-08-17T11:14:10.513242Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18525,9 +18525,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.519952Z"
+    "ingested_at": "2026-08-17T11:14:10.513328Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18575,9 +18575,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.520113Z"
+    "ingested_at": "2026-08-17T11:14:10.513411Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18625,9 +18625,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.520267Z"
+    "ingested_at": "2026-08-17T11:14:10.513488Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18682,9 +18682,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.520437Z"
+    "ingested_at": "2026-08-17T11:14:10.513574Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18732,9 +18732,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.520618Z"
+    "ingested_at": "2026-08-17T11:14:10.513651Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18782,9 +18782,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.520715Z"
+    "ingested_at": "2026-08-17T11:14:10.513725Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18874,9 +18874,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.520838Z"
+    "ingested_at": "2026-08-17T11:14:10.513842Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18924,9 +18924,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.520931Z"
+    "ingested_at": "2026-08-17T11:14:10.513925Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18974,9 +18974,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.521014Z"
+    "ingested_at": "2026-08-17T11:14:10.514002Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19024,9 +19024,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.521096Z"
+    "ingested_at": "2026-08-17T11:14:10.514076Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19123,9 +19123,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.521193Z"
+    "ingested_at": "2026-08-17T11:14:10.514171Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19208,9 +19208,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.521291Z"
+    "ingested_at": "2026-08-17T11:14:10.514267Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19265,9 +19265,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.521380Z"
+    "ingested_at": "2026-08-17T11:14:10.514351Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19315,9 +19315,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.521495Z"
+    "ingested_at": "2026-08-17T11:14:10.514426Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19386,9 +19386,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.521598Z"
+    "ingested_at": "2026-08-17T11:14:10.514509Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19436,9 +19436,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.521687Z"
+    "ingested_at": "2026-08-17T11:14:10.514590Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19486,9 +19486,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.521769Z"
+    "ingested_at": "2026-08-17T11:14:10.514670Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19536,9 +19536,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.521847Z"
+    "ingested_at": "2026-08-17T11:14:10.514764Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19593,9 +19593,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.521927Z"
+    "ingested_at": "2026-08-17T11:14:10.514854Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19650,9 +19650,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.522013Z"
+    "ingested_at": "2026-08-17T11:14:10.514940Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19700,9 +19700,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.522092Z"
+    "ingested_at": "2026-08-17T11:14:10.515018Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19750,9 +19750,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.522174Z"
+    "ingested_at": "2026-08-17T11:14:10.515098Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19800,9 +19800,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.522252Z"
+    "ingested_at": "2026-08-17T11:14:10.515174Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19850,9 +19850,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.522332Z"
+    "ingested_at": "2026-08-17T11:14:10.515251Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19900,9 +19900,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.522408Z"
+    "ingested_at": "2026-08-17T11:14:10.515326Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19950,9 +19950,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.522528Z"
+    "ingested_at": "2026-08-17T11:14:10.515409Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20000,9 +20000,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.522612Z"
+    "ingested_at": "2026-08-17T11:14:10.515486Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20050,9 +20050,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.522691Z"
+    "ingested_at": "2026-08-17T11:14:10.515561Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20128,9 +20128,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.522785Z"
+    "ingested_at": "2026-08-17T11:14:10.515650Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20185,9 +20185,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.522870Z"
+    "ingested_at": "2026-08-17T11:14:10.515732Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20249,9 +20249,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.522959Z"
+    "ingested_at": "2026-08-17T11:14:10.515867Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20299,9 +20299,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.523042Z"
+    "ingested_at": "2026-08-17T11:14:10.515954Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20349,9 +20349,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.523122Z"
+    "ingested_at": "2026-08-17T11:14:10.516032Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20413,9 +20413,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.523204Z"
+    "ingested_at": "2026-08-17T11:14:10.516113Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20463,9 +20463,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.523286Z"
+    "ingested_at": "2026-08-17T11:14:10.516194Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20513,9 +20513,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.523368Z"
+    "ingested_at": "2026-08-17T11:14:10.516271Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20563,9 +20563,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.523476Z"
+    "ingested_at": "2026-08-17T11:14:10.516349Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20641,9 +20641,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.523588Z"
+    "ingested_at": "2026-08-17T11:14:10.516439Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20719,9 +20719,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.523683Z"
+    "ingested_at": "2026-08-17T11:14:10.516533Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20769,9 +20769,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.523761Z"
+    "ingested_at": "2026-08-17T11:14:10.516615Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20826,9 +20826,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.523850Z"
+    "ingested_at": "2026-08-17T11:14:10.516702Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20890,9 +20890,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.523939Z"
+    "ingested_at": "2026-08-17T11:14:10.516839Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20996,9 +20996,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.524034Z"
+    "ingested_at": "2026-08-17T11:14:10.516937Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21067,9 +21067,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.524123Z"
+    "ingested_at": "2026-08-17T11:14:10.517029Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21117,9 +21117,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.524208Z"
+    "ingested_at": "2026-08-17T11:14:10.517106Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21181,9 +21181,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.524294Z"
+    "ingested_at": "2026-08-17T11:14:10.517187Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21231,9 +21231,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.524375Z"
+    "ingested_at": "2026-08-17T11:14:10.517263Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21281,9 +21281,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.524491Z"
+    "ingested_at": "2026-08-17T11:14:10.517342Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21373,9 +21373,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.524596Z"
+    "ingested_at": "2026-08-17T11:14:10.517432Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21423,9 +21423,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.524675Z"
+    "ingested_at": "2026-08-17T11:14:10.517512Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21480,9 +21480,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.524762Z"
+    "ingested_at": "2026-08-17T11:14:10.517596Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21537,9 +21537,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.524854Z"
+    "ingested_at": "2026-08-17T11:14:10.517685Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21594,9 +21594,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.524943Z"
+    "ingested_at": "2026-08-17T11:14:10.517793Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21644,9 +21644,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.525028Z"
+    "ingested_at": "2026-08-17T11:14:10.517881Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21701,9 +21701,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.525110Z"
+    "ingested_at": "2026-08-17T11:14:10.517963Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21751,9 +21751,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.525186Z"
+    "ingested_at": "2026-08-17T11:14:10.518042Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21815,9 +21815,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.525269Z"
+    "ingested_at": "2026-08-17T11:14:10.518125Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21865,9 +21865,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.525349Z"
+    "ingested_at": "2026-08-17T11:14:10.518205Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21943,9 +21943,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.525443Z"
+    "ingested_at": "2026-08-17T11:14:10.518294Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21993,9 +21993,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.525571Z"
+    "ingested_at": "2026-08-17T11:14:10.518369Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22043,9 +22043,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.525652Z"
+    "ingested_at": "2026-08-17T11:14:10.518443Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22093,9 +22093,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.525735Z"
+    "ingested_at": "2026-08-17T11:14:10.518521Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22143,9 +22143,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.525820Z"
+    "ingested_at": "2026-08-17T11:14:10.518608Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22193,9 +22193,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.525897Z"
+    "ingested_at": "2026-08-17T11:14:10.518684Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22243,9 +22243,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.525974Z"
+    "ingested_at": "2026-08-17T11:14:10.518782Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22293,9 +22293,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.526054Z"
+    "ingested_at": "2026-08-17T11:14:10.518862Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22343,9 +22343,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.526135Z"
+    "ingested_at": "2026-08-17T11:14:10.518943Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22463,9 +22463,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.526240Z"
+    "ingested_at": "2026-08-17T11:14:10.519046Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22513,9 +22513,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.526318Z"
+    "ingested_at": "2026-08-17T11:14:10.519124Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22563,9 +22563,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.526397Z"
+    "ingested_at": "2026-08-17T11:14:10.519202Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22613,9 +22613,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.526509Z"
+    "ingested_at": "2026-08-17T11:14:10.519275Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22663,9 +22663,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.526604Z"
+    "ingested_at": "2026-08-17T11:14:10.519355Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22713,9 +22713,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.526686Z"
+    "ingested_at": "2026-08-17T11:14:10.519434Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22770,9 +22770,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.526766Z"
+    "ingested_at": "2026-08-17T11:14:10.519513Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22841,9 +22841,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.526851Z"
+    "ingested_at": "2026-08-17T11:14:10.519600Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22905,9 +22905,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.526933Z"
+    "ingested_at": "2026-08-17T11:14:10.519683Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22997,9 +22997,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.527026Z"
+    "ingested_at": "2026-08-17T11:14:10.519799Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23047,9 +23047,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.527108Z"
+    "ingested_at": "2026-08-17T11:14:10.519894Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23125,9 +23125,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.527196Z"
+    "ingested_at": "2026-08-17T11:14:10.519981Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23175,9 +23175,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.527304Z"
+    "ingested_at": "2026-08-17T11:14:10.520085Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23225,9 +23225,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.527384Z"
+    "ingested_at": "2026-08-17T11:14:10.520169Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23275,9 +23275,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.527509Z"
+    "ingested_at": "2026-08-17T11:14:10.520253Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23360,9 +23360,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.527615Z"
+    "ingested_at": "2026-08-17T11:14:10.520342Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23424,9 +23424,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.527703Z"
+    "ingested_at": "2026-08-17T11:14:10.520422Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23474,9 +23474,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.527787Z"
+    "ingested_at": "2026-08-17T11:14:10.520500Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23524,9 +23524,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.527865Z"
+    "ingested_at": "2026-08-17T11:14:10.520577Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23588,9 +23588,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.527947Z"
+    "ingested_at": "2026-08-17T11:14:10.520662Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23638,9 +23638,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.528026Z"
+    "ingested_at": "2026-08-17T11:14:10.520759Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23709,9 +23709,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.528108Z"
+    "ingested_at": "2026-08-17T11:14:10.520849Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23815,9 +23815,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.528205Z"
+    "ingested_at": "2026-08-17T11:14:10.520943Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23872,9 +23872,9 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.528290Z"
+    "ingested_at": "2026-08-17T11:14:10.521028Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23922,8 +23922,8 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extraction_method": "api",
       "source_dataset_id": "cnih-y5dw",
-      "extracted_at": "2026-08-10T11:38:56.229412Z"
+      "extracted_at": "2026-08-17T11:13:47.086550Z"
     },
-    "ingested_at": "2026-08-10T11:39:19.528375Z"
+    "ingested_at": "2026-08-17T11:14:10.521110Z"
   }
 ]
