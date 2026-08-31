@@ -1,19 +1,733 @@
 [
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "91a986ac-8381-564b-8435-2c5cf649bc99",
-    "establishment_uuid": "90f4cd28-b9a5-57e3-8e1b-a610d36070d2",
+    "inspection_uuid": "833fc077-fea5-5373-9f02-3a215c7fc73a",
+    "establishment_uuid": "481720a8-b4b0-5636-b1b2-21779d3d2343",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0051559|2026-08-04|PT0051559",
-    "source_establishment_id": "PT0051559",
-    "restaurant_name": "AMERICAN LEGION POST 13",
+    "source_inspection_id": "PT0160144|2026-08-20|RT-FOODEST-003290-2026",
+    "source_establishment_id": "PT0160144",
+    "restaurant_name": "123 Child Development Center",
     "address": {
-      "street": "1201 MOUNTAIN RD NE",
+      "street": "1701 BROADWAY BLVD SE",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-04",
+    "inspection_date": "2026-08-20",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.321168Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "fea48d15-e1d8-5584-a7dc-12fb8bbcf714",
+    "establishment_uuid": "96d6bd66-cd04-5aa4-9ee4-960d615bfa23",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0153952|2026-08-19|RT-RET-068605-2025",
+    "source_establishment_id": "PT0153952",
+    "restaurant_name": "ADVANCE FRESH CONCEPTS FRANCHISE CORPORATION (AFC)",
+    "address": {
+      "street": "8100 VENTURA ST NE",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-19",
+    "inspection_type": "Routine Retail Food Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.321239Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "3aec0251-fb29-56c1-b729-0d45037bfe0d",
+    "establishment_uuid": "d97a15aa-18b6-5cf1-86a3-e4074749b264",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0086839|2026-08-19|PT0086839",
+    "source_establishment_id": "PT0086839",
+    "restaurant_name": "ALBERTSONS",
+    "address": {
+      "street": "8100 VENTURA ST NE",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-19",
+    "inspection_type": "Routine Retail Food Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.321320Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "0fe876f0-84d1-5fdf-83d2-edaa6118e1f4",
+    "establishment_uuid": "c044883d-186d-5691-822c-680c240ddb55",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0086841|2026-08-19|PT0086841",
+    "source_establishment_id": "PT0086841",
+    "restaurant_name": "ALBERTSONS",
+    "address": {
+      "street": "8100 VENTURA ST NE",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-19",
+    "inspection_type": "Routine Retail Food Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.321377Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "d14e8bf1-b6f4-5d5a-9721-8723af17a790",
+    "establishment_uuid": "61e9be5a-ecbc-5108-970e-238df7d83e18",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0086842|2026-08-19|PT0086842",
+    "source_establishment_id": "PT0086842",
+    "restaurant_name": "ALBERTSONS",
+    "address": {
+      "street": "8100 VENTURA ST NE",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-19",
+    "inspection_type": "Routine Retail Food Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.321429Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "3ab1cf1d-6272-54bb-ae4f-f1117760d7f9",
+    "establishment_uuid": "208934e7-80b1-5a11-a29c-bed1baee4266",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0086843|2026-08-19|PT0086843",
+    "source_establishment_id": "PT0086843",
+    "restaurant_name": "ALBERTSONS",
+    "address": {
+      "street": "8100 VENTURA ST NE",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-19",
+    "inspection_type": "Routine Retail Food Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.321480Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "d57bc367-e08a-5631-abb7-939abd34b8bb",
+    "establishment_uuid": "4e13f97c-cfc0-58e9-b531-815a41370d61",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0161216|2026-08-19|RT-FOODEST-036099-2026",
+    "source_establishment_id": "PT0161216",
+    "restaurant_name": "ALICE KING COMMUNITY SCHOOL",
+    "address": {
+      "street": "8100 MOUNTAIN RD",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-19",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.321529Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "f3edc878-19c1-5a0a-959b-47bce25666e3",
+    "establishment_uuid": "a696d55e-e252-5b2a-9570-b0e24dac95fe",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0156639|2026-08-21|CAC-Food-080182-2026",
+    "source_establishment_id": "PT0156639",
+    "restaurant_name": "ALONSO ARTUROS MEXICAN RESTAURANT",
+    "address": {
+      "street": "10120 CENTRAL AVE SW",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-21",
+    "inspection_type": "Corrective Action Compliance",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.321576Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "fae05df4-18f5-5799-b16e-1b0699f95ff5",
+    "establishment_uuid": "a696d55e-e252-5b2a-9570-b0e24dac95fe",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0156639|2026-08-21|RT-FOODEST-031581-2025",
+    "source_establishment_id": "PT0156639",
+    "restaurant_name": "ALONSO ARTUROS MEXICAN RESTAURANT",
+    "address": {
+      "street": "10120 CENTRAL AVE SW",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-21",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.321625Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "6e2c1a9e-2a37-5d6a-8cab-591b084bfd55",
+    "establishment_uuid": "dfda96b4-c271-50df-9259-d8f97bc0b098",
+    "source": "albuquerque_city",
+    "source_inspection_id": "FOODEST-2025-004581|2026-08-20|RT-FOODEST-077552-2026",
+    "source_establishment_id": "FOODEST-2025-004581",
+    "restaurant_name": "Ambica Inc. Holiday Inn & Suites Albuquerque Airport",
+    "address": {
+      "street": "1501 SUNPORT PL SE",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-20",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.321675Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "5a4461b2-0e7b-5ee4-9103-dcd02bd9432e",
+    "establishment_uuid": "888ad6f9-5c12-5ac5-9185-55911c6f35a9",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0158340|2026-08-18|PT0158340",
+    "source_establishment_id": "PT0158340",
+    "restaurant_name": "APPLE CANYON GOURMET",
+    "address": {
+      "street": "1301 CUESTA ABAJO CT NE",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-18",
+    "inspection_type": "Routine Food Processor Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.321724Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "952d6e25-0d34-51ae-ac06-efd51cb91ea9",
+    "establishment_uuid": "ad40f030-04b3-56f0-9e81-e10aa284435a",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0158341|2026-08-18|PT0158341",
+    "source_establishment_id": "PT0158341",
+    "restaurant_name": "APPLE CANYON GOURMET",
+    "address": {
+      "street": "1301 CUESTA ABAJO CT NE",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-18",
+    "inspection_type": "Routine Retail Food Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.321778Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "033997a1-fe38-57da-a9c4-17a46c690838",
+    "establishment_uuid": "24e94865-6db2-5b28-b2ab-750e66fe5ed0",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0125157|2026-08-19|PT0125157",
+    "source_establishment_id": "PT0125157",
+    "restaurant_name": "BABY PANTHER LLC DBA SISTER",
+    "address": {
+      "street": "407 CENTRAL AVE NW",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-19",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.321826Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "884d2da9-893e-5abb-a65b-b442d93f3769",
+    "establishment_uuid": "b6f1091c-973d-5673-ad6d-cf4682d1c096",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0160062|2026-08-19|PT0160062",
+    "source_establishment_id": "PT0160062",
+    "restaurant_name": "BABY PANTHER LLC DBA SISTER",
+    "address": {
+      "street": "407 CENTRAL AVE NW",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-19",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.321872Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "294eada5-663f-566e-8ec5-020b9108b1de",
+    "establishment_uuid": "2aebddc4-65c3-53ac-a321-d295aae76145",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0126119|2026-08-18|RT-FOODEST-001502-2026",
+    "source_establishment_id": "PT0126119",
+    "restaurant_name": "BJS RESTAURANT AND BREWHOUSE",
+    "address": {
+      "street": "2100 LOUISIANA BLVD NE",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-18",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.321919Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "837a69c2-0b2b-521d-aabb-9422550dae2b",
+    "establishment_uuid": "785a4d6b-9dbe-5804-ae06-895cc21b6aa0",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0126120|2026-08-18|RT-FOODEST-001503-2026",
+    "source_establishment_id": "PT0126120",
+    "restaurant_name": "BJS RESTAURANT AND BREWHOUSE",
+    "address": {
+      "street": "2100 LOUISIANA BLVD NE",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-18",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.321965Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "ee3304e5-d36c-56c4-aff1-75a28e816591",
+    "establishment_uuid": "a371027b-4b5a-5de3-b73d-a08d70d6aea5",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0149729|2026-08-19|CAC-Food-079219-2026",
+    "source_establishment_id": "PT0149729",
+    "restaurant_name": "BURGERS N MORE",
+    "address": {
+      "street": "5500 CENTRAL AVE SW",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-19",
+    "inspection_type": "Corrective Action Compliance",
+    "inspection_result": "pass",
+    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.322012Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "2985c8b0-72ec-54b1-bd09-17f3ea8d0f6e",
+    "establishment_uuid": "a371027b-4b5a-5de3-b73d-a08d70d6aea5",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0149729|2026-08-19|RT-FOODEST-067339-2025",
+    "source_establishment_id": "PT0149729",
+    "restaurant_name": "BURGERS N MORE",
+    "address": {
+      "street": "5500 CENTRAL AVE SW",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-19",
     "inspection_type": "Routine Food Establishment Inspection",
     "inspection_result": "fail",
     "result_basis": "status='Unsatisfactory Re-Inspection required'; operational_status='Open' -> fail",
@@ -37,67 +751,25 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.397342Z"
+    "ingested_at": "2026-08-31T17:44:05.322058Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "68acaa3e-f215-597f-b524-cb85d86ad9c8",
-    "establishment_uuid": "147d4ee2-4843-5385-a53c-0e3ab7b05487",
+    "inspection_uuid": "d9ef42ad-e3f5-521b-98d2-6756d72b630c",
+    "establishment_uuid": "efaaa6db-d0a1-5df6-aba2-7ff76b3c2ffb",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0051560|2026-08-04|PT0051560",
-    "source_establishment_id": "PT0051560",
-    "restaurant_name": "AMERICAN LEGION POST 13",
+    "source_inspection_id": "PT0151095|2026-08-19|RT-FOODEST-006376-2026",
+    "source_establishment_id": "PT0151095",
+    "restaurant_name": "CATERPILLAR CLUBHOUSE DAY CARE LLC",
     "address": {
-      "street": "1201 MOUNTAIN RD NE",
+      "street": "4221 SILVER AVE SE",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-04",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.397466Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "aee1ec32-8746-5888-a9ef-f1e2791bb842",
-    "establishment_uuid": "e44298e1-d972-50a8-9517-53f1822204cd",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0093706|2026-08-07|RT-FOODEST-073216-2026",
-    "source_establishment_id": "PT0093706",
-    "restaurant_name": "BEE HIVE HOMES OF TAYLOR RANCH",
-    "address": {
-      "street": "6004 WHITEMAN DR NW",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-07",
+    "inspection_date": "2026-08-19",
     "inspection_type": "Routine Food Establishment Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -121,235 +793,25 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.397564Z"
+    "ingested_at": "2026-08-31T17:44:05.322104Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "2f889c7f-7fa1-5b74-a914-20642b7a2a5f",
-    "establishment_uuid": "e44298e1-d972-50a8-9517-53f1822204cd",
+    "inspection_uuid": "ad2d66de-4d57-51a3-ae54-91ddb5f090b4",
+    "establishment_uuid": "0b62bf3f-c1a3-5349-a16e-191365766daf",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0093706|2026-08-03|PT0093706",
-    "source_establishment_id": "PT0093706",
-    "restaurant_name": "BEE HIVE HOMES OF TAYLOR RANCH",
+    "source_inspection_id": "PT0160222|2026-08-20|PT0160222",
+    "source_establishment_id": "PT0160222",
+    "restaurant_name": "CHILE TRADITIONS",
     "address": {
-      "street": "6004 WHITEMAN DR NW",
+      "street": "6919 MONTGOMERY BLVD NE",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-03",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "fail",
-    "result_basis": "status='Closure Re-Inspection Required'; operational_status='Open' -> fail",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.397657Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "e8bdcc27-5e43-5d68-b1ab-b16566b6e51a",
-    "establishment_uuid": "adc9725a-a7d4-5b69-b1e6-07d62d99e86a",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0151527|2026-08-03|RT-FOODEST-014033-2025",
-    "source_establishment_id": "PT0151527",
-    "restaurant_name": "BOBS BURGERS #8",
-    "address": {
-      "street": "1945 JUAN TABO BLVD NE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-03",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.397749Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "505b985d-f904-57c1-a7cf-3d7e20fe30a0",
-    "establishment_uuid": "04b7644a-7440-5896-a348-2a68dd063a1d",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0102609|2026-08-07|CAC-Food-075037-2026",
-    "source_establishment_id": "PT0102609",
-    "restaurant_name": "CHILDRENS PROMISE CENTERS",
-    "address": {
-      "street": "12855 EASTRIDGE DR NE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-07",
-    "inspection_type": "Corrective Action Compliance",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.397840Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "546ddc18-3795-5cf6-bdfb-e71807c580b9",
-    "establishment_uuid": "04b7644a-7440-5896-a348-2a68dd063a1d",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0102609|2026-08-07|PT0102609",
-    "source_establishment_id": "PT0102609",
-    "restaurant_name": "CHILDRENS PROMISE CENTERS",
-    "address": {
-      "street": "12855 EASTRIDGE DR NE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-07",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.397931Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "81492931-10b0-5554-8e3b-56c10571bebe",
-    "establishment_uuid": "02754909-dbcb-5e58-8b68-04b5cdec7097",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0152771|2026-08-07|RT-FOODEST-037681-2026",
-    "source_establishment_id": "PT0152771",
-    "restaurant_name": "CHURCHS CHICKEN #2020",
-    "address": {
-      "street": "10230 CENTRAL AVE NE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-07",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "fail",
-    "result_basis": "status='Closure Re-Inspection Required'; operational_status='Open' -> fail",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.398021Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "da99f323-8672-5ccb-a4d1-c2fdfed363ba",
-    "establishment_uuid": "d36d2824-4162-57ad-9c49-926a5cb9f597",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0107538|2026-08-07|PT0107538",
-    "source_establishment_id": "PT0107538",
-    "restaurant_name": "CIRCLE K 8942",
-    "address": {
-      "street": "8101 HARPER RD NE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-07",
+    "inspection_date": "2026-08-20",
     "inspection_type": "Routine Retail Food Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -373,25 +835,109 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.398140Z"
+    "ingested_at": "2026-08-31T17:44:05.322149Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "4e7c6ee5-d16b-5381-903b-1daad4a265f8",
-    "establishment_uuid": "7580de52-c274-5ba3-abf7-765566913eac",
+    "inspection_uuid": "5ae747c0-eda1-5dd8-bfab-998bea26d53c",
+    "establishment_uuid": "15297b2e-07ea-5c63-87ad-2b7e19ee337a",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0133060|2026-08-05|PT0133060",
-    "source_establishment_id": "PT0133060",
-    "restaurant_name": "CIRCLE K STORE #2705317",
+    "source_inspection_id": "PT0152767|2026-08-18|RT-FOODEST-010117-2026",
+    "source_establishment_id": "PT0152767",
+    "restaurant_name": "CHURCHS CHICKEN #694",
     "address": {
-      "street": "13401 LOMAS BLVD NE",
+      "street": "5112 4TH NW",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-05",
+    "inspection_date": "2026-08-18",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.322195Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "83116d10-8d8a-5cb5-9495-c57381911cc5",
+    "establishment_uuid": "8ee8439d-0dd4-5916-b744-820c11c26be9",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0158909|2026-08-18|PT0158909",
+    "source_establishment_id": "PT0158909",
+    "restaurant_name": "CIRCLE K 2622024",
+    "address": {
+      "street": "6300 CENTRAL AVE SE",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-18",
+    "inspection_type": "Routine Retail Food Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.322240Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "58d15fc4-67ef-5026-ad90-3e80f4ceb901",
+    "establishment_uuid": "6eecb866-e2da-5516-a87a-66f71942e138",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0133063|2026-08-20|PT0133063",
+    "source_establishment_id": "PT0133063",
+    "restaurant_name": "CIRCLE K STORE #2706247",
+    "address": {
+      "street": "5605 4TH ST NW",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-20",
     "inspection_type": "Routine Retail Food Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -415,25 +961,25 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.398234Z"
+    "ingested_at": "2026-08-31T17:44:05.322300Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "8bddcd17-e933-5dd0-9969-87493bb18e97",
-    "establishment_uuid": "902ce1b6-6009-5dbe-a987-ba5edc03730e",
+    "inspection_uuid": "a632ff9d-153a-59c5-bd66-16ca4985ff04",
+    "establishment_uuid": "fdbd2163-3c09-5d48-9897-2b024c7a4d33",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0144191|2026-08-06|RT-FOODEST-018897-2026",
-    "source_establishment_id": "PT0144191",
-    "restaurant_name": "CORAL COMMUNITY CHARTER",
+    "source_inspection_id": "PT0156712|2026-08-21|PT0156712",
+    "source_establishment_id": "PT0156712",
+    "restaurant_name": "COMFORT SUITES",
     "address": {
-      "street": "4401 SILVER AVE SE",
+      "street": "1401 WOODWARD RD SE",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-06",
+    "inspection_date": "2026-08-21",
     "inspection_type": "Routine Food Establishment Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -457,25 +1003,25 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.398323Z"
+    "ingested_at": "2026-08-31T17:44:05.322350Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "ea6ea8d2-c0cf-57aa-9ee1-1b3a8a552ed8",
-    "establishment_uuid": "a1dc0872-f841-5cb7-a4b4-bc9321158823",
+    "inspection_uuid": "e82d9d75-4691-597f-a8af-bd78aceba881",
+    "establishment_uuid": "45fde4c1-69be-5e0e-a3db-d57cd8fdca76",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0159336|2026-08-06|RT-FOODEST-071091-2026",
-    "source_establishment_id": "PT0159336",
-    "restaurant_name": "Curry Leaf",
+    "source_inspection_id": "FOODEST-2025-009833|2026-08-17|RT-FOODEST-052872-2026",
+    "source_establishment_id": "FOODEST-2025-009833",
+    "restaurant_name": "DASHMART",
     "address": {
-      "street": "6910 MONTGOMERY BLVD NE, C",
+      "street": "1431 MERCANTILE AVE NE",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-06",
+    "inspection_date": "2026-08-17",
     "inspection_type": "Routine Food Establishment Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -499,25 +1045,67 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.398416Z"
+    "ingested_at": "2026-08-31T17:44:05.322396Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "f3f58667-d525-54ae-a1d5-c78e6b6665f5",
-    "establishment_uuid": "4cfbb5a0-1992-5708-86d8-e25a3adc4b61",
+    "inspection_uuid": "8850d2e2-cd38-5e7b-92fd-d4e0f5ca7cbc",
+    "establishment_uuid": "8cc61d21-39f2-5794-93df-a3690d740ed3",
     "source": "albuquerque_city",
-    "source_inspection_id": "FOODEST-2025-004067|2026-08-06|CAC-Food-074507-2026",
-    "source_establishment_id": "FOODEST-2025-004067",
-    "restaurant_name": "D's BBQ LLC",
+    "source_inspection_id": "PT0157263|2026-08-17|RT-RET-048105-2026",
+    "source_establishment_id": "PT0157263",
+    "restaurant_name": "DASHMART",
     "address": {
-      "street": "1200 Wyoming Blvd NE",
+      "street": "1431 MERCANTILE AVE NE",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-06",
+    "inspection_date": "2026-08-17",
+    "inspection_type": "Routine Retail Food Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.322443Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "05643671-6a57-542b-ad4f-71ea1c539869",
+    "establishment_uuid": "ccbecd6a-9f04-572e-80ea-e6ae458d87c9",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0158935|2026-08-17|CAC-Food-078174-2026",
+    "source_establishment_id": "PT0158935",
+    "restaurant_name": "DAVES HIGH DESERT GRILL",
+    "address": {
+      "street": "5200 EUBANK BLVD NE, B-5",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-17",
     "inspection_type": "Corrective Action Compliance",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -541,16 +1129,226 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.398505Z"
+    "ingested_at": "2026-08-31T17:44:05.322491Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "1400d247-b6f5-54ee-8b4f-afd65a9f8ad0",
+    "inspection_uuid": "10c68dcf-eb1e-552d-83ec-f5520e9932b6",
+    "establishment_uuid": "a22c9ace-8414-5817-b9c6-dce3d463098f",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0046323|2026-08-21|RT-FOODEST-078900-2026",
+    "source_establishment_id": "PT0046323",
+    "restaurant_name": "DGS DELI & MARKET",
+    "address": {
+      "street": "1418 DR MARTIN LUTHER KING JR AVE NE",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-21",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.322536Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "c0ce37b5-c7b1-51d6-9dcd-2602ef25cf13",
+    "establishment_uuid": "a22c9ace-8414-5817-b9c6-dce3d463098f",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0046323|2026-08-18|RT-FOODEST-078061-2026",
+    "source_establishment_id": "PT0046323",
+    "restaurant_name": "DGS DELI & MARKET",
+    "address": {
+      "street": "1418 DR MARTIN LUTHER KING JR AVE NE",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-18",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "fail",
+    "result_basis": "status='Closure Re-Inspection Required'; operational_status='Open' -> fail",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.322583Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "cde90845-ed67-568f-b0e9-2beb882ff857",
+    "establishment_uuid": "a22c9ace-8414-5817-b9c6-dce3d463098f",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0046323|2026-08-17|PT0046323",
+    "source_establishment_id": "PT0046323",
+    "restaurant_name": "DGS DELI & MARKET",
+    "address": {
+      "street": "1418 DR MARTIN LUTHER KING JR AVE NE",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-17",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.322629Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "9187c207-bc7f-596d-b90c-629c144d6bc9",
+    "establishment_uuid": "e623c174-68c1-50a7-9b00-4de34507c5a9",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0155640|2026-08-20|PT0155640",
+    "source_establishment_id": "PT0155640",
+    "restaurant_name": "DOLLAR TREE #8068",
+    "address": {
+      "street": "6211 4TH ST NW, 13 A",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-20",
+    "inspection_type": "Routine Retail Food Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.322676Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "86d47880-c0a7-5ee3-a555-814811f6faf5",
+    "establishment_uuid": "c5bf0008-de0c-5cff-a663-7f7372815166",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0153371|2026-08-17|RT-FOODEST-079299-2025",
+    "source_establishment_id": "PT0153371",
+    "restaurant_name": "DOMINOS PIZZA",
+    "address": {
+      "street": "2400 12TH ST NW, C",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-17",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.322722Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "8b45506f-4850-5726-be2c-84dd3274b245",
     "establishment_uuid": "981c3d2a-8fb6-5989-b361-7fa6d58c4458",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0159381|2026-08-05|CAC-Food-074310-2026",
+    "source_inspection_id": "PT0159381|2026-08-20|RT-FOODEST-077346-2026",
     "source_establishment_id": "PT0159381",
     "restaurant_name": "EAT MY THAI CUISINE",
     "address": {
@@ -559,91 +1357,7 @@
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-05",
-    "inspection_type": "Corrective Action Compliance",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.398591Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "1641466d-7fb6-519e-8f84-6a3f625654fb",
-    "establishment_uuid": "981c3d2a-8fb6-5989-b361-7fa6d58c4458",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0159381|2026-08-05|RT-FOODEST-065878-2026",
-    "source_establishment_id": "PT0159381",
-    "restaurant_name": "EAT MY THAI CUISINE",
-    "address": {
-      "street": "5303 GIBSON BLVD SE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-05",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.398678Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "63a12422-d6a0-5861-a4d7-1afbc0e4d628",
-    "establishment_uuid": "79da348f-328a-5f30-a44c-8112d909b24f",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0092882|2026-08-03|RT-FOODEST-055634-2025",
-    "source_establishment_id": "PT0092882",
-    "restaurant_name": "EL MEZQUITE MARKET",
-    "address": {
-      "street": "100 98TH ST NW",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-03",
+    "inspection_date": "2026-08-20",
     "inspection_type": "Routine Food Establishment Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -667,25 +1381,109 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.398766Z"
+    "ingested_at": "2026-08-31T17:44:05.322768Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "fc202e05-78eb-5f61-b699-5b0695260811",
-    "establishment_uuid": "ff56f4f2-b942-52ea-b3c6-0ec655883bfb",
+    "inspection_uuid": "95a1f305-65d6-5ece-be42-fc25c75b0b3e",
+    "establishment_uuid": "a2af5d7b-ec45-5024-80c2-e30519f85b3e",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0092883|2026-08-03|RT-RET-058745-2025",
-    "source_establishment_id": "PT0092883",
-    "restaurant_name": "EL MEZQUITE MARKET",
+    "source_inspection_id": "PT0052509|2026-08-19|PT0052509",
+    "source_establishment_id": "PT0052509",
+    "restaurant_name": "ENCINO MID-TOWN MEALSITE",
     "address": {
-      "street": "100 98TH ST NW",
+      "street": "609 ENCINO PL NE",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-03",
+    "inspection_date": "2026-08-19",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "fail",
+    "result_basis": "status='Closure Re-Inspection Required'; operational_status='Open' -> fail",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.322816Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "3bf19066-d3be-57b0-bfad-113ef35092ef",
+    "establishment_uuid": "e655d017-77b7-5a5e-a738-c8f756a09b61",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0161603|2026-08-17|RT-FOODEST-060067-2025",
+    "source_establishment_id": "PT0161603",
+    "restaurant_name": "Fairfield/TownePlace Albuquerque Uptown",
+    "address": {
+      "street": "2160 Louisiana BLVD NE",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-17",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.322864Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "732ac54f-49e8-557c-9e16-75817469cb5a",
+    "establishment_uuid": "5ada02f1-a7e9-5e3f-9c29-cce325cb3b73",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0161604|2026-08-17|RT-RET-077909-2026",
+    "source_establishment_id": "PT0161604",
+    "restaurant_name": "Fairfield/TownePlace Albuquerque Uptown",
+    "address": {
+      "street": "2160 Louisiana BLVD NE",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-17",
     "inspection_type": "Routine Retail Food Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -709,530 +1507,26 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.398853Z"
+    "ingested_at": "2026-08-31T17:44:05.322909Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "f517f722-bd1a-5914-a416-c615e972a288",
-    "establishment_uuid": "d263a39c-a296-5e8b-bf92-5d850cc21389",
+    "inspection_uuid": "bb4d99a6-5751-552b-b14e-7af50dae2f03",
+    "establishment_uuid": "28d59b9e-dae1-5580-a3df-5aa86988e5c3",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0092884|2026-08-03|RT-RET-058710-2025",
-    "source_establishment_id": "PT0092884",
-    "restaurant_name": "EL MEZQUITE MARKET",
+    "source_inspection_id": "PT0160241|2026-08-21|RT-FOODEST-079972-2026",
+    "source_establishment_id": "PT0160241",
+    "restaurant_name": "FILIBERTOS",
     "address": {
-      "street": "100 98TH ST NW",
+      "street": "5201 4TH ST NW",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-03",
-    "inspection_type": "Routine Retail Food Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.398939Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "0f4d2370-262f-5a21-afab-1cd710f88ccc",
-    "establishment_uuid": "278d6882-4904-5976-a6e6-9073b40d8804",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0092885|2026-08-03|RT-RET-007739-2026",
-    "source_establishment_id": "PT0092885",
-    "restaurant_name": "EL MEZQUITE MARKET",
-    "address": {
-      "street": "100 98TH ST NW",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-03",
-    "inspection_type": "Routine Retail Food Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.399025Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "ab6701fa-d340-5e39-ac21-c52b987d6ea2",
-    "establishment_uuid": "8e9b95db-4a08-5205-b6f5-cb1a3e4ad6bc",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0067359|2026-08-07|PT0067359",
-    "source_establishment_id": "PT0067359",
-    "restaurant_name": "FAMILY DOLLAR STORES/NM INC",
-    "address": {
-      "street": "7100 SAN PEDRO DR NE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-07",
-    "inspection_type": "Routine Retail Food Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.399136Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "c72bdd5d-b729-515c-a5b7-ab6c33a626f7",
-    "establishment_uuid": "33656b1c-5b3b-5d7c-81a6-ead708cb32ad",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0160178|2026-08-07|RT-FOODEST-101197-2025",
-    "source_establishment_id": "PT0160178",
-    "restaurant_name": "FREDDYS FROZEN CUSTARD & STEAKBURGERS",
-    "address": {
-      "street": "10701 CORRALES RD, A-1",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-07",
+    "inspection_date": "2026-08-21",
     "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.399227Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "04e519c6-8ba3-54ab-ac64-f4b32fab9a92",
-    "establishment_uuid": "c6a27525-55ac-50eb-8ea3-29e2878ec42b",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0161724|2026-08-03|CAC-Food-073373-2026",
-    "source_establishment_id": "PT0161724",
-    "restaurant_name": "FRESQUEZ CONCESSIONS",
-    "address": {
-      "street": "2200 SUNPORT BLVD SE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-03",
-    "inspection_type": "Corrective Action Compliance",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.399319Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "a3e55c31-90dc-5452-828a-920d811466fa",
-    "establishment_uuid": "c6a27525-55ac-50eb-8ea3-29e2878ec42b",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0161724|2026-08-03|RT-FOODEST-010713-2025",
-    "source_establishment_id": "PT0161724",
-    "restaurant_name": "FRESQUEZ CONCESSIONS",
-    "address": {
-      "street": "2200 SUNPORT BLVD SE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-03",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.399405Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "782a0972-8236-5bb8-8de9-84ecc6e6e69e",
-    "establishment_uuid": "cee743b7-bfae-5a20-b80a-fa181ef5f8e5",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0161725|2026-08-03|CAC-Food-073414-2026",
-    "source_establishment_id": "PT0161725",
-    "restaurant_name": "FRESQUEZ CONCESSIONS",
-    "address": {
-      "street": "2200 SUNPORT BLVD SE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-03",
-    "inspection_type": "Corrective Action Compliance",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.399491Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "962b1eda-085c-5630-abb0-4ba1a1c02d00",
-    "establishment_uuid": "cee743b7-bfae-5a20-b80a-fa181ef5f8e5",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0161725|2026-08-03|RT-FOODEST-010711-2025",
-    "source_establishment_id": "PT0161725",
-    "restaurant_name": "FRESQUEZ CONCESSIONS",
-    "address": {
-      "street": "2200 SUNPORT BLVD SE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-03",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.399577Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "22847512-7f2a-5a53-87a9-ef7d0e21c4e0",
-    "establishment_uuid": "37283667-521e-560e-8fb5-3ea096206ee7",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0161727|2026-08-03|RT-FOODEST-017252-2025",
-    "source_establishment_id": "PT0161727",
-    "restaurant_name": "FRESQUEZ CONCESSIONS",
-    "address": {
-      "street": "2200 SUNPORT BLVD SE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-03",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.399662Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "1aaa8419-9bf4-53db-addf-341aad2df229",
-    "establishment_uuid": "d0f1dc74-11f3-5ba8-98c5-2983d78d54f9",
-    "source": "albuquerque_city",
-    "source_inspection_id": "FOODEST-2025-003635|2026-08-03|CAC-Food-073352-2026",
-    "source_establishment_id": "FOODEST-2025-003635",
-    "restaurant_name": "Fresquez Concessions, Inc.",
-    "address": {
-      "street": "2200 SUNPORT BLVD SE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-03",
-    "inspection_type": "Corrective Action Compliance",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.399747Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "d6fb29b7-a346-5382-b973-0040a4126e3c",
-    "establishment_uuid": "d0f1dc74-11f3-5ba8-98c5-2983d78d54f9",
-    "source": "albuquerque_city",
-    "source_inspection_id": "FOODEST-2025-003635|2026-08-03|RT-FOODEST-101372-2025",
-    "source_establishment_id": "FOODEST-2025-003635",
-    "restaurant_name": "Fresquez Concessions, Inc.",
-    "address": {
-      "street": "2200 SUNPORT BLVD SE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-03",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.399833Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "61a623fc-16a9-5cae-a9da-704f5abbf46d",
-    "establishment_uuid": "9bc3f036-4ef8-59d8-a983-ffdb9eae6899",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0111688|2026-08-05|RT-FOODEST-073494-2026",
-    "source_establishment_id": "PT0111688",
-    "restaurant_name": "HOTEL PARQ CENTRAL",
-    "address": {
-      "street": "806 CENTRAL AVE SE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-05",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.399917Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "254eeb2d-9bb6-5268-9701-1dc7539138f6",
-    "establishment_uuid": "9bc3f036-4ef8-59d8-a983-ffdb9eae6899",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0111688|2026-08-04|CAC-Food-073481-2026",
-    "source_establishment_id": "PT0111688",
-    "restaurant_name": "HOTEL PARQ CENTRAL",
-    "address": {
-      "street": "806 CENTRAL AVE SE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-04",
-    "inspection_type": "Corrective Action Compliance",
     "inspection_result": "fail",
     "result_basis": "status='Unsatisfactory Re-Inspection required'; operational_status='Open' -> fail",
     "score": null,
@@ -1255,67 +1549,25 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.400003Z"
+    "ingested_at": "2026-08-31T17:44:05.322954Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "ecc37497-1375-5f90-bdb9-e7ca42f4dac6",
-    "establishment_uuid": "9bc3f036-4ef8-59d8-a983-ffdb9eae6899",
+    "inspection_uuid": "4cd2b069-eb09-589b-90d8-bcba09db60c1",
+    "establishment_uuid": "f471d648-5c54-5b43-a25f-7ae211b53720",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0111688|2026-08-04|PT0111688",
-    "source_establishment_id": "PT0111688",
-    "restaurant_name": "HOTEL PARQ CENTRAL",
+    "source_inspection_id": "PT0111666|2026-08-17|RT-FOODEST-023979-2026",
+    "source_establishment_id": "PT0111666",
+    "restaurant_name": "HAYASHI HIBACHI SUSHI",
     "address": {
-      "street": "806 CENTRAL AVE SE",
+      "street": "6321 SAN MATEO BLVD NE",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-04",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "fail",
-    "result_basis": "status='Closure Re-Inspection Required'; operational_status='Open' -> fail",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.400119Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "c27c3205-1992-5d21-b5be-ed01087158c6",
-    "establishment_uuid": "ecad15d0-ab79-5060-b16d-b2181df50bd1",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0086976|2026-08-03|RT-FOODEST-015639-2025",
-    "source_establishment_id": "PT0086976",
-    "restaurant_name": "I SCREAM ICE CREAM",
-    "address": {
-      "street": "2000 CARLISLE BLVD NE, F",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-03",
+    "inspection_date": "2026-08-17",
     "inspection_type": "Routine Food Establishment Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -1339,109 +1591,25 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.400215Z"
+    "ingested_at": "2026-08-31T17:44:05.322998Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "3631fbd8-7d12-53c1-961a-3f07faf35650",
-    "establishment_uuid": "4cce7971-a78d-5d62-8fe7-808d67632ecb",
+    "inspection_uuid": "474bd84a-d76b-591c-83ba-bfae3a03ee0a",
+    "establishment_uuid": "755b70db-c19a-5d6d-9aa3-5071ba9542f3",
     "source": "albuquerque_city",
-    "source_inspection_id": "FOODEST-2025-019010|2026-08-06|RT-FOODEST-074783-2026",
-    "source_establishment_id": "FOODEST-2025-019010",
-    "restaurant_name": "Indian Cuisine LLC DBA Taaj Palace",
+    "source_inspection_id": "PT0158591|2026-08-21|RT-FOODEST-003509-2026",
+    "source_establishment_id": "PT0158591",
+    "restaurant_name": "HEALTHY NUTRITION",
     "address": {
-      "street": "1435 EUBANK BLVD NE",
+      "street": "640 COORS BLVD NW",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-06",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.400304Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "0dfa6c39-ec46-5652-a360-00c5dcb5e987",
-    "establishment_uuid": "4cce7971-a78d-5d62-8fe7-808d67632ecb",
-    "source": "albuquerque_city",
-    "source_inspection_id": "FOODEST-2025-019010|2026-08-06|RT-FOODEST-002003-2026",
-    "source_establishment_id": "FOODEST-2025-019010",
-    "restaurant_name": "Indian Cuisine LLC DBA Taaj Palace",
-    "address": {
-      "street": "1435 EUBANK BLVD NE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-06",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "fail",
-    "result_basis": "status='Closure Re-Inspection Required'; operational_status='Open' -> fail",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.400390Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "88b4aa5d-e656-525e-a783-e4fd234a365e",
-    "establishment_uuid": "38483a24-5df9-592a-94c7-2e5b46a658a8",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0152825|2026-08-06|RT-FOODEST-115237-2025",
-    "source_establishment_id": "PT0152825",
-    "restaurant_name": "INSOMNIA COOKIES 130",
-    "address": {
-      "street": "2132 CENTRAL AVE SE, A-2",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-06",
+    "inspection_date": "2026-08-21",
     "inspection_type": "Routine Food Establishment Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -1465,25 +1633,25 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.400475Z"
+    "ingested_at": "2026-08-31T17:44:05.323043Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "0cd062e9-2887-5108-9f49-f80b297f7914",
-    "establishment_uuid": "2b880ba3-4e52-5680-a44e-b0d60d4d83c1",
+    "inspection_uuid": "2a0517ad-b91b-57e8-8794-3c649511d351",
+    "establishment_uuid": "c4fecf69-71dd-5c1a-a732-f384214ec84e",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0159567|2026-08-03|PT0159567",
-    "source_establishment_id": "PT0159567",
-    "restaurant_name": "J BENTO SUSHI",
+    "source_inspection_id": "PT0102360|2026-08-17|RT-FOODEST-037052-2025",
+    "source_establishment_id": "PT0102360",
+    "restaurant_name": "JACK IN THE BOX",
     "address": {
-      "street": "7610 CARMEL AVE NE, E",
+      "street": "10100 CENTRAL AVE SE",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-03",
+    "inspection_date": "2026-08-17",
     "inspection_type": "Routine Food Establishment Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -1507,25 +1675,25 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.400560Z"
+    "ingested_at": "2026-08-31T17:44:05.323087Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "10729cfa-cb31-5daa-a20e-6a3247b96e20",
-    "establishment_uuid": "a0612033-32eb-5426-9955-827d95a5ccf4",
+    "inspection_uuid": "e1a19d87-da13-52d3-8f07-3aa5982b437f",
+    "establishment_uuid": "76c5e961-e4ef-5705-a1de-f0dd79dccfa8",
     "source": "albuquerque_city",
-    "source_inspection_id": "FOODEST-2026-006798|2026-08-05|RT-FOODEST-070655-2026",
-    "source_establishment_id": "FOODEST-2026-006798",
-    "restaurant_name": "Limra DBA Royal Hyderabad",
+    "source_inspection_id": "PT0152669|2026-08-17|PT0153768",
+    "source_establishment_id": "PT0152669",
+    "restaurant_name": "LAGUNA BURGER",
     "address": {
-      "street": "5760 McMahon NW BLVD, Ste B-E",
+      "street": "2400 12TH ST NW",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-05",
+    "inspection_date": "2026-08-17",
     "inspection_type": "Routine Food Establishment Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -1549,109 +1717,25 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.400646Z"
+    "ingested_at": "2026-08-31T17:44:05.323131Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "a05d017d-d56b-5266-ade3-c780222bf4a5",
-    "establishment_uuid": "a7003339-f8b1-53f1-88ad-bfd49631630c",
+    "inspection_uuid": "f5e545db-3e54-58fc-ae4a-c2296634db48",
+    "establishment_uuid": "bcb73a27-8a26-58ce-bc29-6f2ae24070e7",
     "source": "albuquerque_city",
-    "source_inspection_id": "FOODEST-2025-010013|2026-08-04|CAC-Food-073816-2026",
-    "source_establishment_id": "FOODEST-2025-010013",
-    "restaurant_name": "MICHOA K ANA LLC",
+    "source_inspection_id": "FOODEST-2026-011592|2026-08-20|RT-FOODEST-076543-2026",
+    "source_establishment_id": "FOODEST-2026-011592",
+    "restaurant_name": "Little Caesar's",
     "address": {
-      "street": "301 San Pedro DR SE, SUITE #1",
+      "street": "2529 SAN MATEO BLVD NE",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-04",
-    "inspection_type": "Corrective Action Compliance",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.400731Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "6471cda1-1657-5595-afff-5cd198dc75a6",
-    "establishment_uuid": "a7003339-f8b1-53f1-88ad-bfd49631630c",
-    "source": "albuquerque_city",
-    "source_inspection_id": "FOODEST-2025-010013|2026-08-04|RT-FOODEST-107380-2025",
-    "source_establishment_id": "FOODEST-2025-010013",
-    "restaurant_name": "MICHOA K ANA LLC",
-    "address": {
-      "street": "301 San Pedro DR SE, SUITE #1",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-04",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.400817Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "3de91735-5041-544d-8453-195ea348e9a6",
-    "establishment_uuid": "23f9f422-7595-5821-8dce-0f05eacf8135",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0157188|2026-08-06|RT-FOODEST-116387-2025",
-    "source_establishment_id": "PT0157188",
-    "restaurant_name": "Morningstar Memory Care at North Ridge",
-    "address": {
-      "street": "8101 PALOMAS AVE NE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-06",
+    "inspection_date": "2026-08-20",
     "inspection_type": "Routine Food Establishment Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -1675,235 +1759,25 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.400904Z"
+    "ingested_at": "2026-08-31T17:44:05.323176Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "808d6995-59d2-5fa3-8065-2189478fbf1d",
-    "establishment_uuid": "4967196d-c9e1-5a48-bb8d-6951704548eb",
+    "inspection_uuid": "bdab6717-31ab-5782-9561-d088d593fdc7",
+    "establishment_uuid": "3030471e-82a8-5fac-9201-44937a6d297f",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0159568|2026-08-05|RT-MBFOOD-064504-2025",
-    "source_establishment_id": "PT0159568",
-    "restaurant_name": "OLD GLORY",
+    "source_inspection_id": "PT0114112|2026-08-17|RT-FOODEST-073581-2025",
+    "source_establishment_id": "PT0114112",
+    "restaurant_name": "LITTLE CAESARS 512",
     "address": {
-      "street": "3851 RIO GRANDE BLVD NE, B",
+      "street": "101 98TH ST NW, 100",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-05",
-    "inspection_type": "Routine Mobile Food Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.400990Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "c05ece3b-2785-551b-a984-0891e91fa4aa",
-    "establishment_uuid": "2cb4672a-a424-5199-a89f-48279852f5f0",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0150163|2026-08-07|RT-FOODEST-075215-2026",
-    "source_establishment_id": "PT0150163",
-    "restaurant_name": "PALETERIA MICHOACANA EL PARAISO",
-    "address": {
-      "street": "9001 CENTRAL AVE NE, C",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-07",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.401095Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "3ea4f28f-1369-5d7a-a9aa-0cc5ad741ab4",
-    "establishment_uuid": "2cb4672a-a424-5199-a89f-48279852f5f0",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0150163|2026-08-07|PT0150163",
-    "source_establishment_id": "PT0150163",
-    "restaurant_name": "PALETERIA MICHOACANA EL PARAISO",
-    "address": {
-      "street": "9001 CENTRAL AVE NE, C",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-07",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "fail",
-    "result_basis": "status='Closure Re-Inspection Required'; operational_status='Open' -> fail",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.401189Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "e3933127-70b3-53d4-b24a-6ed74309e056",
-    "establishment_uuid": "07997468-2d19-5eaa-ab3e-fb65b6236ce2",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0095595|2026-08-03|CAC-Food-073163-2026",
-    "source_establishment_id": "PT0095595",
-    "restaurant_name": "PALOMA LANDING",
-    "address": {
-      "street": "8301 PALOMAS AVE NE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-03",
-    "inspection_type": "Corrective Action Compliance",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.401277Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "90dc9b5d-3ea3-5f17-b590-e89dbcdcb6ba",
-    "establishment_uuid": "07997468-2d19-5eaa-ab3e-fb65b6236ce2",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0095595|2026-08-03|PT0095595",
-    "source_establishment_id": "PT0095595",
-    "restaurant_name": "PALOMA LANDING",
-    "address": {
-      "street": "8301 PALOMAS AVE NE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-03",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.401363Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "de8aa470-c65f-551a-8b5e-40c5ccaa881a",
-    "establishment_uuid": "e6819439-7c04-5e2f-b97c-edd00c60c86e",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0155330|2026-08-06|RT-FOODEST-100137-2025",
-    "source_establishment_id": "PT0155330",
-    "restaurant_name": "PAPA JOHNS\u2019 PIZZA",
-    "address": {
-      "street": "2206 CENTRAL AVE SE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-06",
+    "inspection_date": "2026-08-17",
     "inspection_type": "Routine Food Establishment Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -1927,25 +1801,25 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.401449Z"
+    "ingested_at": "2026-08-31T17:44:05.323220Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "9d680da2-566b-5aa9-b6e2-2d234ad483da",
-    "establishment_uuid": "0db1e0cb-2c65-56b3-b22e-4b4bfcdcd92f",
+    "inspection_uuid": "55686fbf-570f-52f4-9078-33fc1a440afd",
+    "establishment_uuid": "9d1e6a1d-0298-577f-8ed0-159e1291aef6",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0084004|2026-08-04|RT-FOODEST-073829-2026",
-    "source_establishment_id": "PT0084004",
-    "restaurant_name": "PETER PIPER PIZZA",
+    "source_inspection_id": "PT0052176|2026-08-17|PT0052176",
+    "source_establishment_id": "PT0052176",
+    "restaurant_name": "LOS CUATES NORTH",
     "address": {
-      "street": "3109 SAN MATEO BLVD NE",
+      "street": "4901 LOMAS BLVD NE",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-04",
+    "inspection_date": "2026-08-17",
     "inspection_type": "Routine Food Establishment Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -1969,67 +1843,25 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.401535Z"
+    "ingested_at": "2026-08-31T17:44:05.323277Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "f6c1587c-6fdc-5b33-85ef-7dae33d9f72e",
-    "establishment_uuid": "0db1e0cb-2c65-56b3-b22e-4b4bfcdcd92f",
+    "inspection_uuid": "eba685ec-853f-506b-bc42-58b85394fb47",
+    "establishment_uuid": "e8638489-6a66-5b6b-8565-663fb2e0f216",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0084004|2026-08-04|RT-FOODEST-034195-2026",
-    "source_establishment_id": "PT0084004",
-    "restaurant_name": "PETER PIPER PIZZA",
+    "source_inspection_id": "PT0052177|2026-08-17|PT0052177",
+    "source_establishment_id": "PT0052177",
+    "restaurant_name": "LOS CUATES NORTH",
     "address": {
-      "street": "3109 SAN MATEO BLVD NE",
+      "street": "4901 LOMAS BLVD NE",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-04",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "fail",
-    "result_basis": "status='Closure Re-Inspection Required'; operational_status='Open' -> fail",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.401626Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "9fe7d6bb-ef7f-5bfb-82ce-d0210460e7ae",
-    "establishment_uuid": "f97e7b87-6d1c-5953-825c-91051039064c",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0158292|2026-08-05|RT-FOODEST-072670-2026",
-    "source_establishment_id": "PT0158292",
-    "restaurant_name": "QUALITY INN AND SUITES",
-    "address": {
-      "street": "5601 ALAMEDA BLVD NE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-05",
+    "inspection_date": "2026-08-17",
     "inspection_type": "Routine Food Establishment Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -2053,26 +1885,26 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.401713Z"
+    "ingested_at": "2026-08-31T17:44:05.323329Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "3f112f3f-481d-5bfc-9bf0-c7433b473cbf",
-    "establishment_uuid": "f97e7b87-6d1c-5953-825c-91051039064c",
+    "inspection_uuid": "cf76d9ad-e9c9-5836-81e4-4448453a5b05",
+    "establishment_uuid": "6b1b0c21-27ae-5829-8c42-ce5c11eb51a9",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0158292|2026-08-03|CAC-Food-073013-2026",
-    "source_establishment_id": "PT0158292",
-    "restaurant_name": "QUALITY INN AND SUITES",
+    "source_inspection_id": "PT0155594|2026-08-17|RT-FOODEST-077597-2026",
+    "source_establishment_id": "PT0155594",
+    "restaurant_name": "LOVE AND CARE CHILD DEVELOPMENT",
     "address": {
-      "street": "5601 ALAMEDA BLVD NE",
+      "street": "5407 4TH ST NW",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-03",
-    "inspection_type": "Corrective Action Compliance",
+    "inspection_date": "2026-08-17",
+    "inspection_type": "Routine Food Establishment Inspection",
     "inspection_result": "fail",
     "result_basis": "status='Unsatisfactory Re-Inspection required'; operational_status='Open' -> fail",
     "score": null,
@@ -2095,16 +1927,478 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.401798Z"
+    "ingested_at": "2026-08-31T17:44:05.323375Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "9ff24ae9-3f76-5ac1-acac-d49da17e906e",
+    "inspection_uuid": "a143064d-dac7-59e3-aa44-ae060d406c74",
+    "establishment_uuid": "9fb9e78d-7737-5673-b60a-ba4d2dd65f19",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0099577|2026-08-19|PT0099577",
+    "source_establishment_id": "PT0099577",
+    "restaurant_name": "MARIOS PIZZA AND PASTA EXPRESS INC",
+    "address": {
+      "street": "5700 4TH ST NW, F",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-19",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.323420Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "b6b8d46f-36cc-59b5-bcd7-d4ac74f6f4dc",
+    "establishment_uuid": "58128d7a-63df-57d0-9856-bf255b08f8a7",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0161113|2026-08-19|PT0161113",
+    "source_establishment_id": "PT0161113",
+    "restaurant_name": "MONTEREY MOTEL",
+    "address": {
+      "street": "2402 CENTRAL AVE SW",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-19",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.323464Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "21ff3cfd-3850-57ba-9853-7145fedf84a6",
+    "establishment_uuid": "ead861c3-0ce2-5607-ad54-8544f6fc7803",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0160418|2026-08-21|RT-FOODEST-019102-2026",
+    "source_establishment_id": "PT0160418",
+    "restaurant_name": "Mrs. Sprinkles Ice Cream",
+    "address": {
+      "street": "3107 EUBANK BLVD NE, 18",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-21",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.323508Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "c83a762b-4468-5c85-ab27-92e339d58ce8",
+    "establishment_uuid": "130e3ffe-c2e5-5a38-a265-2939b711af90",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0138706|2026-08-20|PT0138706",
+    "source_establishment_id": "PT0138706",
+    "restaurant_name": "PALETERIA LA MICHOACANA DEL SUR",
+    "address": {
+      "street": "1720 BRIDGE BLVD SW",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-20",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.323554Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "b796a36a-b17f-52e2-8fa4-12843af3bd60",
+    "establishment_uuid": "1dbdac05-c171-532c-bef3-a321e530860e",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0152919|2026-08-17|RT-RET-069804-2025",
+    "source_establishment_id": "PT0152919",
+    "restaurant_name": "PANADERIA PASTELANDIA",
+    "address": {
+      "street": "600 LOUISIANA BLVD SE, #F",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-17",
+    "inspection_type": "Routine Retail Food Inspection",
+    "inspection_result": "fail",
+    "result_basis": "status='Closure Re-Inspection Required'; operational_status='Open' -> fail",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.323599Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "08a8a0d2-1484-539d-ac93-0a36c3bcbe73",
+    "establishment_uuid": "1dbdac05-c171-532c-bef3-a321e530860e",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0152919|2026-08-17|CAC-Food-078134-2026",
+    "source_establishment_id": "PT0152919",
+    "restaurant_name": "PANADERIA PASTELANDIA",
+    "address": {
+      "street": "600 LOUISIANA BLVD SE, #F",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-17",
+    "inspection_type": "Corrective Action Compliance",
+    "inspection_result": "pass",
+    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.323643Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "5d9cbf28-9080-5865-b988-2acf41ca2a46",
+    "establishment_uuid": "83a9f4a0-e249-542a-80c7-ab4e821d1449",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0105955|2026-08-17|PT0105955",
+    "source_establishment_id": "PT0105955",
+    "restaurant_name": "Peter Defries Corp DBA Dion's",
+    "address": {
+      "street": "6308 4TH ST NW",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-17",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.323688Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "0c657a48-5184-56e7-bbb1-64668bc2b1d5",
+    "establishment_uuid": "824a9b93-6490-5654-9f4a-92f03ec4b043",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0158318|2026-08-20|PT0158318",
+    "source_establishment_id": "PT0158318",
+    "restaurant_name": "POP POPS LLC",
+    "address": {
+      "street": "6300 SAN MATEO BLVD NE, I 1",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-20",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.323733Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "68d19660-0582-554d-b4f2-0bbb32d25a03",
+    "establishment_uuid": "93399f95-db07-565c-a438-2c69cca15c4a",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0161137|2026-08-20|PT0161137",
+    "source_establishment_id": "PT0161137",
+    "restaurant_name": "POP POPS LLC",
+    "address": {
+      "street": "6300 SAN MATEO BLVD NE, I 1",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-20",
+    "inspection_type": "Routine Food Processor Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.323777Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "04fad346-429f-59eb-a143-8be3784597e0",
+    "establishment_uuid": "b8187d7f-5aef-583e-be9c-a49e5d6a1401",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0160878|2026-08-20|CAC-Food-079448-2026",
+    "source_establishment_id": "PT0160878",
+    "restaurant_name": "QUALITY INN ABQ EAST",
+    "address": {
+      "street": "450 PAISANO ST NE",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-20",
+    "inspection_type": "Corrective Action Compliance",
+    "inspection_result": "pass",
+    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.323822Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "7a66f549-245f-56ce-98ad-85d6099c41be",
+    "establishment_uuid": "b8187d7f-5aef-583e-be9c-a49e5d6a1401",
+    "source": "albuquerque_city",
+    "source_inspection_id": "PT0160878|2026-08-18|PT0160878",
+    "source_establishment_id": "PT0160878",
+    "restaurant_name": "QUALITY INN ABQ EAST",
+    "address": {
+      "street": "450 PAISANO ST NE",
+      "city": "Albuquerque",
+      "state": "NM",
+      "postal_code": null
+    },
+    "inspection_date": "2026-08-18",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "pass",
+    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
+    "score": null,
+    "grade": null,
+    "critical_violation_count": null,
+    "total_violation_count": null,
+    "violations": [],
+    "geography": {
+      "county_name": "Bernalillo",
+      "county_fips": "35001",
+      "state_fips": "35",
+      "state": "NM",
+      "population": 676000,
+      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
+      "enrichment_note": null
+    },
+    "source_metadata": {
+      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
+      "publisher": "City of Albuquerque Environmental Health Department",
+      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
+      "extraction_method": "pdf",
+      "source_dataset_id": null,
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
+    },
+    "ingested_at": "2026-08-31T17:44:05.323866Z"
+  },
+  {
+    "schema_version": "0.1.0",
+    "inspection_uuid": "abc3aeb4-f3bf-537a-af83-caee38fc5ded",
     "establishment_uuid": "2b8bf192-0fe1-50cb-b44b-1c58ac9cbaaf",
     "source": "albuquerque_city",
-    "source_inspection_id": "FOODEST-2025-018105|2026-08-07|RT-FOODEST-035309-2026",
+    "source_inspection_id": "FOODEST-2025-018105|2026-08-19|RT-FOODEST-079362-2026",
     "source_establishment_id": "FOODEST-2025-018105",
     "restaurant_name": "Quesadilla Way LLC",
     "address": {
@@ -2113,7 +2407,7 @@
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-07",
+    "inspection_date": "2026-08-19",
     "inspection_type": "Routine Food Establishment Inspection",
     "inspection_result": "fail",
     "result_basis": "status='Closure Re-Inspection Required'; operational_status='Closed' -> fail",
@@ -2137,25 +2431,25 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.401883Z"
+    "ingested_at": "2026-08-31T17:44:05.323912Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "7c6ec6cb-0ee5-5313-9b92-ae9bbe039b68",
-    "establishment_uuid": "08011c36-0a50-59dc-add6-ec3bb6e9df6f",
+    "inspection_uuid": "692de373-8f14-560e-9495-36b523806cb8",
+    "establishment_uuid": "b2581244-447b-55ee-8bbe-0bed974193a7",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0075491|2026-08-03|PT0075491",
-    "source_establishment_id": "PT0075491",
-    "restaurant_name": "R & G HEALTHCARE MANAGEMENT LLC",
+    "source_inspection_id": "PT0145853|2026-08-21|PT0145853",
+    "source_establishment_id": "PT0145853",
+    "restaurant_name": "STARBUCKS",
     "address": {
-      "street": "6000 WHITEMAN DR NW",
+      "street": "2400 12TH ST NW",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-03",
+    "inspection_date": "2026-08-21",
     "inspection_type": "Routine Food Establishment Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -2179,109 +2473,25 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.401969Z"
+    "ingested_at": "2026-08-31T17:44:05.323958Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "e0b45478-cd44-5b5f-a2a5-4a4a30484889",
-    "establishment_uuid": "941fe711-9b38-512c-ad91-fdf7a33aed87",
+    "inspection_uuid": "9008f37f-34a6-5829-a6bb-4cc0a2280e51",
+    "establishment_uuid": "8a904e35-f5b5-5024-be12-b29f74506168",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0160722|2026-08-06|PT0160722",
-    "source_establishment_id": "PT0160722",
-    "restaurant_name": "RIGO TACOS EL AMIGO",
+    "source_inspection_id": "PT0157210|2026-08-21|PT0157210",
+    "source_establishment_id": "PT0157210",
+    "restaurant_name": "SUNPORT PARK HOSPITALITY LLC DBA COMFORT SUITES",
     "address": {
-      "street": "8009 CENTRAL AVE NE",
+      "street": "1401 WOODWARD RD SE",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-06",
-    "inspection_type": "Routine Mobile Food Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.402055Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "0c7386e6-9b99-5849-913d-81a122da976f",
-    "establishment_uuid": "cbb7544c-8510-5a41-b21c-1cf9683fbab5",
-    "source": "albuquerque_city",
-    "source_inspection_id": "FOODEST-2025-010667|2026-08-06|RT-FOODEST-106894-2025",
-    "source_establishment_id": "FOODEST-2025-010667",
-    "restaurant_name": "SOM Hotels LLC DBA Hampton Inn & Suites- 6150 ILIFF RD NW",
-    "address": {
-      "street": null,
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-06",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.402171Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "4d649ff5-6d31-587a-8705-bf1ef2703fc7",
-    "establishment_uuid": "d1fd5fc4-928f-5e01-9a01-25d8efe72e7e",
-    "source": "albuquerque_city",
-    "source_inspection_id": "RETAIL-2025-010668|2026-08-06|RT-RET-106925-2025",
-    "source_establishment_id": "RETAIL-2025-010668",
-    "restaurant_name": "SOM Hotels LLC DBA Hampton Inn & Suites- 6150 ILIFF RD NW",
-    "address": {
-      "street": null,
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-06",
+    "inspection_date": "2026-08-21",
     "inspection_type": "Routine Retail Food Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -2305,28 +2515,28 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.402263Z"
+    "ingested_at": "2026-08-31T17:44:05.324002Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "3d501d8f-a469-5d67-83f9-761b4f93ed00",
-    "establishment_uuid": "81ca40ff-127a-512f-b5f0-f0f9e1d7e4fc",
+    "inspection_uuid": "e5893fb5-9c0f-553c-9e4c-556daea17b9d",
+    "establishment_uuid": "e462e566-19de-59ec-8e77-a1873c6b63e6",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0044166|2026-08-06|RT-FOODEST-078385-2025",
-    "source_establishment_id": "PT0044166",
-    "restaurant_name": "SONIC DRIVE IN",
+    "source_inspection_id": "PT0161536|2026-08-20|CAC-Food-079817-2026",
+    "source_establishment_id": "PT0161536",
+    "restaurant_name": "TENAMPA RESTAURANT LLC",
     "address": {
-      "street": "6420 CENTRAL AVE SW",
+      "street": "101 98TH ST NW, 105",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-06",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
+    "inspection_date": "2026-08-20",
+    "inspection_type": "Corrective Action Compliance",
+    "inspection_result": "fail",
+    "result_basis": "status='Unsatisfactory Re-Inspection required'; operational_status='Open' -> fail",
     "score": null,
     "grade": null,
     "critical_violation_count": null,
@@ -2347,28 +2557,28 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.402357Z"
+    "ingested_at": "2026-08-31T17:44:05.324047Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "21a958ad-c59a-5507-a10d-7d427bacc81e",
-    "establishment_uuid": "6ef37695-a9f1-54aa-9ea8-ae7255fb6c3d",
+    "inspection_uuid": "05891b80-db43-5c3a-98b6-f3636d01731a",
+    "establishment_uuid": "e462e566-19de-59ec-8e77-a1873c6b63e6",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0146293|2026-08-04|PT0146293",
-    "source_establishment_id": "PT0146293",
-    "restaurant_name": "STARR BROTHERS BREWING COMPANY",
+    "source_inspection_id": "PT0161536|2026-08-18|RT-FOODEST-070560-2025",
+    "source_establishment_id": "PT0161536",
+    "restaurant_name": "TENAMPA RESTAURANT LLC",
     "address": {
-      "street": "5700 SAN ANTONIO NE, B1",
+      "street": "101 98TH ST NW, 105",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-04",
+    "inspection_date": "2026-08-18",
     "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "inspection_result": "fail",
+    "result_basis": "status='Closure Re-Inspection Required'; operational_status='Open' -> fail",
     "score": null,
     "grade": null,
     "critical_violation_count": null,
@@ -2389,67 +2599,25 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.402449Z"
+    "ingested_at": "2026-08-31T17:44:05.324092Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "31f3a150-3e5b-54ea-88d3-8f2da11e1edc",
-    "establishment_uuid": "ca44fac6-0af4-5d7c-be68-e2a8d424c141",
+    "inspection_uuid": "d7a7e387-defc-5bbf-8207-7879957600c6",
+    "establishment_uuid": "81411ac2-3936-5185-b974-7a352a839fac",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0146294|2026-08-04|PT0146294",
-    "source_establishment_id": "PT0146294",
-    "restaurant_name": "STARR BROTHERS BREWING COMPANY",
+    "source_inspection_id": "PT0140640|2026-08-20|PT0140640",
+    "source_establishment_id": "PT0140640",
+    "restaurant_name": "TWISTERS COMMISSARY",
     "address": {
-      "street": "5700 SAN ANTONIO NE, B1",
+      "street": "1311 CUESTA ABAJO CT NE, H",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-04",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.402564Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "de17b3fe-77d7-5383-8cec-8a9ac0b7dc9b",
-    "establishment_uuid": "5e6f09ac-622b-5a08-8c44-968c28c2244f",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0160335|2026-08-04|PT0160335",
-    "source_establishment_id": "PT0160335",
-    "restaurant_name": "STARR BROTHERS BREWING COMPANY",
-    "address": {
-      "street": "5700 SAN ANTONIO NE, B1",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-04",
+    "inspection_date": "2026-08-20",
     "inspection_type": "Routine Food Processor Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -2473,25 +2641,25 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.402677Z"
+    "ingested_at": "2026-08-31T17:44:05.324137Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "d2e5fde5-aa2d-5dec-b546-aafa876fc66d",
-    "establishment_uuid": "fc146c86-3e1e-56bd-9b00-e3d6eba7c07e",
+    "inspection_uuid": "8cdfa536-ddbb-5adc-a751-be44a71fc691",
+    "establishment_uuid": "e8359d97-39bb-519b-be57-a36058640396",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0154552|2026-08-05|CAC-Food-074350-2026",
-    "source_establishment_id": "PT0154552",
-    "restaurant_name": "STARRY MOON WEI CHUAN",
+    "source_inspection_id": "PT0155982|2026-08-18|CAC-Food-078463-2026",
+    "source_establishment_id": "PT0155982",
+    "restaurant_name": "VILLAGE INN",
     "address": {
-      "street": "8001 WYOMING BLVD NE",
+      "street": "2282 WYOMING BLVD NE",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-05",
+    "inspection_date": "2026-08-18",
     "inspection_type": "Corrective Action Compliance",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -2515,25 +2683,25 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.402771Z"
+    "ingested_at": "2026-08-31T17:44:05.324182Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "7b11de11-1fb8-563b-b676-9d336702bb7c",
-    "establishment_uuid": "fc146c86-3e1e-56bd-9b00-e3d6eba7c07e",
+    "inspection_uuid": "db097474-a984-5eb9-9cf7-d922d9433fda",
+    "establishment_uuid": "e8359d97-39bb-519b-be57-a36058640396",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0154552|2026-08-05|PT0154552",
-    "source_establishment_id": "PT0154552",
-    "restaurant_name": "STARRY MOON WEI CHUAN",
+    "source_inspection_id": "PT0155982|2026-08-17|RT-FOODEST-110903-2025",
+    "source_establishment_id": "PT0155982",
+    "restaurant_name": "VILLAGE INN",
     "address": {
-      "street": "8001 WYOMING BLVD NE",
+      "street": "2282 WYOMING BLVD NE",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-05",
+    "inspection_date": "2026-08-17",
     "inspection_type": "Routine Food Establishment Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
@@ -2557,109 +2725,25 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.402858Z"
+    "ingested_at": "2026-08-31T17:44:05.324226Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "937747b4-7942-5e86-b172-e3c499253418",
-    "establishment_uuid": "2258ff70-ace3-58b4-82a4-878e33ed82a0",
+    "inspection_uuid": "58b7f170-e8c2-5d05-967d-c2e9701e0c90",
+    "establishment_uuid": "5c840be7-df87-577a-adf6-d6ce4af746ca",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0044763|2026-08-06|CAC-Food-074619-2026",
-    "source_establishment_id": "PT0044763",
-    "restaurant_name": "STONEFACE TAVERN",
+    "source_inspection_id": "PT0160230|2026-08-17|RT-FOODEST-119712-2025",
+    "source_establishment_id": "PT0160230",
+    "restaurant_name": "WHATABURGER",
     "address": {
-      "street": "8201 SAN PEDRO DR NE",
+      "street": "200 98TH ST NW",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-06",
-    "inspection_type": "Corrective Action Compliance",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.402945Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "d279236f-5549-58ea-a59a-6f04bdf7c29e",
-    "establishment_uuid": "2258ff70-ace3-58b4-82a4-878e33ed82a0",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0044763|2026-08-06|PT0044763",
-    "source_establishment_id": "PT0044763",
-    "restaurant_name": "STONEFACE TAVERN",
-    "address": {
-      "street": "8201 SAN PEDRO DR NE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-06",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.403031Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "baf92be9-5f08-5dfd-96a5-02a8ca0de2f0",
-    "establishment_uuid": "cd587d3e-d10e-5eea-b1e8-4b9ba1c52915",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0044764|2026-08-06|PT0044764",
-    "source_establishment_id": "PT0044764",
-    "restaurant_name": "STONEFACE TAVERN",
-    "address": {
-      "street": "8201 SAN PEDRO DR NE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-06",
+    "inspection_date": "2026-08-17",
     "inspection_type": "Routine Food Establishment Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -2683,109 +2767,25 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.403140Z"
+    "ingested_at": "2026-08-31T17:44:05.324291Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "08df987b-7c7a-5776-b621-b89cde794078",
-    "establishment_uuid": "851c74c2-29b6-592d-9367-5b1f9081aa82",
+    "inspection_uuid": "645532fd-269a-55c0-9155-13b348c56adb",
+    "establishment_uuid": "88b010e9-5082-5ffc-8584-9097b0b79ec7",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0161209|2026-08-07|CAC-Food-075074-2026",
-    "source_establishment_id": "PT0161209",
-    "restaurant_name": "THE HUMAN BEAN",
+    "source_inspection_id": "FOODEST-2025-017008|2026-08-17|RT-FOODEST-078370-2026",
+    "source_establishment_id": "FOODEST-2025-017008",
+    "restaurant_name": "Yumis kitchen LLC",
     "address": {
-      "street": "7341 SAN ANTONIO DR NE",
+      "street": "4200 Wyoming Blvd NE, C2",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-07",
-    "inspection_type": "Corrective Action Compliance",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.403231Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "7a8d647b-aa41-5d3d-9f1b-3a799e333ced",
-    "establishment_uuid": "851c74c2-29b6-592d-9367-5b1f9081aa82",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0161209|2026-08-07|PT0161209",
-    "source_establishment_id": "PT0161209",
-    "restaurant_name": "THE HUMAN BEAN",
-    "address": {
-      "street": "7341 SAN ANTONIO DR NE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-07",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Conditional Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.403316Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "9e72f41d-ac9e-5bce-93eb-02946113fa1d",
-    "establishment_uuid": "c6684619-9c94-54bf-9496-b52f9bb72b0f",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0155104|2026-08-04|RT-FOODEST-072603-2026",
-    "source_establishment_id": "PT0155104",
-    "restaurant_name": "Tokyo Hana Hibachi and Sushi Bar",
-    "address": {
-      "street": "10001 COORS BLVD NW",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-04",
+    "inspection_date": "2026-08-17",
     "inspection_type": "Routine Food Establishment Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -2809,28 +2809,28 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.403403Z"
+    "ingested_at": "2026-08-31T17:44:05.324346Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "dbe05464-8c5c-501a-abe2-500beab6548a",
-    "establishment_uuid": "e44cd829-dd81-52a6-b652-0221f75787b0",
+    "inspection_uuid": "242336c5-a076-54a8-9b9e-6f66078257c3",
+    "establishment_uuid": "88b010e9-5082-5ffc-8584-9097b0b79ec7",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0097583|2026-08-03|PT0097583",
-    "source_establishment_id": "PT0097583",
-    "restaurant_name": "Walgreens 11360",
+    "source_inspection_id": "FOODEST-2025-017008|2026-08-17|RT-FOODEST-035333-2026",
+    "source_establishment_id": "FOODEST-2025-017008",
+    "restaurant_name": "Yumis kitchen LLC",
     "address": {
-      "street": "11200 MONTGOMERY BLVD NE",
+      "street": "4200 Wyoming Blvd NE, C2",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-03",
-    "inspection_type": "Routine Retail Food Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
+    "inspection_date": "2026-08-17",
+    "inspection_type": "Routine Food Establishment Inspection",
+    "inspection_result": "fail",
+    "result_basis": "status='Closure Re-Inspection Required'; operational_status='Open' -> fail",
     "score": null,
     "grade": null,
     "critical_violation_count": null,
@@ -2851,25 +2851,25 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.403492Z"
+    "ingested_at": "2026-08-31T17:44:05.324396Z"
   },
   {
     "schema_version": "0.1.0",
-    "inspection_uuid": "99a5bf74-2fb7-5791-8c5d-1f81ec5fe470",
-    "establishment_uuid": "37f56fe2-4af1-5d81-9d49-e5ce132cbada",
+    "inspection_uuid": "3cf0e4be-1c26-5635-91fe-3bea06afb62d",
+    "establishment_uuid": "7b975115-58ee-5c4e-af3c-f1bb526d5fce",
     "source": "albuquerque_city",
-    "source_inspection_id": "PT0060649|2026-08-03|PT0060649",
-    "source_establishment_id": "PT0060649",
-    "restaurant_name": "Walking By Faith Inc DBA Weck's",
+    "source_inspection_id": "PT0156828|2026-08-19|PT0156828",
+    "source_establishment_id": "PT0156828",
+    "restaurant_name": "Yummy's Mini Donuts & Ice Cream",
     "address": {
-      "street": "3913 LOUISIANA BLVD NE",
+      "street": "1 CENTRAL AVE NW, D",
       "city": "Albuquerque",
       "state": "NM",
       "postal_code": null
     },
-    "inspection_date": "2026-08-03",
+    "inspection_date": "2026-08-19",
     "inspection_type": "Routine Food Establishment Inspection",
     "inspection_result": "pass",
     "result_basis": "status='Approved'; operational_status='Open' -> pass",
@@ -2893,134 +2893,8 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extraction_method": "pdf",
       "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
+      "extracted_at": "2026-08-31T17:43:46.350893Z"
     },
-    "ingested_at": "2026-08-24T11:16:23.403579Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "d1e37eda-5536-5b2b-8880-855af43948b9",
-    "establishment_uuid": "fa28eb14-47a3-5b2d-9b53-8bbd9e5cb357",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0143034|2026-08-03|PT0143034",
-    "source_establishment_id": "PT0143034",
-    "restaurant_name": "Walking By Faith Inc DBA Weck's",
-    "address": {
-      "street": "3913 LOUISIANA BLVD NE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-03",
-    "inspection_type": "Routine Food Processor Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.403665Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "8579d7db-806e-5711-95d5-ea4b9318a111",
-    "establishment_uuid": "fedf0369-f522-590a-bf5a-3b5772d77494",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0155729|2026-08-05|RT-FOODEST-000482-2026",
-    "source_establishment_id": "PT0155729",
-    "restaurant_name": "WENDYS",
-    "address": {
-      "street": "3601 4TH ST NW",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-05",
-    "inspection_type": "Routine Food Establishment Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.403756Z"
-  },
-  {
-    "schema_version": "0.1.0",
-    "inspection_uuid": "c7245e30-271e-57b5-9ae8-1d647863733f",
-    "establishment_uuid": "20ad7a1a-80d6-5de0-bda9-bdf3a9d88140",
-    "source": "albuquerque_city",
-    "source_inspection_id": "PT0155834|2026-08-06|RT-RET-016686-2025",
-    "source_establishment_id": "PT0155834",
-    "restaurant_name": "WORLD WIDE TAVERN DBA STONE FACE PACKAGE",
-    "address": {
-      "street": "8201 SAN PEDRO NE",
-      "city": "Albuquerque",
-      "state": "NM",
-      "postal_code": null
-    },
-    "inspection_date": "2026-08-06",
-    "inspection_type": "Routine Retail Food Inspection",
-    "inspection_result": "pass",
-    "result_basis": "status='Approved'; operational_status='Open' -> pass",
-    "score": null,
-    "grade": null,
-    "critical_violation_count": null,
-    "total_violation_count": null,
-    "violations": [],
-    "geography": {
-      "county_name": "Bernalillo",
-      "county_fips": "35001",
-      "state_fips": "35",
-      "state": "NM",
-      "population": 676000,
-      "population_vintage": "ACS 2019-2023 5-year total population (B01003_001E)",
-      "enrichment_note": null
-    },
-    "source_metadata": {
-      "source_name": "City of Albuquerque \u2014 Consumer Health Protection Weekly Media Report",
-      "publisher": "City of Albuquerque Environmental Health Department",
-      "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
-      "extraction_method": "pdf",
-      "source_dataset_id": null,
-      "extracted_at": "2026-08-24T11:16:08.834253Z"
-    },
-    "ingested_at": "2026-08-24T11:16:23.403842Z"
+    "ingested_at": "2026-08-31T17:44:05.324442Z"
   }
 ]
