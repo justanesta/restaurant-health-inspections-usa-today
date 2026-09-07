@@ -3,12 +3,12 @@
   "stages": {
     "extract": {
       "status": "success",
-      "at": "2026-08-31T17:43:46.350893+00:00",
-      "records": 69,
+      "at": "2026-09-07T16:08:31.458657+00:00",
+      "records": 62,
       "fingerprint": "5253ecf312f26ac2",
       "missing_expected": [],
       "error_report": null,
-      "report_week": "August 16, 2026 to August 22, 2026 Report",
+      "report_week": "August 23, 2026 to August 29, 2026 Report",
       "scope": "summary_table"
     },
     "transform": {
@@ -25,5 +25,5 @@
       "contributed": 69
     }
   },
-  "updated_at": "2026-08-31T17:44:22.482209+00:00"
+  "updated_at": "2026-09-07T16:08:31.458663+00:00"
 }
