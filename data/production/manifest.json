@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-07T16:09:02.703100+00:00",
+  "generated_at": "2026-09-14T16:40:32.577993+00:00",
   "schema_version": "0.1.0",
   "window_days": 90,
   "sample_limit": 400,
-  "total_inspections": 862,
+  "total_inspections": 873,
   "per_source": {
     "new_york_state": 400,
     "los_angeles_county": 400,
-    "albuquerque_city": 62
+    "albuquerque_city": 73
   },
   "result_breakdown": {
-    "pass": 855,
-    "fail": 7
+    "pass": 854,
+    "fail": 19
   },
   "sources": [
     {
@@ -21,13 +21,13 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extract_state": {
         "status": "success",
-        "at": "2026-09-07T16:08:26.764881+00:00",
+        "at": "2026-09-14T16:39:35.313909+00:00",
         "records": 400,
         "fingerprint": "d2141607b506025f",
         "missing_expected": [],
         "error_report": null,
         "window_days": 90,
-        "cutoff": "2026-06-09",
+        "cutoff": "2026-06-16",
         "dataset_id": "cnih-y5dw"
       }
     },
@@ -38,13 +38,13 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extract_state": {
         "status": "success",
-        "at": "2026-09-07T16:08:31.044513+00:00",
+        "at": "2026-09-14T16:39:38.630238+00:00",
         "records": 400,
         "fingerprint": "29ccd46f295651f5",
         "missing_expected": [],
         "error_report": null,
         "window_days": 90,
-        "cutoff": "2026-06-09",
+        "cutoff": "2026-06-16",
         "violation_rows": 2007
       }
     },
@@ -55,12 +55,12 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extract_state": {
         "status": "success",
-        "at": "2026-09-07T16:08:31.458657+00:00",
-        "records": 62,
+        "at": "2026-09-14T16:39:39.067486+00:00",
+        "records": 73,
         "fingerprint": "5253ecf312f26ac2",
         "missing_expected": [],
         "error_report": null,
-        "report_week": "August 23, 2026 to August 29, 2026 Report",
+        "report_week": "August 30, 2026 to September 05, 2026 Report",
         "scope": "summary_table"
       }
     }
