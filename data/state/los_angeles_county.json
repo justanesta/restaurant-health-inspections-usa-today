@@ -14,9 +14,9 @@
     },
     "transform": {
       "status": "success",
-      "at": "2026-09-21T16:40:19.762333+00:00",
-      "records_in": 400,
-      "records_out": 400,
+      "at": "2026-09-28T18:17:43.870157+00:00",
+      "records_in": 136,
+      "records_out": 136,
       "validation_errors": 0,
       "error_report": null
     },
@@ -26,5 +26,5 @@
       "contributed": 400
     }
   },
-  "updated_at": "2026-09-28T18:17:26.396002+00:00"
+  "updated_at": "2026-09-28T18:17:43.870170+00:00"
 }
