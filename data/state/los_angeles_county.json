@@ -3,14 +3,14 @@
   "stages": {
     "extract": {
       "status": "success",
-      "at": "2026-09-28T18:17:26.395985+00:00",
-      "records": 136,
+      "at": "2026-10-05T19:25:27.320176+00:00",
+      "records": 0,
       "fingerprint": "29ccd46f295651f5",
       "missing_expected": [],
       "error_report": null,
       "window_days": 90,
-      "cutoff": "2026-06-30",
-      "violation_rows": 683
+      "cutoff": "2026-07-07",
+      "violation_rows": 0
     },
     "transform": {
       "status": "success",
@@ -26,5 +26,5 @@
       "contributed": 136
     }
   },
-  "updated_at": "2026-09-28T18:17:59.579931+00:00"
+  "updated_at": "2026-10-05T19:25:27.320191+00:00"
 }
