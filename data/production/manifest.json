@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-28T18:17:59.577908+00:00",
+  "generated_at": "2026-10-12T20:01:46.127114+00:00",
   "schema_version": "0.1.0",
   "window_days": 90,
   "sample_limit": 400,
-  "total_inspections": 605,
+  "total_inspections": 823,
   "per_source": {
     "new_york_state": 400,
-    "los_angeles_county": 136,
-    "albuquerque_city": 69
+    "los_angeles_county": 400,
+    "albuquerque_city": 23
   },
   "result_breakdown": {
-    "pass": 591,
-    "fail": 14
+    "pass": 815,
+    "fail": 8
   },
   "sources": [
     {
@@ -21,13 +21,13 @@
       "landing_url": "https://health.data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw/about_data",
       "extract_state": {
         "status": "success",
-        "at": "2026-09-28T18:17:21.862483+00:00",
+        "at": "2026-10-12T20:01:12.437317+00:00",
         "records": 400,
         "fingerprint": "d2141607b506025f",
         "missing_expected": [],
         "error_report": null,
         "window_days": 90,
-        "cutoff": "2026-06-30",
+        "cutoff": "2026-07-14",
         "dataset_id": "cnih-y5dw"
       }
     },
@@ -38,14 +38,14 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extract_state": {
         "status": "success",
-        "at": "2026-09-28T18:17:26.395985+00:00",
-        "records": 136,
+        "at": "2026-10-12T20:01:15.746079+00:00",
+        "records": 400,
         "fingerprint": "29ccd46f295651f5",
         "missing_expected": [],
         "error_report": null,
         "window_days": 90,
-        "cutoff": "2026-06-30",
-        "violation_rows": 683
+        "cutoff": "2026-07-14",
+        "violation_rows": 1762
       }
     },
     {
@@ -55,12 +55,12 @@
       "landing_url": "https://www.cabq.gov/environmentalhealth/food-safety/restaurant-inspection-results",
       "extract_state": {
         "status": "success",
-        "at": "2026-09-28T18:17:27.148865+00:00",
-        "records": 69,
+        "at": "2026-10-12T20:01:15.974351+00:00",
+        "records": 23,
         "fingerprint": "5253ecf312f26ac2",
         "missing_expected": [],
         "error_report": null,
-        "report_week": "September 13, 2026 to September 19, 2026",
+        "report_week": "September 27, 2026 to October 03, 2026",
         "scope": "summary_table"
       }
     }
