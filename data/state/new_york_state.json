@@ -3,13 +3,13 @@
   "stages": {
     "extract": {
       "status": "success",
-      "at": "2026-10-19T17:13:19.627505+00:00",
+      "at": "2026-10-26T17:02:14.262343+00:00",
       "records": 400,
       "fingerprint": "d2141607b506025f",
       "missing_expected": [],
       "error_report": null,
       "window_days": 90,
-      "cutoff": "2026-07-21",
+      "cutoff": "2026-07-28",
       "dataset_id": "cnih-y5dw"
     },
     "transform": {
@@ -26,5 +26,5 @@
       "contributed": 400
     }
   },
-  "updated_at": "2026-10-19T17:13:57.258904+00:00"
+  "updated_at": "2026-10-26T17:02:14.262351+00:00"
 }

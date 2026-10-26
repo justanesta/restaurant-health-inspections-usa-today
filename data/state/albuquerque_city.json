@@ -3,12 +3,12 @@
   "stages": {
     "extract": {
       "status": "success",
-      "at": "2026-10-19T17:13:23.093373+00:00",
-      "records": 25,
+      "at": "2026-10-26T17:02:18.417121+00:00",
+      "records": 34,
       "fingerprint": "5253ecf312f26ac2",
       "missing_expected": [],
       "error_report": null,
-      "report_week": "October 04, 2026 to October 10, 2026",
+      "report_week": "October 11, 2026 to October 17, 2026 Report",
       "scope": "summary_table"
     },
     "transform": {
@@ -25,5 +25,5 @@
       "contributed": 25
     }
   },
-  "updated_at": "2026-10-19T17:13:57.259435+00:00"
+  "updated_at": "2026-10-26T17:02:18.417128+00:00"
 }
