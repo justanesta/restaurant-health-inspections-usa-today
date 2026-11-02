@@ -66,9 +66,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.702119Z"
+    "ingested_at": "2026-11-02T20:32:41.560417Z"
   },
   {
     "schema_version": "0.1.0",
@@ -137,9 +137,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.702202Z"
+    "ingested_at": "2026-11-02T20:32:41.560522Z"
   },
   {
     "schema_version": "0.1.0",
@@ -208,9 +208,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.702263Z"
+    "ingested_at": "2026-11-02T20:32:41.560600Z"
   },
   {
     "schema_version": "0.1.0",
@@ -286,9 +286,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.702316Z"
+    "ingested_at": "2026-11-02T20:32:41.560668Z"
   },
   {
     "schema_version": "0.1.0",
@@ -378,9 +378,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.702366Z"
+    "ingested_at": "2026-11-02T20:32:41.560732Z"
   },
   {
     "schema_version": "0.1.0",
@@ -442,9 +442,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.702412Z"
+    "ingested_at": "2026-11-02T20:32:41.560795Z"
   },
   {
     "schema_version": "0.1.0",
@@ -506,9 +506,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.702459Z"
+    "ingested_at": "2026-11-02T20:32:41.560856Z"
   },
   {
     "schema_version": "0.1.0",
@@ -591,9 +591,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.702504Z"
+    "ingested_at": "2026-11-02T20:32:41.560915Z"
   },
   {
     "schema_version": "0.1.0",
@@ -648,9 +648,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.702548Z"
+    "ingested_at": "2026-11-02T20:32:41.560972Z"
   },
   {
     "schema_version": "0.1.0",
@@ -719,9 +719,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.702593Z"
+    "ingested_at": "2026-11-02T20:32:41.561028Z"
   },
   {
     "schema_version": "0.1.0",
@@ -783,9 +783,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.702636Z"
+    "ingested_at": "2026-11-02T20:32:41.561084Z"
   },
   {
     "schema_version": "0.1.0",
@@ -868,9 +868,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.702680Z"
+    "ingested_at": "2026-11-02T20:32:41.561140Z"
   },
   {
     "schema_version": "0.1.0",
@@ -953,9 +953,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.702728Z"
+    "ingested_at": "2026-11-02T20:32:41.561193Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1031,9 +1031,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.702774Z"
+    "ingested_at": "2026-11-02T20:32:41.561246Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1137,9 +1137,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.702819Z"
+    "ingested_at": "2026-11-02T20:32:41.561318Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1208,9 +1208,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.702876Z"
+    "ingested_at": "2026-11-02T20:32:41.561381Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1356,9 +1356,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.702935Z"
+    "ingested_at": "2026-11-02T20:32:41.561436Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1448,9 +1448,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.702986Z"
+    "ingested_at": "2026-11-02T20:32:41.561490Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1547,9 +1547,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.703032Z"
+    "ingested_at": "2026-11-02T20:32:41.561542Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1597,9 +1597,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.703079Z"
+    "ingested_at": "2026-11-02T20:32:41.561593Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1639,9 +1639,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.703124Z"
+    "ingested_at": "2026-11-02T20:32:41.561648Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1724,9 +1724,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.703171Z"
+    "ingested_at": "2026-11-02T20:32:41.561701Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1816,9 +1816,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.703216Z"
+    "ingested_at": "2026-11-02T20:32:41.561753Z"
   },
   {
     "schema_version": "0.1.0",
@@ -1908,9 +1908,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.703263Z"
+    "ingested_at": "2026-11-02T20:32:41.561804Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2014,9 +2014,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.703309Z"
+    "ingested_at": "2026-11-02T20:32:41.561856Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2099,9 +2099,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.703355Z"
+    "ingested_at": "2026-11-02T20:32:41.561908Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2198,9 +2198,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.703400Z"
+    "ingested_at": "2026-11-02T20:32:41.561965Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2269,9 +2269,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.703445Z"
+    "ingested_at": "2026-11-02T20:32:41.562020Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2326,9 +2326,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.703495Z"
+    "ingested_at": "2026-11-02T20:32:41.562073Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2397,9 +2397,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.703544Z"
+    "ingested_at": "2026-11-02T20:32:41.562126Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2468,9 +2468,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.703590Z"
+    "ingested_at": "2026-11-02T20:32:41.562178Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2525,9 +2525,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.703636Z"
+    "ingested_at": "2026-11-02T20:32:41.562229Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2596,9 +2596,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.703681Z"
+    "ingested_at": "2026-11-02T20:32:41.562282Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2660,9 +2660,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.703725Z"
+    "ingested_at": "2026-11-02T20:32:41.562358Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2731,9 +2731,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.703771Z"
+    "ingested_at": "2026-11-02T20:32:41.562416Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2809,9 +2809,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.703817Z"
+    "ingested_at": "2026-11-02T20:32:41.562469Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2873,9 +2873,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.703865Z"
+    "ingested_at": "2026-11-02T20:32:41.562522Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2930,9 +2930,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.703910Z"
+    "ingested_at": "2026-11-02T20:32:41.562575Z"
   },
   {
     "schema_version": "0.1.0",
@@ -2994,9 +2994,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.703972Z"
+    "ingested_at": "2026-11-02T20:32:41.562629Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3086,9 +3086,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704020Z"
+    "ingested_at": "2026-11-02T20:32:41.562681Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3150,9 +3150,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704070Z"
+    "ingested_at": "2026-11-02T20:32:41.562733Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3235,9 +3235,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704115Z"
+    "ingested_at": "2026-11-02T20:32:41.562785Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3306,9 +3306,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704162Z"
+    "ingested_at": "2026-11-02T20:32:41.562836Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3384,9 +3384,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704209Z"
+    "ingested_at": "2026-11-02T20:32:41.562887Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3476,9 +3476,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704254Z"
+    "ingested_at": "2026-11-02T20:32:41.562937Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3540,9 +3540,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704298Z"
+    "ingested_at": "2026-11-02T20:32:41.562987Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3611,9 +3611,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704342Z"
+    "ingested_at": "2026-11-02T20:32:41.563037Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3668,9 +3668,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704386Z"
+    "ingested_at": "2026-11-02T20:32:41.563087Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3725,9 +3725,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704433Z"
+    "ingested_at": "2026-11-02T20:32:41.563140Z"
   },
   {
     "schema_version": "0.1.0",
@@ -3908,9 +3908,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704480Z"
+    "ingested_at": "2026-11-02T20:32:41.563196Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4000,9 +4000,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704525Z"
+    "ingested_at": "2026-11-02T20:32:41.563251Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4071,9 +4071,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704571Z"
+    "ingested_at": "2026-11-02T20:32:41.563319Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4142,9 +4142,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704616Z"
+    "ingested_at": "2026-11-02T20:32:41.563380Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4227,9 +4227,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704663Z"
+    "ingested_at": "2026-11-02T20:32:41.563434Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4319,9 +4319,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704710Z"
+    "ingested_at": "2026-11-02T20:32:41.563486Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4390,9 +4390,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704754Z"
+    "ingested_at": "2026-11-02T20:32:41.563536Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4461,9 +4461,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704798Z"
+    "ingested_at": "2026-11-02T20:32:41.563587Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4525,9 +4525,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704843Z"
+    "ingested_at": "2026-11-02T20:32:41.563639Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4575,9 +4575,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704888Z"
+    "ingested_at": "2026-11-02T20:32:41.563690Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4632,9 +4632,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704944Z"
+    "ingested_at": "2026-11-02T20:32:41.563740Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4696,9 +4696,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.704992Z"
+    "ingested_at": "2026-11-02T20:32:41.563790Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4753,9 +4753,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.705038Z"
+    "ingested_at": "2026-11-02T20:32:41.563839Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4845,9 +4845,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.705084Z"
+    "ingested_at": "2026-11-02T20:32:41.563889Z"
   },
   {
     "schema_version": "0.1.0",
@@ -4972,9 +4972,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.705132Z"
+    "ingested_at": "2026-11-02T20:32:41.563940Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5029,9 +5029,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.705179Z"
+    "ingested_at": "2026-11-02T20:32:41.563990Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5121,9 +5121,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.705226Z"
+    "ingested_at": "2026-11-02T20:32:41.564042Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5199,9 +5199,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.705273Z"
+    "ingested_at": "2026-11-02T20:32:41.564092Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5270,9 +5270,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.705317Z"
+    "ingested_at": "2026-11-02T20:32:41.564143Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5327,9 +5327,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.705361Z"
+    "ingested_at": "2026-11-02T20:32:41.564194Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5391,9 +5391,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.705406Z"
+    "ingested_at": "2026-11-02T20:32:41.564247Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5469,9 +5469,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.705452Z"
+    "ingested_at": "2026-11-02T20:32:41.564320Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5533,9 +5533,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.705497Z"
+    "ingested_at": "2026-11-02T20:32:41.564428Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5611,9 +5611,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.705544Z"
+    "ingested_at": "2026-11-02T20:32:41.564487Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5710,9 +5710,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.705587Z"
+    "ingested_at": "2026-11-02T20:32:41.564539Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5795,9 +5795,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.705632Z"
+    "ingested_at": "2026-11-02T20:32:41.564590Z"
   },
   {
     "schema_version": "0.1.0",
@@ -5880,9 +5880,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.705677Z"
+    "ingested_at": "2026-11-02T20:32:41.564642Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6035,9 +6035,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.705723Z"
+    "ingested_at": "2026-11-02T20:32:41.564693Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6106,9 +6106,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.705769Z"
+    "ingested_at": "2026-11-02T20:32:41.564745Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6163,9 +6163,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.705814Z"
+    "ingested_at": "2026-11-02T20:32:41.564798Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6248,9 +6248,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.705862Z"
+    "ingested_at": "2026-11-02T20:32:41.564849Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6340,9 +6340,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.705909Z"
+    "ingested_at": "2026-11-02T20:32:41.564901Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6432,9 +6432,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.705970Z"
+    "ingested_at": "2026-11-02T20:32:41.564951Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6531,9 +6531,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706018Z"
+    "ingested_at": "2026-11-02T20:32:41.565001Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6623,9 +6623,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706065Z"
+    "ingested_at": "2026-11-02T20:32:41.565051Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6665,9 +6665,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706111Z"
+    "ingested_at": "2026-11-02T20:32:41.565101Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6771,9 +6771,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706156Z"
+    "ingested_at": "2026-11-02T20:32:41.565150Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6813,9 +6813,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706203Z"
+    "ingested_at": "2026-11-02T20:32:41.565200Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6898,9 +6898,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706248Z"
+    "ingested_at": "2026-11-02T20:32:41.565253Z"
   },
   {
     "schema_version": "0.1.0",
@@ -6976,9 +6976,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706292Z"
+    "ingested_at": "2026-11-02T20:32:41.565324Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7040,9 +7040,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706337Z"
+    "ingested_at": "2026-11-02T20:32:41.565385Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7132,9 +7132,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706380Z"
+    "ingested_at": "2026-11-02T20:32:41.565438Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7203,9 +7203,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706427Z"
+    "ingested_at": "2026-11-02T20:32:41.565489Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7288,9 +7288,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706470Z"
+    "ingested_at": "2026-11-02T20:32:41.565541Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7373,9 +7373,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706520Z"
+    "ingested_at": "2026-11-02T20:32:41.565592Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7444,9 +7444,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706566Z"
+    "ingested_at": "2026-11-02T20:32:41.565642Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7550,9 +7550,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706610Z"
+    "ingested_at": "2026-11-02T20:32:41.565691Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7607,9 +7607,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706653Z"
+    "ingested_at": "2026-11-02T20:32:41.565741Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7741,9 +7741,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706698Z"
+    "ingested_at": "2026-11-02T20:32:41.565791Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7819,9 +7819,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706740Z"
+    "ingested_at": "2026-11-02T20:32:41.565841Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7861,9 +7861,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706787Z"
+    "ingested_at": "2026-11-02T20:32:41.565892Z"
   },
   {
     "schema_version": "0.1.0",
@@ -7967,9 +7967,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706832Z"
+    "ingested_at": "2026-11-02T20:32:41.565942Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8024,9 +8024,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706876Z"
+    "ingested_at": "2026-11-02T20:32:41.565993Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8109,9 +8109,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706935Z"
+    "ingested_at": "2026-11-02T20:32:41.566046Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8194,9 +8194,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.706986Z"
+    "ingested_at": "2026-11-02T20:32:41.566098Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8258,9 +8258,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.707036Z"
+    "ingested_at": "2026-11-02T20:32:41.566149Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8322,9 +8322,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.707083Z"
+    "ingested_at": "2026-11-02T20:32:41.566200Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8414,9 +8414,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.707129Z"
+    "ingested_at": "2026-11-02T20:32:41.566252Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8485,9 +8485,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.707174Z"
+    "ingested_at": "2026-11-02T20:32:41.566316Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8577,9 +8577,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.707220Z"
+    "ingested_at": "2026-11-02T20:32:41.566372Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8648,9 +8648,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.707268Z"
+    "ingested_at": "2026-11-02T20:32:41.566424Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8712,9 +8712,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.707313Z"
+    "ingested_at": "2026-11-02T20:32:41.566476Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8804,9 +8804,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.707359Z"
+    "ingested_at": "2026-11-02T20:32:41.566526Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8861,9 +8861,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.707406Z"
+    "ingested_at": "2026-11-02T20:32:41.566577Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8918,9 +8918,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.707452Z"
+    "ingested_at": "2026-11-02T20:32:41.566626Z"
   },
   {
     "schema_version": "0.1.0",
@@ -8960,9 +8960,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.707497Z"
+    "ingested_at": "2026-11-02T20:32:41.566676Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9038,9 +9038,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.707542Z"
+    "ingested_at": "2026-11-02T20:32:41.566726Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9137,9 +9137,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.707586Z"
+    "ingested_at": "2026-11-02T20:32:41.566775Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9194,9 +9194,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.707632Z"
+    "ingested_at": "2026-11-02T20:32:41.566825Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9279,9 +9279,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.707677Z"
+    "ingested_at": "2026-11-02T20:32:41.566874Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9364,9 +9364,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.707722Z"
+    "ingested_at": "2026-11-02T20:32:41.566924Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9449,9 +9449,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.707771Z"
+    "ingested_at": "2026-11-02T20:32:41.566975Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9534,9 +9534,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.707855Z"
+    "ingested_at": "2026-11-02T20:32:41.567025Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9605,9 +9605,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.707903Z"
+    "ingested_at": "2026-11-02T20:32:41.567075Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9669,9 +9669,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.707960Z"
+    "ingested_at": "2026-11-02T20:32:41.567125Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9747,9 +9747,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708005Z"
+    "ingested_at": "2026-11-02T20:32:41.567174Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9832,9 +9832,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708050Z"
+    "ingested_at": "2026-11-02T20:32:41.567225Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9889,9 +9889,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708095Z"
+    "ingested_at": "2026-11-02T20:32:41.567274Z"
   },
   {
     "schema_version": "0.1.0",
@@ -9946,9 +9946,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708140Z"
+    "ingested_at": "2026-11-02T20:32:41.567340Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10010,9 +10010,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708184Z"
+    "ingested_at": "2026-11-02T20:32:41.567392Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10088,9 +10088,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708230Z"
+    "ingested_at": "2026-11-02T20:32:41.567442Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10166,9 +10166,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708278Z"
+    "ingested_at": "2026-11-02T20:32:41.567491Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10244,9 +10244,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708322Z"
+    "ingested_at": "2026-11-02T20:32:41.567540Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10315,9 +10315,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708369Z"
+    "ingested_at": "2026-11-02T20:32:41.567590Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10414,9 +10414,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708414Z"
+    "ingested_at": "2026-11-02T20:32:41.567641Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10478,9 +10478,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708458Z"
+    "ingested_at": "2026-11-02T20:32:41.567690Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10535,9 +10535,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708502Z"
+    "ingested_at": "2026-11-02T20:32:41.567767Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10634,9 +10634,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708546Z"
+    "ingested_at": "2026-11-02T20:32:41.567832Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10684,9 +10684,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708590Z"
+    "ingested_at": "2026-11-02T20:32:41.567892Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10762,9 +10762,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708634Z"
+    "ingested_at": "2026-11-02T20:32:41.567946Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10840,9 +10840,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708681Z"
+    "ingested_at": "2026-11-02T20:32:41.568003Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10911,9 +10911,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708724Z"
+    "ingested_at": "2026-11-02T20:32:41.568055Z"
   },
   {
     "schema_version": "0.1.0",
@@ -10953,9 +10953,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708768Z"
+    "ingested_at": "2026-11-02T20:32:41.568105Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11024,9 +11024,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708816Z"
+    "ingested_at": "2026-11-02T20:32:41.568160Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11102,9 +11102,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708862Z"
+    "ingested_at": "2026-11-02T20:32:41.568212Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11159,9 +11159,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708927Z"
+    "ingested_at": "2026-11-02T20:32:41.568261Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11237,9 +11237,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.708981Z"
+    "ingested_at": "2026-11-02T20:32:41.568328Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11301,9 +11301,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.709030Z"
+    "ingested_at": "2026-11-02T20:32:41.568385Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11386,9 +11386,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.709077Z"
+    "ingested_at": "2026-11-02T20:32:41.568435Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11513,9 +11513,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.709123Z"
+    "ingested_at": "2026-11-02T20:32:41.568486Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11577,9 +11577,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.709171Z"
+    "ingested_at": "2026-11-02T20:32:41.568537Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11669,9 +11669,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.709216Z"
+    "ingested_at": "2026-11-02T20:32:41.568588Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11711,9 +11711,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.709262Z"
+    "ingested_at": "2026-11-02T20:32:41.568638Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11789,9 +11789,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.709307Z"
+    "ingested_at": "2026-11-02T20:32:41.568698Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11881,9 +11881,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.709355Z"
+    "ingested_at": "2026-11-02T20:32:41.568750Z"
   },
   {
     "schema_version": "0.1.0",
@@ -11959,9 +11959,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.709400Z"
+    "ingested_at": "2026-11-02T20:32:41.568801Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12051,9 +12051,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.709446Z"
+    "ingested_at": "2026-11-02T20:32:41.568851Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12108,9 +12108,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.709489Z"
+    "ingested_at": "2026-11-02T20:32:41.568901Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12186,9 +12186,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.709532Z"
+    "ingested_at": "2026-11-02T20:32:41.568952Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12228,9 +12228,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.709575Z"
+    "ingested_at": "2026-11-02T20:32:41.569002Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12313,9 +12313,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.709619Z"
+    "ingested_at": "2026-11-02T20:32:41.569057Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12370,9 +12370,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.709672Z"
+    "ingested_at": "2026-11-02T20:32:41.569110Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12420,9 +12420,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.709719Z"
+    "ingested_at": "2026-11-02T20:32:41.569162Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12477,9 +12477,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.709765Z"
+    "ingested_at": "2026-11-02T20:32:41.569218Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12541,9 +12541,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.709812Z"
+    "ingested_at": "2026-11-02T20:32:41.569269Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12654,9 +12654,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.709858Z"
+    "ingested_at": "2026-11-02T20:32:41.569336Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12746,9 +12746,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.709902Z"
+    "ingested_at": "2026-11-02T20:32:41.569397Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12788,9 +12788,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.709959Z"
+    "ingested_at": "2026-11-02T20:32:41.569449Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12880,9 +12880,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710005Z"
+    "ingested_at": "2026-11-02T20:32:41.569499Z"
   },
   {
     "schema_version": "0.1.0",
@@ -12944,9 +12944,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710052Z"
+    "ingested_at": "2026-11-02T20:32:41.569552Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13001,9 +13001,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710099Z"
+    "ingested_at": "2026-11-02T20:32:41.569608Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13079,9 +13079,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710144Z"
+    "ingested_at": "2026-11-02T20:32:41.569660Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13248,9 +13248,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710190Z"
+    "ingested_at": "2026-11-02T20:32:41.569714Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13312,9 +13312,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710234Z"
+    "ingested_at": "2026-11-02T20:32:41.569765Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13376,9 +13376,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710279Z"
+    "ingested_at": "2026-11-02T20:32:41.569817Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13461,9 +13461,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710325Z"
+    "ingested_at": "2026-11-02T20:32:41.569869Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13546,9 +13546,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710371Z"
+    "ingested_at": "2026-11-02T20:32:41.569922Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13638,9 +13638,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710415Z"
+    "ingested_at": "2026-11-02T20:32:41.569974Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13716,9 +13716,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710459Z"
+    "ingested_at": "2026-11-02T20:32:41.570028Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13780,9 +13780,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710503Z"
+    "ingested_at": "2026-11-02T20:32:41.570080Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13858,9 +13858,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710548Z"
+    "ingested_at": "2026-11-02T20:32:41.570134Z"
   },
   {
     "schema_version": "0.1.0",
@@ -13950,9 +13950,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710593Z"
+    "ingested_at": "2026-11-02T20:32:41.570185Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14007,9 +14007,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710643Z"
+    "ingested_at": "2026-11-02T20:32:41.570239Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14078,9 +14078,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710689Z"
+    "ingested_at": "2026-11-02T20:32:41.570306Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14149,9 +14149,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710735Z"
+    "ingested_at": "2026-11-02T20:32:41.570362Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14234,9 +14234,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710780Z"
+    "ingested_at": "2026-11-02T20:32:41.570414Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14305,9 +14305,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710825Z"
+    "ingested_at": "2026-11-02T20:32:41.570468Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14390,9 +14390,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710870Z"
+    "ingested_at": "2026-11-02T20:32:41.570520Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14517,9 +14517,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710915Z"
+    "ingested_at": "2026-11-02T20:32:41.570570Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14574,9 +14574,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.710974Z"
+    "ingested_at": "2026-11-02T20:32:41.570620Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14638,9 +14638,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711023Z"
+    "ingested_at": "2026-11-02T20:32:41.570675Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14730,9 +14730,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711070Z"
+    "ingested_at": "2026-11-02T20:32:41.570731Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14836,9 +14836,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711116Z"
+    "ingested_at": "2026-11-02T20:32:41.570789Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14907,9 +14907,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711163Z"
+    "ingested_at": "2026-11-02T20:32:41.570842Z"
   },
   {
     "schema_version": "0.1.0",
@@ -14999,9 +14999,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711210Z"
+    "ingested_at": "2026-11-02T20:32:41.570893Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15077,9 +15077,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711255Z"
+    "ingested_at": "2026-11-02T20:32:41.570947Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15119,9 +15119,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711301Z"
+    "ingested_at": "2026-11-02T20:32:41.571000Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15176,9 +15176,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711346Z"
+    "ingested_at": "2026-11-02T20:32:41.571051Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15240,9 +15240,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711390Z"
+    "ingested_at": "2026-11-02T20:32:41.571101Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15297,9 +15297,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711434Z"
+    "ingested_at": "2026-11-02T20:32:41.571152Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15396,9 +15396,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711477Z"
+    "ingested_at": "2026-11-02T20:32:41.571206Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15467,9 +15467,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711523Z"
+    "ingested_at": "2026-11-02T20:32:41.571262Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15573,9 +15573,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711568Z"
+    "ingested_at": "2026-11-02T20:32:41.571335Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15672,9 +15672,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711613Z"
+    "ingested_at": "2026-11-02T20:32:41.571392Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15750,9 +15750,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711658Z"
+    "ingested_at": "2026-11-02T20:32:41.571449Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15828,9 +15828,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711703Z"
+    "ingested_at": "2026-11-02T20:32:41.571505Z"
   },
   {
     "schema_version": "0.1.0",
@@ -15920,9 +15920,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711748Z"
+    "ingested_at": "2026-11-02T20:32:41.571556Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16012,9 +16012,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711793Z"
+    "ingested_at": "2026-11-02T20:32:41.571606Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16146,9 +16146,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711839Z"
+    "ingested_at": "2026-11-02T20:32:41.571657Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16210,9 +16210,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711882Z"
+    "ingested_at": "2026-11-02T20:32:41.571707Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16252,9 +16252,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711935Z"
+    "ingested_at": "2026-11-02T20:32:41.571761Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16330,9 +16330,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.711986Z"
+    "ingested_at": "2026-11-02T20:32:41.571816Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16372,9 +16372,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712032Z"
+    "ingested_at": "2026-11-02T20:32:41.571868Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16436,9 +16436,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712077Z"
+    "ingested_at": "2026-11-02T20:32:41.571918Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16493,9 +16493,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712122Z"
+    "ingested_at": "2026-11-02T20:32:41.571967Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16571,9 +16571,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712169Z"
+    "ingested_at": "2026-11-02T20:32:41.572017Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16656,9 +16656,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712216Z"
+    "ingested_at": "2026-11-02T20:32:41.572071Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16727,9 +16727,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712260Z"
+    "ingested_at": "2026-11-02T20:32:41.572125Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16791,9 +16791,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712305Z"
+    "ingested_at": "2026-11-02T20:32:41.572176Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16855,9 +16855,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712348Z"
+    "ingested_at": "2026-11-02T20:32:41.572225Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16912,9 +16912,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712394Z"
+    "ingested_at": "2026-11-02T20:32:41.572278Z"
   },
   {
     "schema_version": "0.1.0",
@@ -16954,9 +16954,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712439Z"
+    "ingested_at": "2026-11-02T20:32:41.572357Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17018,9 +17018,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712482Z"
+    "ingested_at": "2026-11-02T20:32:41.572413Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17096,9 +17096,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712526Z"
+    "ingested_at": "2026-11-02T20:32:41.572463Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17181,9 +17181,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712569Z"
+    "ingested_at": "2026-11-02T20:32:41.572514Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17294,9 +17294,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712613Z"
+    "ingested_at": "2026-11-02T20:32:41.572565Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17372,9 +17372,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712656Z"
+    "ingested_at": "2026-11-02T20:32:41.572619Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17414,9 +17414,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712701Z"
+    "ingested_at": "2026-11-02T20:32:41.572671Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17456,9 +17456,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712746Z"
+    "ingested_at": "2026-11-02T20:32:41.572721Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17562,9 +17562,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712791Z"
+    "ingested_at": "2026-11-02T20:32:41.572776Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17626,9 +17626,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712837Z"
+    "ingested_at": "2026-11-02T20:32:41.572830Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17690,9 +17690,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712881Z"
+    "ingested_at": "2026-11-02T20:32:41.572884Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17789,9 +17789,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712939Z"
+    "ingested_at": "2026-11-02T20:32:41.572935Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17853,9 +17853,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.712992Z"
+    "ingested_at": "2026-11-02T20:32:41.572987Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17910,9 +17910,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713038Z"
+    "ingested_at": "2026-11-02T20:32:41.573040Z"
   },
   {
     "schema_version": "0.1.0",
@@ -17967,9 +17967,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713084Z"
+    "ingested_at": "2026-11-02T20:32:41.573091Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18024,9 +18024,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713128Z"
+    "ingested_at": "2026-11-02T20:32:41.573145Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18088,9 +18088,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713173Z"
+    "ingested_at": "2026-11-02T20:32:41.573197Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18145,9 +18145,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713218Z"
+    "ingested_at": "2026-11-02T20:32:41.573248Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18223,9 +18223,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713261Z"
+    "ingested_at": "2026-11-02T20:32:41.573314Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18315,9 +18315,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713308Z"
+    "ingested_at": "2026-11-02T20:32:41.573376Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18407,9 +18407,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713357Z"
+    "ingested_at": "2026-11-02T20:32:41.573432Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18478,9 +18478,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713405Z"
+    "ingested_at": "2026-11-02T20:32:41.573486Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18549,9 +18549,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713450Z"
+    "ingested_at": "2026-11-02T20:32:41.573538Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18627,9 +18627,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713495Z"
+    "ingested_at": "2026-11-02T20:32:41.573589Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18691,9 +18691,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713541Z"
+    "ingested_at": "2026-11-02T20:32:41.573677Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18797,9 +18797,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713587Z"
+    "ingested_at": "2026-11-02T20:32:41.573733Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18854,9 +18854,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713631Z"
+    "ingested_at": "2026-11-02T20:32:41.573784Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18925,9 +18925,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713677Z"
+    "ingested_at": "2026-11-02T20:32:41.573837Z"
   },
   {
     "schema_version": "0.1.0",
@@ -18996,9 +18996,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713721Z"
+    "ingested_at": "2026-11-02T20:32:41.573888Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19053,9 +19053,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713766Z"
+    "ingested_at": "2026-11-02T20:32:41.573944Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19131,9 +19131,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713810Z"
+    "ingested_at": "2026-11-02T20:32:41.573995Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19188,9 +19188,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713852Z"
+    "ingested_at": "2026-11-02T20:32:41.574047Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19245,9 +19245,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713896Z"
+    "ingested_at": "2026-11-02T20:32:41.574098Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19309,9 +19309,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713950Z"
+    "ingested_at": "2026-11-02T20:32:41.574149Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19366,9 +19366,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.713997Z"
+    "ingested_at": "2026-11-02T20:32:41.574204Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19416,9 +19416,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714042Z"
+    "ingested_at": "2026-11-02T20:32:41.574262Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19487,9 +19487,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714086Z"
+    "ingested_at": "2026-11-02T20:32:41.574331Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19537,9 +19537,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714132Z"
+    "ingested_at": "2026-11-02T20:32:41.574387Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19587,9 +19587,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714176Z"
+    "ingested_at": "2026-11-02T20:32:41.574438Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19637,9 +19637,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714221Z"
+    "ingested_at": "2026-11-02T20:32:41.574495Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19687,9 +19687,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714265Z"
+    "ingested_at": "2026-11-02T20:32:41.574547Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19744,9 +19744,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714308Z"
+    "ingested_at": "2026-11-02T20:32:41.574596Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19786,9 +19786,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714352Z"
+    "ingested_at": "2026-11-02T20:32:41.574645Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19843,9 +19843,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714394Z"
+    "ingested_at": "2026-11-02T20:32:41.574695Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19907,9 +19907,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714437Z"
+    "ingested_at": "2026-11-02T20:32:41.574748Z"
   },
   {
     "schema_version": "0.1.0",
@@ -19992,9 +19992,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714481Z"
+    "ingested_at": "2026-11-02T20:32:41.574803Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20042,9 +20042,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714527Z"
+    "ingested_at": "2026-11-02T20:32:41.574855Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20099,9 +20099,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714571Z"
+    "ingested_at": "2026-11-02T20:32:41.574910Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20163,9 +20163,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714617Z"
+    "ingested_at": "2026-11-02T20:32:41.574961Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20220,9 +20220,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714664Z"
+    "ingested_at": "2026-11-02T20:32:41.575018Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20305,9 +20305,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714713Z"
+    "ingested_at": "2026-11-02T20:32:41.575071Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20362,9 +20362,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714757Z"
+    "ingested_at": "2026-11-02T20:32:41.575121Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20419,9 +20419,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714802Z"
+    "ingested_at": "2026-11-02T20:32:41.575170Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20490,9 +20490,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714847Z"
+    "ingested_at": "2026-11-02T20:32:41.575221Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20547,9 +20547,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714891Z"
+    "ingested_at": "2026-11-02T20:32:41.575275Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20604,9 +20604,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714946Z"
+    "ingested_at": "2026-11-02T20:32:41.575344Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20675,9 +20675,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.714993Z"
+    "ingested_at": "2026-11-02T20:32:41.575397Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20732,9 +20732,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.715037Z"
+    "ingested_at": "2026-11-02T20:32:41.575448Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20782,9 +20782,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.715083Z"
+    "ingested_at": "2026-11-02T20:32:41.575499Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20839,9 +20839,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.715129Z"
+    "ingested_at": "2026-11-02T20:32:41.575561Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20910,9 +20910,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.715174Z"
+    "ingested_at": "2026-11-02T20:32:41.575613Z"
   },
   {
     "schema_version": "0.1.0",
@@ -20974,9 +20974,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.715218Z"
+    "ingested_at": "2026-11-02T20:32:41.575664Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21024,9 +21024,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.715262Z"
+    "ingested_at": "2026-11-02T20:32:41.575715Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21081,9 +21081,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.715310Z"
+    "ingested_at": "2026-11-02T20:32:41.575769Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21131,9 +21131,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.715354Z"
+    "ingested_at": "2026-11-02T20:32:41.575820Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21195,9 +21195,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.715399Z"
+    "ingested_at": "2026-11-02T20:32:41.575870Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21245,9 +21245,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.715442Z"
+    "ingested_at": "2026-11-02T20:32:41.575921Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21295,9 +21295,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.715486Z"
+    "ingested_at": "2026-11-02T20:32:41.575970Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21352,9 +21352,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.715531Z"
+    "ingested_at": "2026-11-02T20:32:41.576024Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21402,9 +21402,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.715576Z"
+    "ingested_at": "2026-11-02T20:32:41.576079Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21466,9 +21466,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.715620Z"
+    "ingested_at": "2026-11-02T20:32:41.576131Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21508,9 +21508,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.715664Z"
+    "ingested_at": "2026-11-02T20:32:41.576181Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21579,9 +21579,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.715708Z"
+    "ingested_at": "2026-11-02T20:32:41.576234Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21664,9 +21664,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.715751Z"
+    "ingested_at": "2026-11-02T20:32:41.576289Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21742,9 +21742,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.715819Z"
+    "ingested_at": "2026-11-02T20:32:41.576365Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21799,9 +21799,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.715867Z"
+    "ingested_at": "2026-11-02T20:32:41.576425Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21856,9 +21856,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.715911Z"
+    "ingested_at": "2026-11-02T20:32:41.576478Z"
   },
   {
     "schema_version": "0.1.0",
@@ -21920,9 +21920,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.715966Z"
+    "ingested_at": "2026-11-02T20:32:41.576528Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22012,9 +22012,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716013Z"
+    "ingested_at": "2026-11-02T20:32:41.576581Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22104,9 +22104,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716060Z"
+    "ingested_at": "2026-11-02T20:32:41.576636Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22161,9 +22161,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716104Z"
+    "ingested_at": "2026-11-02T20:32:41.576688Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22253,9 +22253,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716149Z"
+    "ingested_at": "2026-11-02T20:32:41.576740Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22324,9 +22324,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716195Z"
+    "ingested_at": "2026-11-02T20:32:41.576791Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22381,9 +22381,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716239Z"
+    "ingested_at": "2026-11-02T20:32:41.576840Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22466,9 +22466,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716284Z"
+    "ingested_at": "2026-11-02T20:32:41.576894Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22537,9 +22537,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716327Z"
+    "ingested_at": "2026-11-02T20:32:41.576949Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22601,9 +22601,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716373Z"
+    "ingested_at": "2026-11-02T20:32:41.577001Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22672,9 +22672,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716418Z"
+    "ingested_at": "2026-11-02T20:32:41.577051Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22764,9 +22764,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716466Z"
+    "ingested_at": "2026-11-02T20:32:41.577105Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22842,9 +22842,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716516Z"
+    "ingested_at": "2026-11-02T20:32:41.577160Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22906,9 +22906,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716560Z"
+    "ingested_at": "2026-11-02T20:32:41.577212Z"
   },
   {
     "schema_version": "0.1.0",
@@ -22984,9 +22984,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716604Z"
+    "ingested_at": "2026-11-02T20:32:41.577262Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23083,9 +23083,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716647Z"
+    "ingested_at": "2026-11-02T20:32:41.577327Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23133,9 +23133,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716690Z"
+    "ingested_at": "2026-11-02T20:32:41.577386Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23218,9 +23218,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716734Z"
+    "ingested_at": "2026-11-02T20:32:41.577438Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23275,9 +23275,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716779Z"
+    "ingested_at": "2026-11-02T20:32:41.577489Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23346,9 +23346,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716823Z"
+    "ingested_at": "2026-11-02T20:32:41.577538Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23396,9 +23396,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716867Z"
+    "ingested_at": "2026-11-02T20:32:41.577588Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23438,9 +23438,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716911Z"
+    "ingested_at": "2026-11-02T20:32:41.577646Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23530,9 +23530,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.716972Z"
+    "ingested_at": "2026-11-02T20:32:41.577700Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23622,9 +23622,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717020Z"
+    "ingested_at": "2026-11-02T20:32:41.577751Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23700,9 +23700,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717067Z"
+    "ingested_at": "2026-11-02T20:32:41.577801Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23742,9 +23742,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717113Z"
+    "ingested_at": "2026-11-02T20:32:41.577851Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23792,9 +23792,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717157Z"
+    "ingested_at": "2026-11-02T20:32:41.577902Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23842,9 +23842,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717201Z"
+    "ingested_at": "2026-11-02T20:32:41.577957Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23899,9 +23899,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717245Z"
+    "ingested_at": "2026-11-02T20:32:41.578015Z"
   },
   {
     "schema_version": "0.1.0",
@@ -23949,9 +23949,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717289Z"
+    "ingested_at": "2026-11-02T20:32:41.578065Z"
   },
   {
     "schema_version": "0.1.0",
@@ -24006,9 +24006,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717333Z"
+    "ingested_at": "2026-11-02T20:32:41.578121Z"
   },
   {
     "schema_version": "0.1.0",
@@ -24070,9 +24070,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717376Z"
+    "ingested_at": "2026-11-02T20:32:41.578172Z"
   },
   {
     "schema_version": "0.1.0",
@@ -24141,9 +24141,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717421Z"
+    "ingested_at": "2026-11-02T20:32:41.578226Z"
   },
   {
     "schema_version": "0.1.0",
@@ -24212,9 +24212,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717464Z"
+    "ingested_at": "2026-11-02T20:32:41.578282Z"
   },
   {
     "schema_version": "0.1.0",
@@ -24269,9 +24269,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717507Z"
+    "ingested_at": "2026-11-02T20:32:41.578352Z"
   },
   {
     "schema_version": "0.1.0",
@@ -24311,9 +24311,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717552Z"
+    "ingested_at": "2026-11-02T20:32:41.578404Z"
   },
   {
     "schema_version": "0.1.0",
@@ -24396,9 +24396,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717599Z"
+    "ingested_at": "2026-11-02T20:32:41.578454Z"
   },
   {
     "schema_version": "0.1.0",
@@ -24551,9 +24551,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717648Z"
+    "ingested_at": "2026-11-02T20:32:41.578508Z"
   },
   {
     "schema_version": "0.1.0",
@@ -24643,9 +24643,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717692Z"
+    "ingested_at": "2026-11-02T20:32:41.578560Z"
   },
   {
     "schema_version": "0.1.0",
@@ -24735,9 +24735,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717736Z"
+    "ingested_at": "2026-11-02T20:32:41.578610Z"
   },
   {
     "schema_version": "0.1.0",
@@ -24834,9 +24834,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717781Z"
+    "ingested_at": "2026-11-02T20:32:41.578664Z"
   },
   {
     "schema_version": "0.1.0",
@@ -24884,9 +24884,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717825Z"
+    "ingested_at": "2026-11-02T20:32:41.578716Z"
   },
   {
     "schema_version": "0.1.0",
@@ -24955,9 +24955,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717871Z"
+    "ingested_at": "2026-11-02T20:32:41.578769Z"
   },
   {
     "schema_version": "0.1.0",
@@ -25040,9 +25040,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717916Z"
+    "ingested_at": "2026-11-02T20:32:41.578828Z"
   },
   {
     "schema_version": "0.1.0",
@@ -25104,9 +25104,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.717972Z"
+    "ingested_at": "2026-11-02T20:32:41.578878Z"
   },
   {
     "schema_version": "0.1.0",
@@ -25175,9 +25175,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718018Z"
+    "ingested_at": "2026-11-02T20:32:41.578929Z"
   },
   {
     "schema_version": "0.1.0",
@@ -25260,9 +25260,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718063Z"
+    "ingested_at": "2026-11-02T20:32:41.578982Z"
   },
   {
     "schema_version": "0.1.0",
@@ -25317,9 +25317,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718108Z"
+    "ingested_at": "2026-11-02T20:32:41.579034Z"
   },
   {
     "schema_version": "0.1.0",
@@ -25402,9 +25402,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718153Z"
+    "ingested_at": "2026-11-02T20:32:41.579088Z"
   },
   {
     "schema_version": "0.1.0",
@@ -25494,9 +25494,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718201Z"
+    "ingested_at": "2026-11-02T20:32:41.579139Z"
   },
   {
     "schema_version": "0.1.0",
@@ -25586,9 +25586,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718247Z"
+    "ingested_at": "2026-11-02T20:32:41.579195Z"
   },
   {
     "schema_version": "0.1.0",
@@ -25650,9 +25650,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718294Z"
+    "ingested_at": "2026-11-02T20:32:41.579247Z"
   },
   {
     "schema_version": "0.1.0",
@@ -25728,9 +25728,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718340Z"
+    "ingested_at": "2026-11-02T20:32:41.579314Z"
   },
   {
     "schema_version": "0.1.0",
@@ -25785,9 +25785,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718384Z"
+    "ingested_at": "2026-11-02T20:32:41.579372Z"
   },
   {
     "schema_version": "0.1.0",
@@ -25856,9 +25856,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718428Z"
+    "ingested_at": "2026-11-02T20:32:41.579422Z"
   },
   {
     "schema_version": "0.1.0",
@@ -25920,9 +25920,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718472Z"
+    "ingested_at": "2026-11-02T20:32:41.579473Z"
   },
   {
     "schema_version": "0.1.0",
@@ -26012,9 +26012,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718515Z"
+    "ingested_at": "2026-11-02T20:32:41.579524Z"
   },
   {
     "schema_version": "0.1.0",
@@ -26118,9 +26118,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718559Z"
+    "ingested_at": "2026-11-02T20:32:41.579575Z"
   },
   {
     "schema_version": "0.1.0",
@@ -26329,9 +26329,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718605Z"
+    "ingested_at": "2026-11-02T20:32:41.579630Z"
   },
   {
     "schema_version": "0.1.0",
@@ -26463,9 +26463,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718651Z"
+    "ingested_at": "2026-11-02T20:32:41.579685Z"
   },
   {
     "schema_version": "0.1.0",
@@ -26527,9 +26527,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718696Z"
+    "ingested_at": "2026-11-02T20:32:41.579741Z"
   },
   {
     "schema_version": "0.1.0",
@@ -26584,9 +26584,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718741Z"
+    "ingested_at": "2026-11-02T20:32:41.579793Z"
   },
   {
     "schema_version": "0.1.0",
@@ -26676,9 +26676,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718787Z"
+    "ingested_at": "2026-11-02T20:32:41.579850Z"
   },
   {
     "schema_version": "0.1.0",
@@ -26768,9 +26768,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718832Z"
+    "ingested_at": "2026-11-02T20:32:41.579903Z"
   },
   {
     "schema_version": "0.1.0",
@@ -26832,9 +26832,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718876Z"
+    "ingested_at": "2026-11-02T20:32:41.579954Z"
   },
   {
     "schema_version": "0.1.0",
@@ -26910,9 +26910,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718926Z"
+    "ingested_at": "2026-11-02T20:32:41.580003Z"
   },
   {
     "schema_version": "0.1.0",
@@ -27002,9 +27002,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.718975Z"
+    "ingested_at": "2026-11-02T20:32:41.580052Z"
   },
   {
     "schema_version": "0.1.0",
@@ -27066,9 +27066,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719021Z"
+    "ingested_at": "2026-11-02T20:32:41.580102Z"
   },
   {
     "schema_version": "0.1.0",
@@ -27123,9 +27123,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719067Z"
+    "ingested_at": "2026-11-02T20:32:41.580155Z"
   },
   {
     "schema_version": "0.1.0",
@@ -27194,9 +27194,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719114Z"
+    "ingested_at": "2026-11-02T20:32:41.580209Z"
   },
   {
     "schema_version": "0.1.0",
@@ -27300,9 +27300,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719160Z"
+    "ingested_at": "2026-11-02T20:32:41.580260Z"
   },
   {
     "schema_version": "0.1.0",
@@ -27385,9 +27385,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719206Z"
+    "ingested_at": "2026-11-02T20:32:41.580326Z"
   },
   {
     "schema_version": "0.1.0",
@@ -27449,9 +27449,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719252Z"
+    "ingested_at": "2026-11-02T20:32:41.580393Z"
   },
   {
     "schema_version": "0.1.0",
@@ -27534,9 +27534,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719297Z"
+    "ingested_at": "2026-11-02T20:32:41.580446Z"
   },
   {
     "schema_version": "0.1.0",
@@ -27605,9 +27605,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719341Z"
+    "ingested_at": "2026-11-02T20:32:41.580497Z"
   },
   {
     "schema_version": "0.1.0",
@@ -27662,9 +27662,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719386Z"
+    "ingested_at": "2026-11-02T20:32:41.580547Z"
   },
   {
     "schema_version": "0.1.0",
@@ -27768,9 +27768,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719431Z"
+    "ingested_at": "2026-11-02T20:32:41.580596Z"
   },
   {
     "schema_version": "0.1.0",
@@ -27860,9 +27860,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719476Z"
+    "ingested_at": "2026-11-02T20:32:41.580646Z"
   },
   {
     "schema_version": "0.1.0",
@@ -27924,9 +27924,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719521Z"
+    "ingested_at": "2026-11-02T20:32:41.580700Z"
   },
   {
     "schema_version": "0.1.0",
@@ -27988,9 +27988,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719567Z"
+    "ingested_at": "2026-11-02T20:32:41.580757Z"
   },
   {
     "schema_version": "0.1.0",
@@ -28073,9 +28073,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719611Z"
+    "ingested_at": "2026-11-02T20:32:41.580808Z"
   },
   {
     "schema_version": "0.1.0",
@@ -28144,9 +28144,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719661Z"
+    "ingested_at": "2026-11-02T20:32:41.580859Z"
   },
   {
     "schema_version": "0.1.0",
@@ -28208,9 +28208,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719711Z"
+    "ingested_at": "2026-11-02T20:32:41.580912Z"
   },
   {
     "schema_version": "0.1.0",
@@ -28279,9 +28279,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719757Z"
+    "ingested_at": "2026-11-02T20:32:41.580964Z"
   },
   {
     "schema_version": "0.1.0",
@@ -28343,9 +28343,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719802Z"
+    "ingested_at": "2026-11-02T20:32:41.581018Z"
   },
   {
     "schema_version": "0.1.0",
@@ -28414,9 +28414,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719847Z"
+    "ingested_at": "2026-11-02T20:32:41.581070Z"
   },
   {
     "schema_version": "0.1.0",
@@ -28485,9 +28485,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719891Z"
+    "ingested_at": "2026-11-02T20:32:41.581121Z"
   },
   {
     "schema_version": "0.1.0",
@@ -28542,9 +28542,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719944Z"
+    "ingested_at": "2026-11-02T20:32:41.581171Z"
   },
   {
     "schema_version": "0.1.0",
@@ -28606,9 +28606,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.719995Z"
+    "ingested_at": "2026-11-02T20:32:41.581221Z"
   },
   {
     "schema_version": "0.1.0",
@@ -28684,9 +28684,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.720045Z"
+    "ingested_at": "2026-11-02T20:32:41.581277Z"
   },
   {
     "schema_version": "0.1.0",
@@ -28762,9 +28762,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.720090Z"
+    "ingested_at": "2026-11-02T20:32:41.581348Z"
   },
   {
     "schema_version": "0.1.0",
@@ -28819,9 +28819,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.720135Z"
+    "ingested_at": "2026-11-02T20:32:41.581401Z"
   },
   {
     "schema_version": "0.1.0",
@@ -28869,9 +28869,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.720180Z"
+    "ingested_at": "2026-11-02T20:32:41.581455Z"
   },
   {
     "schema_version": "0.1.0",
@@ -28926,9 +28926,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.720224Z"
+    "ingested_at": "2026-11-02T20:32:41.581506Z"
   },
   {
     "schema_version": "0.1.0",
@@ -29011,9 +29011,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.720268Z"
+    "ingested_at": "2026-11-02T20:32:41.581561Z"
   },
   {
     "schema_version": "0.1.0",
@@ -29068,9 +29068,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.720312Z"
+    "ingested_at": "2026-11-02T20:32:41.581612Z"
   },
   {
     "schema_version": "0.1.0",
@@ -29125,9 +29125,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.720358Z"
+    "ingested_at": "2026-11-02T20:32:41.581662Z"
   },
   {
     "schema_version": "0.1.0",
@@ -29189,9 +29189,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.720402Z"
+    "ingested_at": "2026-11-02T20:32:41.581715Z"
   },
   {
     "schema_version": "0.1.0",
@@ -29246,9 +29246,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.720447Z"
+    "ingested_at": "2026-11-02T20:32:41.581768Z"
   },
   {
     "schema_version": "0.1.0",
@@ -29324,9 +29324,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.720493Z"
+    "ingested_at": "2026-11-02T20:32:41.581825Z"
   },
   {
     "schema_version": "0.1.0",
@@ -29366,9 +29366,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.720539Z"
+    "ingested_at": "2026-11-02T20:32:41.581877Z"
   },
   {
     "schema_version": "0.1.0",
@@ -29437,9 +29437,9 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.720583Z"
+    "ingested_at": "2026-11-02T20:32:41.581928Z"
   },
   {
     "schema_version": "0.1.0",
@@ -29508,8 +29508,8 @@
       "landing_url": "https://data.lacounty.gov/datasets/19b6607ac82c4512b10811870975dbdc/about",
       "extraction_method": "flat_file",
       "source_dataset_id": null,
-      "extracted_at": "2026-10-26T17:02:17.682215Z"
+      "extracted_at": "2026-11-02T20:32:19.717888Z"
     },
-    "ingested_at": "2026-10-26T17:02:34.720627Z"
+    "ingested_at": "2026-11-02T20:32:41.581982Z"
   }
 ]
